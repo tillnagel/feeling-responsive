@@ -3,25 +3,20 @@
   class: icon-github
   title: Code und mehr...
 
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+- name: Pinterest
+  url: http://www.pinterest.com/
+  class: icon-pinterest
+  title: ""
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/tillnm
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Twitter von Till Nagel"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
-
-- name: Phlow YouTube Google+
-  url: https://plus.google.com/u/0/+Phlow
-  class: icon-googleplus
-  title: "YouTube Google+"
+- name: Vimeo
+  url: https://vimeo.com/album/3982355
+  class: icon-vimeo
+  title: "Projektvideos"
 
 # - name: Facebook
 #   url: http://www.facebook.com/
@@ -38,10 +33,6 @@
 #   class: icon-instagram
 #   title: ""
 
-# - name: Pinterest
-#   url: http://www.pinterest.com/
-#   class: icon-pinterest
-#   title: ""
 
 # - name: Xing
 #   url: https://www.xing.com/profile/
