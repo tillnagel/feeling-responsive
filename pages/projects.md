@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title:  "Urbane Ebenen"
+title:  "Urbane Ebenen (projects.md)"
 subheadline:  "Projektblog MM|VR Design 2016"
 teaser: "Im Kurs wurden anhand aktueller Design- und Forschungsansätze der Datenvisualisierung neue Konzepte entwickelt, um Menschen einen visuellen und greifbaren Zugang zur Stadt zu geben. Diese Seite stellt die von den Studierenden gestalteten Projekte vor."
 permalink: /projects/

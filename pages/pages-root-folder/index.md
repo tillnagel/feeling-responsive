@@ -1,43 +1,56 @@
 ---
-#
-# Use the widgets beneath and the content will be
-# inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage
-#
-layout: frontpage
-header:
-  image_fullwidth: header_unsplash_12.jpg
-widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
-widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
-widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
-widget4:
-  title: "Lala Something else"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'#
+layout: page-fullwidth
+title:  "Urbane Ebenen"
+subheadline:  "Projektblog MM|VR Design 2016"
+teaser: "Im Kurs wurden anhand aktueller Design- und Forschungsansätze der Datenvisualisierung neue Konzepte entwickelt, um Menschen einen visuellen und greifbaren Zugang zur Stadt zu geben. Diese Seite stellt die von den Studierenden gestalteten Projekte vor."
 permalink: /index.html
-#
-# This is a nasty hack to make the navigation highlight
-# this page as active in the topbar navigation
-#
-homepage: true
+header: no
 ---
+*Urbane Ebenen* ist ein Kurs unter der Leitung von Gastprofessor Dr. [Till Nagel][1], mit Unterstützung von Mathias Jüsche.<br/>Sommersemester 2016,  Burg Giebichenstein Kunsthochschule Halle, am Studiengang [Multimedia|VR-Design][2].
+<!--more-->
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
+<div class="row t60">
+    <div class="medium-4 columns b30">
+      <a href="http://phlow.github.io/feeling-responsive/blog/">
+        <img src="{{ site.urlimg }}/project-mathias.jpg" />
+        <h2 class="font-size-h3 t10">Radial Tree Places</h2>
+        <p>Lorem ipsum dolores sit amet.</p>
+      </a>
+    </div>
+    <div class="medium-4 columns b30">
+        <img src="{{ site.urlimg }}/project-sophiemel.jpg" />
+        <h2 class="font-size-h3 t10">Wegbegleiter</h2>
+        <p>Lorem ipsum dolores sit amet.</p>
+    </div>
+    <div class="medium-4 columns b30">
+        <img src="{{ site.urlimg }}/project-marcel.jpg" />
+        <h2 class="font-size-h3 t10">Neue Gefühle</h2>
+        <p>Visueller Vergleich der Sentiments und Bilder von Nachrichtenseiten.</p>
+    </div>
 </div>
+
+
+{% for post in site.categories.projects %}
+{% assign rowfinder = forloop.index | modulo: 3 %}
+{% if rowfinder == 1 %}
+<div class="row">
+{% endif %}
+    <div class="medium-4 columns b30" style="float:left">
+        <a href="{{ site.url }}{{ post.url }}">
+        <img src="{{ site.urlimg }}/{{post.image.title}}" />
+        <h2 class="font-size-h3 t10">{{ post.title }} ({{forloop.index}})</h2>
+        <p>{{ post.subheadline }}</p>
+        </a>
+    </div>
+{% if rowfinder == 0 %}
+</div>
+{% endif %}
+{% endfor %}
+{% if rowfinder != 0 %}
+</div>
+{% endif %}
+
+
+
+[1]: http://www.tillnagel.com
+[2]: http://www.burg-halle.de/design/multimediavr-design/
