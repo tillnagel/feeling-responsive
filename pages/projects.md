@@ -12,7 +12,11 @@ header: no
 {% for post in site.categories.projects %}
 {% assign rowfinder = forloop.index | modulo: 3 %}
 {% if rowfinder == 1 %}
-<div class="row">
+  {% if forloop.index == 1 %}
+  <div class="row t60">
+  {% else %}
+  <div class="row">
+  {% endif %}
 {% endif %}
     <div class="medium-4 columns b30" style="float:left">
         <a href="{{ site.url }}{{ post.url }}">
