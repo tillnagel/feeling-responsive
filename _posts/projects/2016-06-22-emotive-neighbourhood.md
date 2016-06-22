@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "eneighbourhoods-lane.jpg"
+title:  "eneighbourhood_lane.jpg"
 subheadline: Die gefühlte Lebensqualität in Halle an der Saale
 teaser: "Eine Momentaufnahme der <em>gefühlten Lebensqualität</em> in Halle an der Saale."
 header: no
