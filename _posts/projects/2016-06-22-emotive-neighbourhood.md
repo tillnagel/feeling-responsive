@@ -7,7 +7,7 @@ header: no
 show_meta: false
 categories:
     - projects
-image:eneighbourhood_lane.jpg
+image: eneighbourhood_lane.jpg
     title: Emotive Neighbourhood
     caption: Emotive Neighbourhood
 author: Christopher
