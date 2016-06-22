@@ -24,9 +24,10 @@ Three high-resolution screens show the space of flows of New York City, Berlin, 
 * A small-multiple view visualizes spatiotemporal patterns for three selected stations each in an exploded view that separates incoming from outgoing and morning from afternoon/evening trips.
 
 <figure>
-  <img src="{{ site.urlimg }}/cf-view2-london-draft.jpg" />
-  <figcaption >Eine Bildbeschreibung</figcaption>
+  <img src="{{ site.urlimg }}/indexical-vis.jpg />
+  <figcaption >Beispiel-Bild</figcaption>
 </figure>
+
 
 
 ## Design Process
