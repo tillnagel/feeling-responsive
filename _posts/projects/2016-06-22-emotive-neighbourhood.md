@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Emotive Neighbourhood"
+title:  "eneighbourhoods-lane.jpg"
 subheadline: Die gefühlte Lebensqualität in Halle an der Saale
 teaser: "Eine Momentaufnahme der <em>gefühlten Lebensqualität</em> in Halle an der Saale."
 header: no
@@ -8,8 +8,8 @@ show_meta: false
 categories:
     - projects
 image:
-    title: keins.jpg
-    caption: folgt noch
+    title: eneighbourhoods-lane.jpg
+    caption: Emotive Neighbourhood
 author: Christopher
 ---
 
