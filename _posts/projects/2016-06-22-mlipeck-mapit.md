@@ -2,7 +2,6 @@
 layout: page
 title:  "Map it"
 subheadline: Hierarchische Visualisierung besuchter Orte.
-#teaser: "Entstanden ist das Projekt durch die Suche nach alternativen Darstellungsformen von nutzerbezogenen Daten."
 teaser: "Eine neuartige Visualisierung von besuchten Orten als hierarchische Circular Tree Map, um eine persönliche Karte zu erstellen."
 header: no
 show_meta: false
@@ -11,33 +10,24 @@ categories:
 image:
     title: mapit.jpg
     caption: Erste Entwurf von Map it
-author: Mathias Lipeck
+author: Matthias Lipeck
 ---
 
 Zur Zeit gibt es einige eindrucksvolle Projekte, im Bereich personenbezogener Geodaten, wie [visits](http://v.isits.in) oder [Shifted Maps](http://shifted-maps.com). Beide Projekte inspirierten in ihre jeweiligen besonderen Art der Datenaufbereitung und der damit verbundenen Zugänglichkeit für den Betrachter.
 
 
-„Map it“ stellt die von dem Nutzer besuchten Orte dar. Dabei wird eine Darstellungsart genutzt die auf Wegebeziehungen zwischen den Orten verzichtet und dadurch das Hauptaugenmerk auf die besuchten Orte legt. Dadurch entsteht eine neue Karte für den Nutzer, seine Karte. Diese Form der Darstellung ist inspiriert durch Guy Debord, dem es nicht um die Abbildung der verschiedenen Wegeverbindungen zwischen den Orten ging sondern um die erreichten Orte, die in einer Gesamtkarten dargestellt werden. Mit dieser Idee der Kartendarstellung ist Debord eine wichtige Person der Psychogeographie.
+„Map it“ stellt die von dem Nutzer besuchten Orte dar. Dabei wird eine Darstellungsart genutzt, die auf Wegebeziehungen zwischen den Orten verzichtet und dadurch das Hauptaugenmerk auf die besuchten Orte legt.
+Dadurch entsteht eine neue Karte für den Nutzer - seine Karte. Diese Form der Darstellung ist inspiriert durch Guy Debord, dem es nicht um die exakte Abbildung der Entfernungen zwischen Orten und ihren räumlichen Positionen zueinander ging, sondern um die erreichten Orte, die in einer Gesamtkarte dargestellt werden. Mit dieser Idee der Kartendarstellung ist Debord eine wichtige Person der Psychogeographie.
 
-„Map it“ visualisiert die besuchten Orte in einer Circular TreeMap, einer speziellen Darstellungsform der TreeMap, die von Ben Shneidermann entworfen wurde. In einer TreeMap werden mit Hilfe von in sich verschachtelten Rechtecken Größenverhältnisse hierarchischer Daten abgebildet. Die Größe des Rechteckes ist proportional abhängig von der Menge des jeweiligen Datentyps.
+„Map it“ nutzt Daten, welche durch die App „Moves“ auf dem Smartphone erfasst werden. Die besuchten Orte werden anschließend in der Circular TreeMap visualisiert. Dabei werden die Orte in einer hierarchische Darstellung geclustert. Somit beinhaltet der äußerste Kreis alle besuchten Orte, während die Größe jedes einzelnen Kreises den Gesamtaufenthalt des jeweiligen Ortes visualisiert. Ein Beispiel der hierarchischen Darstellung: Land → Region → Stadt → Stadtteile → einzelne Orte. Die Größe der Kreise in der Circular TreeMap ist proportional abhängig von der Häufigkeit oder der Dauer der jeweiligen besuchten Orte. Das heißt, je öfter oder je länger ein Ort besucht wird, um so größer ist der Kreis und die ihm zu Grunde liegenden geographischen Karten.
 
-„Map it“ nutzt Daten, welche durch die App Moves auf dem Smartphone erfasst werden. Die besuchten Orte werden dann in einer Circular TreeMap visualisiert. Dabei werden die Orte in einer hierarchische Darstellung geclustert. Somit bildet der äusserste Kreis die Summe alle Orte ab. Jeder weitere Kreis stellt mit seinen verschachtelten innenliegenden Kreisen jeden weiteren Ort dar. Ein Beispiel: Land → Region → Stadt → Stadtteile → einzelne Orte. Die Größe der Kreise in der Circular TreeMap ist proportional abhängig von der Häufigkeit oder der Dauer der jeweiligen besuchten Orte. Das heißt, je öfter oder je länger ein Ort besucht wird um so größer ist der Kreis und die ihm zu Grunde liegenden geographischen Karten.
-Die in der App Moves gesammelten Daten werden über eine API ausgelesen und auf einer Webseite in der Circular TreeMap aufgearbeitet und ausgegeben. Die Webseite biete neben der graphischen Darstellung auch die Möglichkeit der Interaktion, wie zum Beispiel das Zoomen auf die jeweiligen besuchten Orte oder das Abrufen von weiteren Informationen wie die Dauer, die Anzahl der Besuche oder die Zeiträume der Datenaufzeichnung auf die sich die Werte beziehen.
+Die in der App Moves gesammelten Daten werden über eine API ausgelesen und auf einer Webseite in der Circular TreeMap aufgearbeitet und ausgegeben. Die Webseite bietet neben der graphischen Darstellung auch die Möglichkeit der Interaktion, wie zum Beispiel das Zoomen auf die jeweiligen besuchten Orte oder das Abrufen von weiteren Informationen wie die Dauer sowie die Anzahl der Besuche oder die Zeiträume der Datenaufzeichnung auf die sich die Werte beziehen.
 
 „Map it“ wurde prototypisch mit Processing, Unfolding Maps, D3.js umgesetzt.
 
-<!-- ## Visualization Design
-*cf. city flows* has three viewing modes, all visualizing trips of rented bikes, but focusing on different levels of spatial and temporal granularity of cycling mobility:
-
-* The citywide view aggregates all trajectories of bike-sharing trips for a given day and animates the trails for trips at a given time.
-* In the station view only the bike trips to and from a selected station are shown, allowing the distinction between incoming and outgoing.
-* A small-multiple view visualizes spatiotemporal patterns for three selected stations each in an exploded view that separates incoming from outgoing and morning from afternoon/evening trips.
-
+<!--
 <figure>
   <img src="{{ site.urlimg }}/radialtreeplaces.jpg" />
   <figcaption >Eine Bildbeschreibung</figcaption>
 </figure>
-
-
-## Design Process
-In our process of exploring the bike data, and designing the visualizations we created lots of visual experiments. Some of those we share below. -->
+-->
