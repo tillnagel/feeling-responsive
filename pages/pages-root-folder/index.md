@@ -22,7 +22,9 @@ header: no
         <a href="{{ site.url }}{{ post.url }}">
         <img src="{{ site.urlimg }}/{{post.image.title}}" />
         <h2 class="font-size-h3 t10">{{ post.title }}</h2>
-        <p>{{ post.subheadline }}</p>
+        <p>{{ post.subheadline }}<br/>
+          <em>{{ post.author }}</em>
+        </p>
         </a>
     </div>
 {% if rowfinder == 0 %}

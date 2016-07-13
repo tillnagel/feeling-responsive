@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "cf. city flows"
-subheadline: A comparative visualization of urban bike mobility
+title:  "Outer Space"
+subheadline: Visualisierung der Länder von Satelliten.
 teaser: "<em>cf. city flows</em> is a comparative visualization environment of urban bike mobility designed to help citizens casually analyze three bike-sharing systems in the context of a public exhibition space."
 header: no
 show_meta: false
@@ -10,7 +10,7 @@ categories:
 image:
     title: cfcityflows-nyc.jpg
     caption: Citywide view showing bike trajectories
-author: Till Nagel
+author: Antonia Gluschak
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eleifend interdum turpis blandit vehicula. Vestibulum sit amet lacus enim. Sed lobortis consectetur lectus, id posuere neque venenatis eget. Mauris accumsan orci vel gravida venenatis. Curabitur elit urna, consequat ut dolor et, eleifend mattis mauris. Suspendisse porttitor, velit a mattis ultrices, ipsum mauris placerat orci, eu sagittis nulla est sed nunc. Phasellus ac ultrices diam. Aenean convallis dolor nec sem dictum, et gravida quam scelerisque. Proin arcu nisi, dictum eu suscipit sed, ornare et lacus. Quisque sed est vel nisl tempus eleifend. Sed facilisis dui sem, sed rutrum mauris mattis eget. Donec eleifend ultricies eros ac iaculis. Fusce iaculis, odio eu viverra eleifend, nisl urna vulputate dui, eleifend venenatis massa dui id ipsum.

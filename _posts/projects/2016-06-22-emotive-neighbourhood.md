@@ -1,16 +1,16 @@
 ---
 layout: page
-title:  "eneighbourhood_lane.jpg"
+title:  "Beyond the Books - Discovering Halle"
 subheadline: Die gefühlte Lebensqualität in Halle an der Saale
 teaser: "Eine Momentaufnahme der <em>gefühlten Lebensqualität</em> in Halle an der Saale."
 header: no
 show_meta: false
 categories:
     - projects
-image: eneighbourhood_lane.jpg
-    title: Emotive Neighbourhood
+image:
+    title: cfcityflows-nyc.jpg
     caption: Emotive Neighbourhood
-author: Christopher
+author: Christopher David Lane
 ---
 
 Three high-resolution screens show the space of flows of New York City, Berlin, and London through visualizing bike sharing systems of these world cities. By showing the flow of multiple cities side by side, we can compare their extent and dynamics. Tracing urban movements accentuates different urban structures, and contrasts grid-plan cities like New York with historically grown cities such as Berlin. It also enables us to observe and dwell on similarities and differences in various bike-sharing systems. With our visualizations we want to understand the pulse of urban mobility, and create portraits of a city defined by its transient dynamics.

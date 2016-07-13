@@ -10,7 +10,7 @@ categories:
 image:
     title: cfcityflows-nyc.jpg
     caption: Citywide view showing bike trajectories
-author: martinrudat
+author: Martin Rudat
 ---
 
 Three high-resolution screens show the space of flows of New York City, Berlin, and London through visualizing bike sharing systems of these world cities. By showing the flow of multiple cities side by side, we can compare their extent and dynamics. Tracing urban movements accentuates different urban structures, and contrasts grid-plan cities like New York with historically grown cities such as Berlin. It also enables us to observe and dwell on similarities and differences in various bike-sharing systems. With our visualizations we want to understand the pulse of urban mobility, and create portraits of a city defined by its transient dynamics.

@@ -1,16 +1,16 @@
 ---
 layout: page
-title:  "Feel Connected"
-subheadline: A visualization to feel connected.
-teaser: "<em>Feel Connected</em> visualized your surroundings and helps you to find events..."
+title:  "Surround Found"
+subheadline: Findet Events in eurer unmittelbaren Nähe und entdeckt die Stadt
+teaser: "<em>cf. city flows</em> is a comparative visualization environment of urban bike mobility designed to help citizens casually analyze three bike-sharing systems in the context of a public exhibition space."
 header: no
 show_meta: false
 categories:
     - projects
 image:
     title: feel-connected.jpg
-    caption: Tapping on the circular map to find events.
-author: till
+    caption: Citywide view showing bike trajectories
+author: Melanie Miksch &amp; Sophie Parschat
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eleifend interdum turpis blandit vehicula. Vestibulum sit amet lacus enim. Sed lobortis consectetur lectus, id posuere neque venenatis eget. Mauris accumsan orci vel gravida venenatis. Curabitur elit urna, consequat ut dolor et, eleifend mattis mauris. Suspendisse porttitor, velit a mattis ultrices, ipsum mauris placerat orci, eu sagittis nulla est sed nunc. Phasellus ac ultrices diam. Aenean convallis dolor nec sem dictum, et gravida quam scelerisque. Proin arcu nisi, dictum eu suscipit sed, ornare et lacus. Quisque sed est vel nisl tempus eleifend. Sed facilisis dui sem, sed rutrum mauris mattis eget. Donec eleifend ultricies eros ac iaculis. Fusce iaculis, odio eu viverra eleifend, nisl urna vulputate dui, eleifend venenatis massa dui id ipsum.
