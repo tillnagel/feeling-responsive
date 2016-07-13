@@ -1,11 +1,7 @@
-- title: Start
+- title: Alle Projekte
   url: "/"
   side: left
 
-- title: "Projekte"
-  url: "/projects/"
-  side: left
-
 - title: "About"
-  url: "/contact/"
+  url: "/"
   side: right

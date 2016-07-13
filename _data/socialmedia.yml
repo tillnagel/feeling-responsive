@@ -1,22 +1,22 @@
-- name: GitHub
-  url: http://github.com/phlow
-  class: icon-github
-  title: Code und mehr...
+#- name: GitHub
+#  url: http://github.com/phlow
+  #class: icon-github
+#  title: Code und mehr...
 
-- name: Pinterest
-  url: http://www.pinterest.com/
-  class: icon-pinterest
-  title: ""
+#- name: Pinterest
+#  url: http://www.pinterest.com/
+#  class: icon-pinterest
+#  title: ""
 
-- name: Twitter
-  url: http://twitter.com/tillnm
-  class: icon-twitter
-  title: "Twitter von Till Nagel"
+#- name: Twitter
+#  url: http://twitter.com/tillnm
+#  class: icon-twitter
+#  title: "Twitter von Till Nagel"
 
-- name: Vimeo
-  url: https://vimeo.com/album/3982355
-  class: icon-vimeo
-  title: "Projektvideos"
+#- name: Vimeo
+#  url: https://vimeo.com/album/3982355
+#  class: icon-vimeo
+#  title: "Projektvideos"
 
 # - name: Facebook
 #   url: http://www.facebook.com/
