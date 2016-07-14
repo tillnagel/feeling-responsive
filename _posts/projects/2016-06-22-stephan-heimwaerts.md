@@ -2,18 +2,47 @@
 layout: page
 title:  "Heimwaerts"
 subheadline: Atlas der Mitfahrgelegenheiten
-teaser: "<em>Heimwaerts</em> kennt keine Richtung."
+teaser: " <em>heimwaerts</em> ist kein Ort,
+heimwaerts ist eine Richtung.
+Es ist ein Gefühl, eine Mission, ein Glaube.
+heimwaerts kann es nicht nur einmal geben,
+doch kennt nicht jeder sein heimwaerts.
+heimwaerts fahren wir am liebsten.
+heimwaerts erzählt Geschichten.
+Das ist unser tägliches heimwaerts."
 header: no
 show_meta: false
 categories:
     - projects
 image:
     title: heimwaerts_teaser.gif
-    caption: Citywide view showing bike trajectories
+    caption: heimwaerts logo mit animierten verbindungen
 author: Stephan Hautzendorfer
 ---
 
-Three high-resolution screens show the space of flows of New York City, Berlin, and London through visualizing bike sharing systems of these world cities. By showing the flow of multiple cities side by side, we can compare their extent and dynamics. Tracing urban movements accentuates different urban structures, and contrasts grid-plan cities like New York with historically grown cities such as Berlin. It also enables us to observe and dwell on similarities and differences in various bike-sharing systems. With our visualizations we want to understand the pulse of urban mobility, and create portraits of a city defined by its transient dynamics.
+
+Mitfahrgelegenheiten in Deutschland boomen:
+Ungefähr alle vier Sekunden startet in Deutschland eine Mitfahrgelegenheit.  
+Doch wo fahren Sie hin? Gibt es oft frequentierte Hauptstrecken oder Regionen die gar nicht von Mitfahrgelegenheiten befahren werden? Sind die Mitfahrgelegenheiten wirklich so flexibel?
+heimwaerts antwortet auf diese Fragen als Atlas der Mitfahrgelegenheiten. Mithilfe der Browser-
+Applikation können Tage miteinander verglichen werden ­— deutschlandweit oder einzelne Städte.
+
+
+## Ausgangslage
+Mitfahrgelegenheiten sehen sich als ein Gegenentwurf zu den statischen Fahrplänen von Bahn und Fernbus.
+Vier große Portale aus meine Analyse vermitteln uns neben einer preiswerten Fahrt, Flexibilität und
+dauerhaften Anschluss in alle Ecken der Bundesrepublik. Was für Verbindungen zwischen Großstädten gilt,
+geht bei näherer Betrachtung aber nicht mehr ganz auf.
+Ist es dennoch möglich eine fahrplanähnliche Prognose für Mitfahrgelegenheiten aufzustellen oder
+unterliegt der Kosmos für Mitfahrgelegenheiten wirklich keinen Gesetzen?
+Mit meiner Visualisierung möchte ich die Andeutungen der Mitfahr-Portale überprüfen und ggf. revidieren.
+
+## Daten
+Eine offene Datenbank oder verfügbare API liefert leider kein Portal. Meine verwendeten Daten mussten
+direkt von den Webseiten bezogen werden. Für eine aussagekräftige Visualisierung reichte es für das heimwaerts-Projekt
+die Abfahrtort und -zeit, Ankunftsort und angebotene Fahrten am gesamten Tag zu verwenden.
+Die Genauigkeit der Daten kann leider nicht überprüft werden. Ob eine Fahrt wirklich stattfand
+oder ob der Ankunftsort auch das letzte Ziel der Fahrt war, muss leider unbeantwortet bleiben.
 
 
 ## Visualization Design
