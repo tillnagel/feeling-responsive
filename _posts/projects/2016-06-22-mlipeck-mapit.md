@@ -13,7 +13,7 @@ image:
 author: Matthias Lipeck
 ---
 
-Zur Zeit gibt es einige eindrucksvolle Projekte, im Bereich personenbezogener Geodaten, wie [visits](http://v.isits.in) oder [Shifted Maps](http://shifted-maps.com). Beide Projekte inspirierten in ihre jeweiligen besonderen Art der Datenaufbereitung und der damit verbundenen Zugänglichkeit für den Betrachter.
+Zur Zeit gibt es einige eindrucksvolle Projekte, im Bereich personenbezogener Geodaten, wie [visits](http://v.isits.in) oder [Shifted Maps](http://shifted-maps.com). Beide Projekte inspirierten durch ihre jeweiligen besonderen Art der Datenaufbereitung und der damit verbundenen Zugänglichkeit für den Betrachter.
 
 
 „Map it“ stellt die von dem Nutzer besuchten Orte dar. Dabei wird eine Darstellungsart genutzt, die auf Wegebeziehungen zwischen den Orten verzichtet und dadurch das Hauptaugenmerk auf die besuchten Orte legt.
@@ -23,7 +23,7 @@ Dadurch entsteht eine neue Karte für den Nutzer - seine Karte. Diese Form der D
 
 Die in der App Moves gesammelten Daten werden über eine API ausgelesen und auf einer Webseite in der Circular TreeMap aufgearbeitet und ausgegeben. Die Webseite bietet neben der graphischen Darstellung auch die Möglichkeit der Interaktion, wie zum Beispiel das Zoomen auf die jeweiligen besuchten Orte oder das Abrufen von weiteren Informationen wie die Dauer sowie die Anzahl der Besuche oder die Zeiträume der Datenaufzeichnung auf die sich die Werte beziehen.
 
-„Map it“ wurde prototypisch mit Processing, Unfolding Maps, D3.js umgesetzt.
+„Map it“ wurde prototypisch mit Processing, Unfolding Maps und D3.js umgesetzt.
 
 <!--
 <figure>
