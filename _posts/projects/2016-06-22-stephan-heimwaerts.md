@@ -8,7 +8,7 @@ show_meta: false
 categories:
     - projects
 image:
-    title: heimwaerts_teaser.jpg
+    title: heimwaerts_teaser.gif
     caption: Citywide view showing bike trajectories
 author: Stephan Hautzendorfer
 ---
