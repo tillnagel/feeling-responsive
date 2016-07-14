@@ -25,13 +25,16 @@ Aufgrund der offenen Fragestellung und der komplexen Materie geht diese Arbeit e
 
 
 ## Design Process
-[![Process Video](https://i.vimeocdn.com/video/579141949.jpg)](https://vimeo.com/173058434 "Process Video")
+#
+<iframe src="https://player.vimeo.com/video/173058434" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Daten
+#
 Instagram und New York Times, blabla.
 
 ### Instagram
 
+blabla
 
 
 
