@@ -8,7 +8,7 @@ show_meta: false
 categories:
     - projects
 image:
-    title: cfcityflows-nyc.jpg
+    title: heimwaerts_teaser.jpg
     caption: Citywide view showing bike trajectories
 author: Stephan Hautzendorfer
 ---
