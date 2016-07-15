@@ -51,7 +51,7 @@ siginifikant mehr Mitfahrgelegenheiten für die Strecken Dortmund nach Berlin un
 in dem/den Tag/Tagen vor dem besagten Spiel angeboten würden.
 
 <figure>
-  <img src="{{ site.urlimg }}/heimwaerts/dfb_monatsansicht.jpg" />
+  <img src="{{ site.urlimg }}/heimwaerts/dfb_monatsansicht.png" />
   <figcaption >Insgesamt werden mehr Mitfahrgelegenheiten mit Start in München angeboten. Eine Rhythmik der angebotenen Fahrten ist erkennbar.</figcaption>
 </figure>
 
