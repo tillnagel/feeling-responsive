@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Internationale Restaurants in Berlin"
+title:  "Essenskultur"
 subheadline: Internationale Restaurants in Berlin
 teaser: "<em>Essenskultur</em> vergleicht internationale Restaurants mit der Bevölkerungsverteilung."
 header: no
@@ -8,7 +8,7 @@ show_meta: false
 categories:
     - projects
 image:
-    title: restaurants2.jpg
+    title: titlepic.jpg
     caption: Schema der Anwendung
 author: Jingjiao Shi &amp; Yue Su
 ---
@@ -27,9 +27,12 @@ Um mehrere Ansichten zu vergleichen nutzen wir einen Barchart. Wir können sehen
 
 
 <figure>
+  <img src="{{ site.urlimg }}/restaurants2.jpg" />
+  <figcaption >Schema der Anwendung</figcaption>
+</figure>
   <img src="{{ site.urlimg }}/restaurants.jpg" />
   <figcaption >Das Barchart</figcaption>
-</figure>
+
 
 
 ## Subheadline
