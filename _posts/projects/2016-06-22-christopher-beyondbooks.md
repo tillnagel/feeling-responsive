@@ -8,7 +8,7 @@ show_meta: false
 categories:
     - projects
 image:
-    title: christopher-beyond-the-books-teaser.jpg
+    title: beyondthebooks/christopher-beyond-the-books-teaser.jpg
     caption: Modell des Stadtplans mit Projektion
 author: Christopher David Lane
 ---
@@ -23,7 +23,12 @@ Die Online-Umfrage erbrachte wegen der großen Zahl der 163 Befragten den größ
 
 <figure>
   <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-cultural-probe-02.jpg" />
+  <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-cultural-probe-01.jpg" />
   <figcaption >Cultural Probe</figcaption>
+  <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-cultural-probe-03.jpg" />
+  <figcaption >Ausgefüllte Cultural Probe</figcaption>
+  <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-cultural-fotowand-01.jpg" />
+  <figcaption >Aussschnitt der Fotoergebnisse</figcaption>
 </figure>
 
 An 10 Studierende, mit denen ich jeweils persönlich Kontakt aufgenommen hatte, händigte ich Cultural Probes aus. Sie sollten es ermöglichen, mehr über das Leben und das Lebensgefühl in den jeweiligen Stadtvierteln zu erfahren.
@@ -34,6 +39,12 @@ Die Probes bestanden aus einem Päckchen mit einem Aufgabenheft, welches die Fra
 
 ## Auswertung der Ergebnisse
 Die statistischen Daten und die Ergebnisse aus meinen Erhebungen lassen, wenn man sie zueinander in Beziehung setzt, ganz unterschiedliche Schlüsse zu, für die sich ebenso vielfältige Formen anbieten, sie zu visualisieren. Ich entschied mich dafür, mich bei der Visualisierung vor allem auf die subjektiv-emotionale Charakterisierung der Stadtviertel durch die Studierenden zu konzentrieren und sie, soweit möglich, zu den objektiven Erkenntnissen in Beziehung zu setzen, die das statistische Zahlenmaterial dokumentiert.
+
+<figure>
+  <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-modell-02.jpg" />
+  <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-modell-01.jpg" />
+  <figcaption >Stadtplan-Modell</figcaption>
+</figure>
 
 Aufgrund der Daten konzentriert sich die Visualisierung auf diejenigen Stadtviertel, in denen die große Mehrheit der Studierenden wohnt und zu denen aussagekräftige Antworten und Einschätzungen vorliegen. Dies sind die Stadtviertel Altstadt, Nördliche Innenstadt, Paulusviertel, Giebichenstein und Südliche Innenstadt, mit Einschränkungen auch die Saalaue. Die übrigen Stadtviertel kommen wegen der zu geringen Zahl der Erkenntnisse für eine aussagekräftige Auswertung nicht in Betracht.
 
