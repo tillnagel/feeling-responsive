@@ -1,14 +1,14 @@
 ---
 layout: page
 title:  "Outer Space Satellite Database 1974-2015"
-subheadline: Eine Visualisierung über tausende Satelliten in der Erdumlaufbahn.
+subheadline: Eine Visualisierung über tausende Satelliten nach Ländern.
 teaser: "<em>cf. city flows</em> is a comparative visualization environment of urban bike mobility designed to help citizens casually analyze three bike-sharing systems in the context of a public exhibition space."
 header: no
 show_meta: false
 categories:
     - projects
 image:
-    title: header.png
+    title: header.jpg
     caption: Outer Space
 author: Antonia Josefa Gluschak
 ---
