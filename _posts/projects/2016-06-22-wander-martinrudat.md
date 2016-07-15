@@ -8,7 +8,7 @@ show_meta: false
 categories:
     - projects
 image:
-    title: wander/teaser.png
+    title: wander/wander-teaser.gif
     caption:
 author: Martin Rudat
 ---
