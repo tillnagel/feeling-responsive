@@ -31,7 +31,7 @@ Dadurch entsteht eine neue Karte für den Nutzer - seine Karte. Diese Form der D
   <figcaption >Darstellungs Experimente</figcaption>
 </figure>
 
-Die in der App Moves gesammelten Daten werden über eine API ausgelesen und auf einer Webseite in der Circular TreeMap aufgearbeitet und ausgegeben. Die Webseite bietet neben der graphischen Darstellung auch die Möglichkeit der Interaktion, wie zum Beispiel das Zoomen auf die jeweiligen besuchten Orte oder das Abrufen von weiteren Informationen wie die Dauer sowie die Anzahl der Besuche oder die Zeiträume der Datenaufzeichnung auf die sich die Werte beziehen.
+Die in der App [„Moves“](http://moves-app.com) gesammelten Daten werden über eine API ausgelesen und auf einer Webseite in der Circular TreeMap aufgearbeitet und ausgegeben. Die Webseite bietet neben der graphischen Darstellung auch die Möglichkeit der Interaktion, wie zum Beispiel das Zoomen auf die jeweiligen besuchten Orte oder das Abrufen von weiteren Informationen wie die Dauer sowie die Anzahl der Besuche oder die Zeiträume der Datenaufzeichnung auf die sich die Werte beziehen.
 
 <figure>
   <img src="{{ site.urlimg }}/mlipeck-moves.jpg" />
