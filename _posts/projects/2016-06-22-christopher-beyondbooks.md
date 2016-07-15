@@ -2,13 +2,13 @@
 layout: page
 title:  "Beyond the Books - Discovering Halle"
 subheadline: Wie Studenten ihre Stadt und Nachbarschaft wahrnehmen. Ein emotionaler Überblick.
-teaser: "<em>Heimwaerts</em> kennt keine Richtung."
+teaser: "<em>Beyond the Books</em> - Discovering Halle"
 header: no
 show_meta: false
 categories:
     - projects
 image:
-    title: cfcityflows-nyc.jpg
+    title: christopher-beyond-the-books-teaser.jpg
     caption: Citywide view showing bike trajectories
 author: Christopher David Lane
 ---
