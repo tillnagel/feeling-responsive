@@ -32,7 +32,7 @@ Das Filtersystem ermöglicht es sich sein eigenes Ziel festzulegen. Auf der link
   Ziel in 5 Minuten Abschnitten an
 <br />
 <figure>
-  <img src="{{ site.urlimg }}/cf-view2-london-draft.jpg" />
+  <img src="{{ site.urlimg }}/Filtersystem-1-01.png" />
   <figcaption >Hier koennte ihre Werbung nicht stehen</figcaption>
 </figure>
 
