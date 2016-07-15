@@ -107,11 +107,5 @@ das gewünschte Datum einzustellen.
 
 
 ## Prototyp
-<figure>
-<a href="{{ site.urlimg }}/heimwaerts/plakat_gross.jpg">
-<figcaption >www.hierstehtdiewebsite.de</figcaption>
-</a>
-</figure>
-
 Der Prototyp wurde in D3.js umgesetzt und kann mit dem Browser geöffnet werden. Zur Entwicklung wurde Google Chrome Version 51+ genutzt.
-Es kann in anderen Browsern zu Darstellungsfehlern kommen. Die Funktionen des Prototyps sind nicht vollständig.
+Er stellt die Entwicklung des Projekts von April – Juli 2016 dar.
