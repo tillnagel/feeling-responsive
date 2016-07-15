@@ -79,9 +79,8 @@ sehr viele Fahrten nach Leipzig und Bitterfeld angeboten und wesentlich weniger 
 
 <figure>
 <a href="{{ site.urlimg }}/heimwaerts/plakat_gross.jpg">
-  <img src="{{ site.urlimg }}/heimwaerts/plakat_klein.png" />
-  <figcaption >Angebotene Mitfahrgelegenheiten von www.blablacar.de zwischen Halle (Saale) und Deutschlands einhundert größten Städten, sowie ausgewählten Städten im Einzugsgebiet Halle (Saale) vom 01.05.2016 — 31.05.2016.
-Geordnet nach Anzahl der Einwohner.</figcaption>
+  <img src="{{ site.urlimg }}/heimwaerts/plakat_klein.png" /></a>
+  <figcaption >Angebotene Mitfahrgelegenheiten von www.blablacar.de zwischen Halle (Saale) und Deutschlands einhundert größten Städten, sowie ausgewählten Städten im Einzugsgebiet vom 01.05.2016 — 31.05.2016. Geordnet nach Anzahl der Einwohner.</figcaption>
 </figure>
 
 
@@ -99,13 +98,17 @@ die getroffene Auswahl bekommen. Um die Auswahl mit weiteren Tagen zu vergleiche
 Karte. Es soll möglich sein mehrere Karten gleichzeitig miteinander zu vergleichen. Nun ist es auch möglich in jeder Karte
 das gewünschte Datum einzustellen.     
 
-Für die Visualisierung wurde D3.js genutzt.
+
 
 
 
 
 ## Prototyp
-In our process of exploring the bike data, and designing the visualizations we created lots of visual experiments. Some of those we share below.
+<a href="{{ site.urlimg }}/heimwaerts/plakat_gross.jpg">
+<figcaption >Blabla</figcaption>
+</a>
 
+Der Prototyp wurde in D3.js umgesetzt und kann mit dem Browser geöffnet werden. Zur Entwicklung wurde Google Chrome Version 51+ genutzt.
+Es kann in anderen Browsern zu Darstellungsfehlern kommen. Die Funktionen des Prototyps sind nicht vollständig.
 
 ## Daten
