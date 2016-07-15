@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Heimwaerts"
+title:  "heimwaerts"
 subheadline: Atlas der Mitfahrgelegenheiten
 teaser: " <em>heimwaerts</em> ist kein Ort,
 heimwaerts ist eine Richtung.
@@ -44,6 +44,24 @@ die Abfahrtort und -zeit, Ankunftsort und angebotene Fahrten am gesamten Tag zu 
 Die Genauigkeit der Daten kann leider nicht überprüft werden. Ob eine Fahrt wirklich stattfand
 oder ob der Ankunftsort auch das letzte Ziel der Fahrt war, muss leider unbeantwortet bleiben.
 
+## Daten visualisieren
+Für meinen ersten Datensatz wählte ich das DFB-Pokal-Wochenende bei dem Borussia Dortmund und
+Bayern München in Berlin gegeneinander spielten. Meine Annahme war, dass
+siginifikant mehr Mitfahrgelegenheiten für die Strecken Dortmund nach Berlin und München nach Berlin
+in dem/den Tag/Tagen vor dem besagten Spiel angeboten würden.
+
+<figure>
+  <img src="{{ site.urlimg }}/cf-view2-london-draft.jpg" />
+  <figcaption >Eine Bildbeschreibung</figcaption>
+</figure>
+
+Um ein aussagekräftiges Ergebnis zu erhalten, verglich ich das ausgewählte Wochenende mit
+den anderen Wochenenden im Mai. Bei der Strecke zwischen München und Berlin stachen besonders
+das Pfingstwochenende und der Mittwoch vor Christi Himmelfahrt heraus. Ein erstes Indiz, dass
+Mitfahrgelegenheiten zum Heimfahren oder für kurze Wochenend-Trips genutzt werden könnten.
+
+
+
 
 ## Visualization Design
 *cf. city flows* has three viewing modes, all visualizing trips of rented bikes, but focusing on different levels of spatial and temporal granularity of cycling mobility:
@@ -53,12 +71,14 @@ oder ob der Ankunftsort auch das letzte Ziel der Fahrt war, muss leider unbeantw
 * A small-multiple view visualizes spatiotemporal patterns for three selected stations each in an exploded view that separates incoming from outgoing and morning from afternoon/evening trips.
 
 <figure>
+<a href="{{ site.urlimg }}/cf-view2-london-draft.jpg">
   <img src="{{ site.urlimg }}/cf-view2-london-draft.jpg" />
-  <figcaption >Eine Bildbeschreibung</figcaption>
+  <figcaption >Angebotene Mitfahrgelegenheiten von www.blablacar.de zwischen Halle (Saale) und Deutschlands einhundert größten Städten, sowie ausgewählten Städten im Einzugsgebiet Halle (Saale) vom 01.05.2016 — 31.05.2016.
+Geordnet nach Anzahl der Einwohner.</figcaption>
 </figure>
 
 
-## Design Process
+## Design Prozess
 In our process of exploring the bike data, and designing the visualizations we created lots of visual experiments. Some of those we share below.
 
 
