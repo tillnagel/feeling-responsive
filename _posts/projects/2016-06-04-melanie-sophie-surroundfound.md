@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Surround Found"
-subheadline: Findet Events in eurer unmittelbaren Nähe und entdeckt die Stadt
+subheadline: Lebe deinen Moment.
 teaser: "<em>cf. city flows</em> is a comparative visualization environment of urban bike mobility designed to help citizens casually analyze three bike-sharing systems in the context of a public exhibition space."
 header: no
 show_meta: false
