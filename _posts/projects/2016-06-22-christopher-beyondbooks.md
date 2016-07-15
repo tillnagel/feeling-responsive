@@ -13,7 +13,7 @@ image:
 author: Christopher David Lane
 ---
 
-Studieren ist nicht alles. Wie nehmen Studierende die Stadt wahr, in der sie studieren und leben? Gibt es ausreichende Freizeitmöglichkeiten und Grünflächen für die Zeit nach den Vorlesungen, Kursen und Seminaren? Und mehr noch: vermittelt die Stadt Halle in ihrer Gesamtheit ein allgemeines Lebensgefühl? Wie „fühlt“ man sich hier? Das hängt von vielen Faktoren ab, zu denen jedenfalls die Freizeitangebote, die Qualität der Naherholungsgebiete, die bauliche Substanz, die öffentliche Infrastruktur und nicht zuletzt der allgemeine Zustand der Stadt und ihre Sauberkeit gehören. Mit dieser Untersuchung möchte ich dem Lebensgefühl in Halle auf die Spur kommen.
+Studieren ist nicht alles. Wie nehmen Studierende die Stadt wahr, in der sie studieren und leben? Gibt es ausreichende Freizeitmöglichkeiten und Grünflächen für die Zeit nach den Vorlesungen, Kursen und Seminaren? Und mehr noch: vermittelt die Stadt Halle in ihrer Gesamtheit ein allgemeines Lebensgefühl? Wie „fühlt“ man sich hier? Das hängt von vielen Faktoren ab, zu denen jedenfalls die Freizeitangebote, die Qualität der Gebiete zur Naherholung, die bauliche Substanz, die öffentliche Infrastruktur und nicht zuletzt der allgemeine Zustand der Stadt und ihre Sauberkeit gehören. Mit dieser Untersuchung möchte ich dem Lebensgefühl in Halle auf die Spur kommen.
 
 
 ## Erhebungsmethoden: Online-Umfrage
@@ -74,10 +74,3 @@ Durch die unterschiedlichen Erhebungsmethoden konnte ich auch emotionale und im 
   <img src="{{ site.urlimg }}/cf-view2-london-draft.jpg" />
   <figcaption >Eine Bildbeschreibung</figcaption>
 </figure>
-
-
-## Design Process
-In our process of exploring the bike data, and designing the visualizations we created lots of visual experiments. Some of those we share below.
-
-
-## Daten
