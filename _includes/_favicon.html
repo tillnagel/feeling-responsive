@@ -1,14 +1,16 @@
 {% comment %}
-*   
+*
 *   More Information › https://mathiasbynens.be/notes/touch-icons
-*   
+*
 {% endcomment %}
 {% comment %} Regular Old-Skool Favicon: {% endcomment %}
-	{% if site.favicon-32x32 %}<link rel="icon" sizes="32x32" href="{{ site.url }}/assets/img/{{ site.favicon-32x32 }}">{% endif %}
+	{% if site.favicon-32x32 %}<link rel="icon" href="{{ site.url }}/assets/img/{{ site.favicon-32x32 }}">{% endif %}
 {% comment %} For Chrome for Android: {% endcomment %}
 	{% if site.touch-icon-192x192 %}<link rel="icon" sizes="192x192" href="{{ site.url }}/assets/img/{{ site.touch-icon-192x192 }}">{% endif %}
 {% comment %} For iPhone 6 Plus with @3× display: {% endcomment %}
 	{% if site.apple-touch-icon-180x180-precomposed %}<link rel="apple-touch-icon-precomposed" sizes="180x180" href="{{ site.url }}/assets/img/{{ site.apple-touch-icon-180x180-precomposed }}">{% endif %}
+{% comment %} For iPhone 6 Plus with @3× display: {% endcomment %}
+		{% if site.apple-touch-icon-152x152 %}<link rel="apple-touch-icon" href="{{ site.url }}/assets/img/{{ site.apple-touch-icon-180x180-precomposed }}">{% endif %}
 {% comment %} For iPad with @2× display running iOS ≥ 7: {% endcomment %}
 	{% if site.apple-touch-icon-152x152-precomposed %}<link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{ site.url }}/assets/img/{{ site.apple-touch-icon-152x152-precomposed }}">{% endif %}
 {% comment %} For iPad with @2× display running iOS ≤ 6: {% endcomment %}
