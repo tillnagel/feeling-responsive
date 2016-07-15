@@ -8,7 +8,7 @@ show_meta: false
 categories:
     - projects
 image:
-    title: feel-connected.jpg
+    title: SurroundFound_LogoSchrift.png
     caption: Citywide view showing bike trajectories
 author: Melanie Miksch &amp; Sophie Parschat
 ---
