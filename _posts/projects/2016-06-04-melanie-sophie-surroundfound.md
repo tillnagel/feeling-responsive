@@ -23,7 +23,7 @@ Das Filtersystem ermöglicht es sich sein eigenes Ziel festzulegen. Auf der link
 
 * Roter Marker markiert deinen Standpunkt
 * Orangene Marker zeigen Veranstaltungen in deiner Nähe
-* Isolines geben die Entfernung vom Standpunkt zum </n>
+* Isolines geben die Entfernung vom Standpunkt zum <br />
   Ziel in 5 Minuten Abschnitten an
 
 <figure>
