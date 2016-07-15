@@ -9,7 +9,7 @@ categories:
     - projects
 image:
     title: wander/teaser.png
-    caption: Citywide view showing bike trajectories
+    caption: Gestaltung der Karte via mapbox.com 
 author: Martin Rudat
 ---
 
