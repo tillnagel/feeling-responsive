@@ -23,7 +23,7 @@ author: Stephan Hautzendorfer
 
 Mitfahrgelegenheiten in Deutschland boomen:
 Ungefähr alle vier Sekunden startet in Deutschland eine Mitfahrgelegenheit.  
-Doch wo fahren Sie hin? Gibt es oft frequentierte Hauptstrecken oder Regionen die gar nicht von Mitfahrgelegenheiten befahren werden? Sind die Mitfahrgelegenheiten wirklich so flexibel?
+Doch wo fahren Sie hin? Gibt es oft frequentierte Hauptstrecken oder Regionen die gar nicht von Mitfahrgelegenheiten befahren werden? Sind Mitfahrgelegenheiten wirklich so flexibel?
 heimwaerts antwortet auf diese Fragen als Atlas der Mitfahrgelegenheiten. Mithilfe der Browser-
 Applikation können Tage miteinander verglichen werden ­— deutschlandweit oder einzelne Städte.
 
@@ -51,7 +51,7 @@ siginifikant mehr Mitfahrgelegenheiten für die Strecken Dortmund nach Berlin un
 in dem/den Tag/Tagen vor dem besagten Spiel angeboten würden.
 
 <figure>
-  <img src="{{ site.urlimg }}/heimwaerts/dfb_monatsansicht.png" />
+  <img src="{{ site.urlimg }}/heimwaerts/dfb_monatsansicht.jpg" />
   <figcaption >Insgesamt werden mehr Mitfahrgelegenheiten mit Start in München angeboten. Eine Rhythmik der angebotenen Fahrten ist erkennbar.</figcaption>
 </figure>
 
@@ -104,10 +104,6 @@ einzelne Verbindungen, werden diese hervorgehoben. Wählt man diese aus, so soll
 die getroffene Auswahl bekommen. Um die Auswahl mit weiteren Tagen zu vergleichen, klickt man auf das Hinzufügen einer
 Karte. Es soll möglich sein mehrere Karten gleichzeitig miteinander zu vergleichen. Nun ist es auch möglich in jeder Karte
 das gewünschte Datum einzustellen.     
-
-
-
-
 
 
 ## Prototyp
