@@ -39,7 +39,7 @@ Das Filtersystem ermöglicht es sich sein eigenes Ziel festzulegen. Auf der link
 
 ## Linearer Weg
 <br />
-Suspendisse porttitor, velit a mattis ultrices, ipsum mauris placerat orci, eu sagittis nulla est sed nunc. Phasellus ac ultrices diam.
+Hier kommt der Text zum Linearen Weg.
 
 
 * Kreise auf der Strecke sind Hinweise, wann abgebogen werden muss
