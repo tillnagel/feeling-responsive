@@ -91,6 +91,13 @@ verschiedene Tage miteinander zu vergleichen. Der Nutzer sollte die Möglichkeit
 von allgemeinen Daten, wie der Anzahl der gesamten Fahrten von einem Tag, zu detaillierteren
 Daten zu gelangen, wie eine Aufschlüsselung zu welcher Tageszeit auf eine bestimmte Strecke
 befahren wird.     
+
+<figure>
+  <img src="{{ site.urlimg }}/heimwaerts/visualisierung.jpg" />
+  <figcaption >Visualisierungsprinzip</figcaption>
+</figure>
+
+
 Um dies darzustellen sieht der Nutzer zum Start der Applikation eine Deutschlandkarte mit den
 Fahrten des aktuellen Tages. Die Karte ist zoombar und kann mit der Muas bewegt werden. Fährt man nun über Städte oder
 einzelne Verbindungen, werden diese hervorgehoben. Wählt man diese aus, so soll man spezielle Daten für
@@ -110,5 +117,3 @@ das gewünschte Datum einzustellen.
 
 Der Prototyp wurde in D3.js umgesetzt und kann mit dem Browser geöffnet werden. Zur Entwicklung wurde Google Chrome Version 51+ genutzt.
 Es kann in anderen Browsern zu Darstellungsfehlern kommen. Die Funktionen des Prototyps sind nicht vollständig.
-
-## Daten
