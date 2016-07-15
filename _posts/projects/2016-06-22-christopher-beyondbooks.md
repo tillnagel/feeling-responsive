@@ -2,14 +2,14 @@
 layout: page
 title:  "Beyond the Books - Discovering Halle"
 subheadline: Wie Studenten ihre Stadt und Nachbarschaft wahrnehmen. Ein emotionaler Überblick.
-teaser: "<em>Beyond the Books</em> - Discovering Halle"
+teaser: no
 header: no
 show_meta: false
 categories:
     - projects
 image:
     title: christopher-beyond-the-books-teaser.jpg
-    caption: Citywide view showing bike trajectories
+    caption: Modell des Stadtplans mit Projektion
 author: Christopher David Lane
 ---
 
@@ -20,6 +20,12 @@ Studieren ist nicht alles. Wie nehmen Studierende die Stadt wahr, in der sie stu
 Die Online-Umfrage erbrachte wegen der großen Zahl der 163 Befragten den größten Datensatz. Die Fragen wurden als Online-Fragebogen zugänglich gemacht; sie konnten über einen Link aufgerufen werden, der den Studierenden per Email übermittelt wurde. Bei den Fragen handelte es sich um eine Mischung aus eindimensionalen Fragen, die eindeutig zu beantworten waren, und „offenen“ Fragen, zu denen die Befragten ganz subjektive, letztlich nur durch das Thema begrenzte Ausführungen machen konnten. Außerdem sollten die Teilnehmenden ihrem Stadtviertel Farben und Bilder mit ganz unterschiedlichen Motiven zuordnen. Dadurch war Raum gegeben für emotionale und assoziative Einschätzungen.
 
 ## Erhebungsmethoden: Cultural Probes
+
+<figure>
+  <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-cultural-probe-02.jpg" />
+  <figcaption >Cultural Probe</figcaption>
+</figure>
+
 An 10 Studierende, mit denen ich jeweils persönlich Kontakt aufgenommen hatte, händigte ich Cultural Probes aus. Sie sollten es ermöglichen, mehr über das Leben und das Lebensgefühl in den jeweiligen Stadtvierteln zu erfahren.
 
 Cultural Probes stellen eine Methode zur Erhebung von Daten über Personen und ihre Einschätzungen dar, die nicht auf direkter Beobachtung beruht, wie etwa die herkömmlichen Feldstudien, sondern auf eigenen und unmittelbaren Einschätzungen der Teilnehmenden. Es werden Fragen und Aufgaben gestellt, die auch die schöpferische und intuitive Kompetenz ansprechen, um die Teilnehmenden auch zu emotionalen oder inspirativen Antworten anzuregen. Die Methode stammt aus der Praxis des Industriedesigns und wird dort meist zu Beginn eines Design-Prozesses genutzt, um im Rahmen der Kreation von gestalterischen Konzepten Ideen für Technologie-Anwendungen entwickeln zu können, mit denen Verbesserungen für die Lebensverhältnisse auf neue und emotional wahrnehmbare Weise erreicht werden (W.Gaver, A.Boucher, S.Pennington und B.Walker in Cultural Probes and the Value of Uncertainty, Royal College of Art). Sie schien mir für meine Erkenntnisziele im Rahmen des Projekts sehr geeignet, um in gegenüber der Online-Umfrage erweiterter Weise assoziative und kreative Aspekte in die Erhebung einfließen zu lassen.
@@ -42,7 +48,6 @@ Daraus ergibt sich für mich zweierlei: Allein der Umfang des Angebots an Wohnun
 
 Auffallend ist allerdings auch: Die spezifische Charakterisierung der zentrumsnahen Stadtviertel führt nicht dazu, dass die Studierenden ihre Freizeitaktivitäten auf „ihre“ Viertel beschränken. Insbesondere was die Erholungsmöglichkeiten in der Natur angeht, werden Giebichenstein, Paulusviertel und Nördliche Innenstadt nahezu gleichermaßen als attraktiv angesehen, selbst wenn sie nur ein unzureichendes Angebot an nutzbaren Grünflächen bieten – dies wird jeweils durch die gute und schnelle Erreichbarkeit von Grünflächen in anderen Vierteln, insbesondere die Saalaue und die Peißnitzinsel, kompensiert. Der Mangel an Grün im Stadtviertel führt mithin in der subjektiven Einschätzung der Studierenden nicht zu einer negativen Bewertung des Viertels. Darin zeigt sich der Effekt einer mittleren Großstadt wie Halle, die selbst zentrumsnah großflächig Erholungsmöglichkeiten im Grünen bietet, die wegen der überschaubaren Größe der Stadt leicht zu erreichen sind.
 
-## Charakterisierung der Stadtviertel
 
 ## Altstadt - Straßencafés und Einkauf
 Die Altstadt ist die Kernstadt – geprägt durch Buntheit, pulsierende Lebendigkeit und Besucher. Hier trifft man sich in Cafés und Kneipen, hier bieten Gastronomie und Handel ein buntes Angebot. Aber hier wohnen nur wenige Studierende, trotz des recht guten Angebots an Wohnungen. Grünflächen fehlen fast völlig.
@@ -56,7 +61,6 @@ Auch in der Nördlichen Innenstadt, die die Altstadt von Norden her wie ein Halb
 Der „Prenzlauer Berg“ in Halle! Das heißt nicht „Hip“, sondern vor allem „familiär“. Hier lebt es sich ruhig und gemütlich in netter Umgebung, in schönen Straßen mit vielen Bäumen und Häusern mit Vorgärten, mit netten Lokalitäten zum Einkehren – der Standort ist im wesentlichen „in Ordnung“. Das Paulusviertel ist ein Viertel für junge Familien und Studenten, außerdem nah an der Kneipenszene und an kulturellen Einrichtungen und Angeboten. Und grüne Naherholungsgebiete sind auch nicht weit.
 
 ## Giebichenstein - Kultur trifft Natur
-
 Auch Giebichenstein wird als ruhig und familiär geprägt bezeichnet. Das Viertel wird aber auch durch auffallende Architektur geprägt; die schönen Altbauten und die Villen aus der Gründerzeit werden in gleicher Weise hervorgehoben wie alte, baumbestandene Pflasterstraßen. Ebenso aber auch die Nähe zur Natur, vor allem zur Peißnitzinsel, und die Nähe zur Burg – dies und die im Viertel beheimatete Kunstszene machen das Viertel zum beliebtesten unter den Studierenden. Es vermittelt „Kleinstadtflair“ und „Gefühle wie im Urlaub“. Internationalität und Buntheit suchen die Bewohner in den nahen Nachbarvierteln.
 
 ## Südliche Innenstadt - Viertel im Dornröschenschlaf
