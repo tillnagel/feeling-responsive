@@ -22,4 +22,4 @@ Ziel von „wander“ ist es, den Benutzer dazu anzuregen neue Orte seiner Umgeb
 
 
 
-![Wander](wander/wander_routes.png)
+![](wander/wander_routes.png)
