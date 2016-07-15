@@ -25,10 +25,16 @@ Die Online-Umfrage erbrachte wegen der großen Zahl der 163 Befragten den größ
   <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-cultural-probe-02.jpg" />
   <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-cultural-probe-01.jpg" />
   <figcaption >Cultural Probe</figcaption>
-  <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-cultural-probe-03.jpg" />
-  <figcaption >Ausgefüllte Cultural Probe</figcaption>
-  <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-cultural-fotowand-01.jpg" />
-  <figcaption >Aussschnitt der Fotoergebnisse</figcaption>
+</figure>
+
+<figure>
+<img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-cultural-probe-03.jpg" />
+<figcaption >Ausgefüllte Cultural Probe</figcaption>
+</figure>
+
+<figure>
+<img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-cultural-fotowand-01.jpg" />
+<figcaption >Aussschnitt der Fotoergebnisse</figcaption>
 </figure>
 
 An 10 Studierende, mit denen ich jeweils persönlich Kontakt aufgenommen hatte, händigte ich Cultural Probes aus. Sie sollten es ermöglichen, mehr über das Leben und das Lebensgefühl in den jeweiligen Stadtvierteln zu erfahren.
@@ -42,7 +48,6 @@ Die statistischen Daten und die Ergebnisse aus meinen Erhebungen lassen, wenn ma
 
 <figure>
   <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-modell-02.jpg" />
-  <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-modell-01.jpg" />
   <figcaption >Stadtplan-Modell</figcaption>
 </figure>
 
