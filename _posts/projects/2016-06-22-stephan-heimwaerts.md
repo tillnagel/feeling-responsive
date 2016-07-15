@@ -59,7 +59,7 @@ in dem/den Tag/Tagen vor dem besagten Spiel angeboten würden.
   <figcaption >sichtbare Erhöhung der Anzahl der angebotenen Mitfahrgelegenheiten zum DFB-Pokal-Wochenende</figcaption>
 </figure>
 <figure>
-  <img src="{{ site.urlimg }}/heimwaerts/dfb-feiertage.png" />
+  <img src="{{ site.urlimg }}/heimwaerts/dfb_feiertage.png" />
   <figcaption >An den Tagen vor Feiertagen werden sehr viel mehr Fahrten angeboten.</figcaption>
 </figure>
 
