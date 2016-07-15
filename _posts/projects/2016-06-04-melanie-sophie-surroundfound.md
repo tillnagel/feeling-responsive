@@ -29,5 +29,5 @@ Quisque quis odio dictum, *faucibus diam* sed, molestie ligula. Sed pulvinar con
 </figure>
 
 
-## Subheadline
+## Linearer Weg
 Suspendisse porttitor, velit a mattis ultrices, ipsum mauris placerat orci, eu sagittis nulla est sed nunc. Phasellus ac ultrices diam.
