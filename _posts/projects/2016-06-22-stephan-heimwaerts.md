@@ -51,14 +51,23 @@ siginifikant mehr Mitfahrgelegenheiten für die Strecken Dortmund nach Berlin un
 in dem/den Tag/Tagen vor dem besagten Spiel angeboten würden.
 
 <figure>
-  <img src="{{ site.urlimg }}/cf-view2-london-draft.jpg" />
-  <figcaption >Eine Bildbeschreibung</figcaption>
+  <img src="{{ site.urlimg }}/heimwaerts/dfb_monatsansicht.png" />
+  <figcaption >Insgesamt werden mehr Mitfahrgelegenheiten mit Start in München angeboten. Zusätzlich ist bereits eine Rhythmik in den angebotenen Fahrten erkennbar.</figcaption>
+</figure>
+<figure>
+  <img src="{{ site.urlimg }}/heimwaerts/dfb_wochenenden.png" />
+  <figcaption >sichtbare Erhöhung der Anzahl der angebotenen Mitfahrgelegenheiten zum DFB-Pokal-Wochenende</figcaption>
+</figure>
+<figure>
+  <img src="{{ site.urlimg }}/heimwaerts/dfb-feiertage.png" />
+  <figcaption >An den Tagen vor Feiertagen werden sehr viel mehr Fahrten angeboten.</figcaption>
 </figure>
 
 Um ein aussagekräftiges Ergebnis zu erhalten, verglich ich das ausgewählte Wochenende mit
 den anderen Wochenenden im Mai. Bei der Strecke zwischen München und Berlin stachen besonders
 das Pfingstwochenende und der Mittwoch vor Christi Himmelfahrt heraus. Ein erstes Indiz, dass
 Mitfahrgelegenheiten zum Heimfahren oder für kurze Wochenend-Trips genutzt werden könnten.
+
 
 
 
