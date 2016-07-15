@@ -18,7 +18,7 @@ Kennenlernen der Stadt.
 <br />
 <figure>
   <img src="{{ site.urlimg }}/SurroundFound_LogoSchrift-01.png" />
-  <figcaption >Mockup der Anwendung</figcaption>
+  <figcaption >Schriftlogo</figcaption>
 </figure>
 
 ## Filtersystem
@@ -73,3 +73,8 @@ optionaler Umweg fungieren.
 <br />
 Die Daten stammen von Overpass Turbo, welches uns erlaubten Information über verschiedene Lokalitäten
 aus verschiedenen Kategorien zu beziehen. Weginformationen und Isolineinformationen stammen von einer Here Maps API.
+
+<figure>
+  <img src="{{ site.urlimg }}/Daten-01.png" />
+  <figcaption >Beispiele der Daten</figcaption>
+</figure>
