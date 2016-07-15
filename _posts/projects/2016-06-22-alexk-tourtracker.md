@@ -13,8 +13,7 @@ image:
 author: Alex Kaatz
 ---
 
-Three high-resolution screens show the space of flows of New York City, Berlin, and London through visualizing bike sharing systems of these world cities. By showing the flow of multiple cities side by side, we can compare their extent and dynamics. Tracing urban movements accentuates different urban structures, and contrasts grid-plan cities like New York with historically grown cities such as Berlin. It also enables us to observe and dwell on similarities and differences in various bike-sharing systems. With our visualizations we want to understand the pulse of urban mobility, and create portraits of a city defined by its transient dynamics.
-
+Der TourTracker ist eine Anwendung für Fans, sich die Tourtermine ihrer Band anzeigen zu lassen. Diese werden nicht wie gewöhnlich einfach als Liste ausgegeben, sondern gleich als Punkte auf einer Karte angezeigt. Die Anwendung erleichtert das Auffinden von Konzerten in der Nähe. Konzerte werden nicht mehr in abstrakter Listenformsondern in Verbindung mit Kartendaten dargestellt. Die Punkte sind in chronologischer Reihenfolge verbunden und sind durch eine Farbkodierung in vergangene und noch austehende Auftritte unterscheidbar. Über den Kalender kann man sich Daten auf zwei verschiedene Arten eingrenzen lassen. In der ersten Ansicht, gleich nach dem Öffnen einer Tour, werden alle Daten angezeigt. Mit Klick auf einen Monat filtert der TourTracker alle Daten heraus, und es werden nurnoch Daten dieses Monats angezeigt. 
 
 ## Visualization Design
 *cf. city flows* has three viewing modes, all visualizing trips of rented bikes, but focusing on different levels of spatial and temporal granularity of cycling mobility:
