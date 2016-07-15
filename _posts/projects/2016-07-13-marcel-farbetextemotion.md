@@ -31,14 +31,6 @@ Aufgrund der offenen Fragestellung und der komplexen Materie geht diese Arbeit e
 </div>
 
 ## Daten
-#
-Instagram und New York Times, blabla.
-
-### Instagram
-
-blabla
-
-
 
 ### New York Times
 
