@@ -38,7 +38,7 @@ Mit der Anwendung wollte ich weg von den klassischen Ansichten von Tourdaten in 
 
 <figure>
   <img src="{{ site.urlimg }}/TourTracker/Tourtracker_RumjacksAugust.jpg" />
-  <figcaption >Standart Kalenderansicht und Auswähl des Monats August</figcaption>
+  <figcaption >The Rumjacks Tour 2016 mit ausgewählten Daten vom August</figcaption>
 </figure>
 
 ## Daten
