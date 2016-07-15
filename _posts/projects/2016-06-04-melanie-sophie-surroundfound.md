@@ -2,7 +2,7 @@
 layout: page
 title:  "SurroundFound"
 subheadline: Lebe deinen Moment.
-teaser: "<em>cf. city flows</em> is a comparative visualization environment of urban bike mobility designed to help citizens casually analyze three bike-sharing systems in the context of a public exhibition space."
+teaser: "Lebe deinen Moment."
 header: no
 show_meta: false
 categories:
