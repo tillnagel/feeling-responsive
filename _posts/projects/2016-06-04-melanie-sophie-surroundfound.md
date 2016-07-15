@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Surround Found"
+title:  "SurroundFound"
 subheadline: Lebe deinen Moment.
 teaser: "<em>cf. city flows</em> is a comparative visualization environment of urban bike mobility designed to help citizens casually analyze three bike-sharing systems in the context of a public exhibition space."
 header: no
@@ -18,7 +18,7 @@ um das Hier und Jetzt, um den Moment. Stoppe nicht deine Unternehmungslust mit d
 langer Listen. Lerne Deine Stadt oder noch nicht gesehene Orte kennen. Finde und entdecke
 deinen Weg zu Veranstaltungen in Deiner Nähe. Du hast die Möglichkeit zwischen verschiedenen
 Kategorien zu schalten und Dein Ziel individuell zu bestimmen. Zusätzlich geben Dir Isolines die grobe Entfernung an. Somit kannst du Entscheiden welche Distanz Du auf Dich nehmen möchtest.
-Ist die Entscheidung gefallen wirst Du über eine linearisierte Wegdarstellung geleitet.Kreuzungen an denen Abgebogen werden muss, sind durch Kreise gekennzeichent, welche die Farbigkeit der Isolines aufgreifen. Sobald eine Aktion statt gefunden hat, richtet sich die Route neu nach dem Nutzer aus. Entlang eines Weges befinden sich oftmals wichtige Gebäude, Sehenswürdigkeiten 
+Ist die Entscheidung gefallen wirst Du über eine linearisierte Wegdarstellung geleitet.Kreuzungen an denen Abgebogen werden muss, sind durch Kreise gekennzeichent, welche die Farbigkeit der Isolines aufgreifen. Sobald eine Aktion statt gefunden hat, richtet sich die Route neu nach dem Nutzer aus. Entlang eines Weges befinden sich oftmals wichtige Gebäude, Sehenswürdigkeiten
 oder interessante Orte. Diese orientieren sich zum einen an Deiner Sichtachse und zum anderen an der Entfernung zur Route und dienen zur visuellen Orientierung beziehungsweise zum
 Kennenlernen der Stadt.
 
