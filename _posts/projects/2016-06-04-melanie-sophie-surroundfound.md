@@ -8,7 +8,7 @@ show_meta: false
 categories:
     - projects
 image:
-    title: SurroundFound_LogoSchrift-01.png
+    title: SurroundFound_Mockup-01.png
     caption: Citywide view showing bike trajectories
 author: Melanie Miksch &amp; Sophie Parschat
 ---
@@ -17,7 +17,7 @@ Du möchtest etwas unternehmen, doch weißt nicht wo und was? Bei „SurroundFou
 Kennenlernen der Stadt.
 <br />
 <figure>
-  <img src="{{ site.urlimg }}/SurroundFound_Mockup-01.png" />
+  <img src="{{ site.urlimg }}/SurroundFound_LogoSchrift-01.png" />
   <figcaption >Mockup der Anwendung</figcaption>
 </figure>
 
