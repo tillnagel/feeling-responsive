@@ -99,7 +99,7 @@ befahren wird.
 
 
 Um dies darzustellen sieht der Nutzer zum Start der Applikation eine Deutschlandkarte mit den
-Fahrten des aktuellen Tages. Die Karte ist zoombar und kann mit der Muas bewegt werden. Fährt man nun über Städte oder
+Fahrten des aktuellen Tages. Die Karte ist zoombar und kann mit der Maus bewegt werden. Fährt man nun über Städte oder
 einzelne Verbindungen, werden diese hervorgehoben. Wählt man diese aus, so soll man spezielle Daten für
 die getroffene Auswahl bekommen. Um die Auswahl mit weiteren Tagen zu vergleichen, klickt man auf das Hinzufügen einer
 Karte. Es soll möglich sein mehrere Karten gleichzeitig miteinander zu vergleichen. Nun ist es auch möglich in jeder Karte
