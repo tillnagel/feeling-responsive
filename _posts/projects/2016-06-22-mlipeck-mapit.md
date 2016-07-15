@@ -8,7 +8,7 @@ show_meta: false
 categories:
     - projects
 image:
-    title: mapit.jpg
+    title: mlipeck-teaser.jpg
     caption: Erste Entwurf von Map it
 author: Matthias Lipeck
 ---
