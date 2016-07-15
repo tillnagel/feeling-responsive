@@ -2,8 +2,7 @@
 layout: page
 title:  "Outer Space Satellite Database 1974-2015"
 subheadline: Eine Visualisierung über tausende Satelliten nach Ländern.
-teaser: "In diesem interaktiven Plakat,
-soll dem Nutzer einen zeitlichen Überblick der Satellitenanzahl, Art des Satelliten und Besitzer- und Auftraggeberland vermittelt werden. "
+teaser: "Dieses interaktive Plakat ermöglicht dem Betrachter einen zeitlichen Überblick der Satellitenanzahl, Art des Satelliten und Besitzer- und Auftraggeberland. "
 header: no
 show_meta: false
 categories:
