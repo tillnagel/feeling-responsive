@@ -9,7 +9,7 @@ categories:
     - projects
 image:
     title: SurroundFound_Mockup-01.png
-    caption: Citywide view showing bike trajectories
+    caption: Mockup
 author: Melanie Miksch &amp; Sophie Parschat
 ---
 
@@ -33,7 +33,7 @@ Das Filtersystem ermöglicht es sich sein eigenes Ziel festzulegen. Auf der link
 <br />
 <figure>
   <img src="{{ site.urlimg }}/Filtersystem-1-01.png" />
-  <figcaption >Hier koennte ihre Werbung nicht stehen</figcaption>
+  <figcaption >Filtersystem</figcaption>
 </figure>
 
 
