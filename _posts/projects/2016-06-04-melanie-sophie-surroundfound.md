@@ -48,7 +48,7 @@ Der Lineare Weg ist die zweite Darstellung unserer Anwendung. Sie orientiert sic
 * Grüne Marker zeigen wichtige Landmarks auf
 
 <figure>
-  <img src="{{ site.urlimg }}/cf-view2-london-draft.jpg" />
+  <img src="{{ site.urlimg }}/Linear.png" />
   <figcaption >Linearer Weg</figcaption>
 </figure>
 
