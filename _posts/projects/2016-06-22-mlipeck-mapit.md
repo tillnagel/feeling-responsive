@@ -38,7 +38,7 @@ Die in der App [„Moves“](http://moves-app.com) gesammelten Daten werden übe
   <figcaption >App „Moves“</figcaption>
 </figure>
 
-„Map it“ wurde prototypisch mit Processing, Unfolding Maps und D3.js umgesetzt.
+„Map it“ wurde prototypisch mit [Processing](https://processing.org), [Unfolding Maps](http://unfoldingmaps.org) und [D3.js](https://d3js.org) umgesetzt.
 
 <figure>
   <img src="{{ site.urlimg }}/mlipeck-mapit-prototyp.jpg" />
