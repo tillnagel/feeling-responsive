@@ -25,9 +25,7 @@ Die in der App Moves gesammelten Daten werden über eine API ausgelesen und auf 
 
 „Map it“ wurde prototypisch mit Processing, Unfolding Maps und D3.js umgesetzt.
 
-<!--
 <figure>
-  <img src="{{ site.urlimg }}/radialtreeplaces.jpg" />
-  <figcaption >Eine Bildbeschreibung</figcaption>
+  <img src="{{ site.urlimg }}/mlipeck-mapit-prototyp.jpg" />
+  <figcaption >Map it erster Protoyp</figcaption>
 </figure>
--->
