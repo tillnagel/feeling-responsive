@@ -16,7 +16,7 @@ categories:
     - projects
 image:
     title: heimwaerts/heimwaerts_teaser.gif
-    caption: heimwaerts logo mit animierten verbindungen
+    caption:
 author: Stephan Hautzendorfer
 ---
 
@@ -111,9 +111,11 @@ das gewünschte Datum einzustellen.
 
 
 ## Prototyp
+<figure>
 <a href="{{ site.urlimg }}/heimwaerts/plakat_gross.jpg">
-<figcaption >Blabla</figcaption>
+<figcaption >www.hierstehtdiewebsite.de</figcaption>
 </a>
+</figure>
 
 Der Prototyp wurde in D3.js umgesetzt und kann mit dem Browser geöffnet werden. Zur Entwicklung wurde Google Chrome Version 51+ genutzt.
 Es kann in anderen Browsern zu Darstellungsfehlern kommen. Die Funktionen des Prototyps sind nicht vollständig.
