@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Essenskultur"
+title:  "Internationale Restaurants in Berlin"
 subheadline: Internationale Restaurants in Berlin
 teaser: "<em>Essenskultur</em> vergleicht internationale Restaurants mit der Bevölkerungsverteilung."
 header: no
@@ -8,7 +8,7 @@ show_meta: false
 categories:
     - projects
 image:
-    title: cfcityflows-nyc.jpg
+    title: restaurants.jpg
     caption: Citywide view showing bike trajectories
 author: Jingjiao Shi &amp; Yue Su
 ---
