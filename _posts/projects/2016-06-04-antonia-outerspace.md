@@ -2,7 +2,8 @@
 layout: page
 title:  "Outer Space Satellite Database 1974-2015"
 subheadline: Eine Visualisierung über tausende Satelliten nach Ländern.
-teaser: "<em>cf. city flows</em> is a comparative visualization environment of urban bike mobility designed to help citizens casually analyze three bike-sharing systems in the context of a public exhibition space."
+teaser: "<em>cf. city flows</em>In diesem interaktiven Plakat,
+soll dem Nutzer einen zeitlichen Überblick der Satellitenanzahl, Art des Satelliten und Besitzer- und Auftraggeberland vermittelt werden. "
 header: no
 show_meta: false
 categories:
