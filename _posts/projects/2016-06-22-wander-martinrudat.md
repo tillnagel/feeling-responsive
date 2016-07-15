@@ -24,10 +24,18 @@ Ziel von „wander“ ist es, den Benutzer dazu anzuregen neue Orte seiner Umgeb
 
 <figure>
   <img src="{{ site.urlimg }}/wander/teaser.png" />
-  <figcaption >Gastaltung mit mapbox.com</figcaption>
+  <figcaption >Setzen eines Standpunktes</figcaption>
+</figure>
+<figure>
+  <img src="{{ site.urlimg }}/wander/radius.png" />
+  <figcaption >Setzen eines Radius</figcaption>
+</figure>
+<figure>
+  <img src="{{ site.urlimg }}/wander/routen.png" />
+  <figcaption >Gefundene Routen innerhalb des Radius</figcaption>
 </figure>
 
 <figure>
   <img src="{{ site.urlimg }}/wander/wander_routes.png" />
-  <figcaption >Gewanderte Strecken</figcaption>
+  <figcaption >Gewanderte Routen</figcaption>
 </figure>
