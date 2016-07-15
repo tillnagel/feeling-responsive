@@ -17,13 +17,14 @@ Du möchtest etwas unternehmen, doch weißt nicht wo und was? Bei „SurroundFou
 Kennenlernen der Stadt.
 
 ## Filtersystem
----
+
 Das Filtersystem ermöglicht es sich sein eigenes Ziel festzulegen. Auf der linken Seite befindet sich die Button Bar, welche die verschiedenen Kategorien bereitstellt. Sobald eine der Kategorien ausgewählt wurde, werden die Marker eingeblendet. Diese geben einen Überblick der bevorstehenden Veranstaltungen. Nun können über Hover die Informationen angezeigt werden. Ist das passende Event gefunden, können sie sich nun den Weg dorthin generieren lassen.
 
 
-* One thing
-* Another thing
-* And yet another one.
+* Roter Marker markiert deinen Standpunkt
+* Orangene Marker zeigen Veranstaltungen in deiner Nähe
+* Isolines geben die Entfernung vom Standpunkt zum
+  Ziel in 5 Minuten Abschnitten an
 
 <figure>
   <img src="{{ site.urlimg }}/cf-view2-london-draft.jpg" />
