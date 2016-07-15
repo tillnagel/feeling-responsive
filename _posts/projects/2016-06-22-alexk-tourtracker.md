@@ -8,23 +8,23 @@ show_meta: false
 categories:
     - projects
 image:
-    title: cfcityflows-nyc.jpg
-    caption: Citywide view showing bike trajectories
+    title: Tourtracker_Header.jpg
+    caption: 2016 Version des TourTrackers
 author: Alex Kaatz
 ---
 
-Der TourTracker ist eine Anwendung für Fans, sich die Tourtermine ihrer Band anzeigen zu lassen. Diese werden nicht wie gewöhnlich einfach als Liste ausgegeben, sondern gleich als Punkte auf einer Karte angezeigt. Die Anwendung erleichtert das Auffinden von Konzerten in der Nähe. Konzerte werden nicht mehr in abstrakter Listenformsondern in Verbindung mit Kartendaten dargestellt. Die Punkte sind in chronologischer Reihenfolge verbunden und sind durch eine Farbkodierung in vergangene und noch austehende Auftritte unterscheidbar. Über den Kalender kann man sich Daten auf zwei verschiedene Arten eingrenzen lassen. In der ersten Ansicht, gleich nach dem Öffnen einer Tour, werden alle Daten angezeigt. Mit Klick auf einen Monat filtert der TourTracker alle Daten heraus, und es werden nurnoch Daten dieses Monats angezeigt. 
+Der TourTracker ist eine Anwendung für Fans, sich die Tourtermine ihrer Band anzeigen zu lassen. Diese werden nicht wie gewöhnlich einfach als Liste ausgegeben, sondern gleich als Punkte auf einer Karte angezeigt. Die Anwendung erleichtert das Auffinden von Konzerten in der Nähe. Konzerte werden nicht mehr in abstrakter Listenformsondern in Verbindung mit Kartendaten dargestellt. Die Punkte sind in chronologischer Reihenfolge verbunden und sind durch eine Farbkodierung in vergangene und noch austehende Auftritte unterscheidbar. Über den Kalender kann man sich Daten auf zwei verschiedene Arten eingrenzen lassen. In der ersten Ansicht, gleich nach dem Öffnen einer Tour, werden alle Daten angezeigt. Mit Klick auf einen Monat filtert der TourTracker alle Daten heraus, und es werden nurnoch Daten dieses Monats angezeigt.
 
 ## Visualization Design
-*cf. city flows* has three viewing modes, all visualizing trips of rented bikes, but focusing on different levels of spatial and temporal granularity of cycling mobility:
+*TourTracker 2016* beinhaltet die neuesten Tourdaten ausgewählter Bands visualisiert als Marker auf der Weltkarte. Mithilfe des Kalenders kann man sich spezielle Daten herausfiltern um die Ansicht einzugrenzen.
 
-* The citywide view aggregates all trajectories of bike-sharing trips for a given day and animates the trails for trips at a given time.
-* In the station view only the bike trips to and from a selected station are shown, allowing the distinction between incoming and outgoing.
-* A small-multiple view visualizes spatiotemporal patterns for three selected stations each in an exploded view that separates incoming from outgoing and morning from afternoon/evening trips.
+* Standartmäßig werden die aktuellen Daten der Tour von 2016 angezeigt. Man kann sich aber auch die Daten der vergangenen zwei Jahre angucken, um diese evtl. zu vergleichen.
+* Zur Vereinfachung wird durch eine Farbkodierung die Tour unterschieden. Rot steht dabei für schon gespielte, gelb für noch ausstehende Termine.
+* Durch den Kalender kann man sich auch nur die Daten eines Monats ausgeben lassen.
 
 <figure>
-  <img src="{{ site.urlimg }}/cf-view2-london-draft.jpg" />
-  <figcaption >Eine Bildbeschreibung</figcaption>
+  <img src="{{ site.urlimg }}/Tourtracker_VergleichKapellePetra.jpg" />
+  <figcaption >Vergleich der Kapelle Petra Tour von 2015 und 2016</figcaption>
 </figure>
 
 
