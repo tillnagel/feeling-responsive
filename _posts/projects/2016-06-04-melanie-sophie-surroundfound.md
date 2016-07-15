@@ -17,7 +17,9 @@ Du möchtest etwas unternehmen, doch weißt nicht wo und was? Bei „SurroundFou
 Kennenlernen der Stadt.
 
 ## Filtersystem
-Quisque quis odio dictum, *faucibus diam* sed, molestie ligula. Sed pulvinar condimentum condimentum. Maecenas quis faucibus lectus. Praesent dapibus nibh id augue consequat venenatis. Curabitur at magna risus. _Duis mi dolor_, ornare non sagittis a, viverra eu ante. Quisque felis sapien, porttitor eu suscipit at, vulputate a dui. Vestibulum mollis leo ac orci venenatis pretium. In hac habitasse platea dictumst. Vivamus tempor lacus quis dignissim euismod. Vivamus nec lorem sed arcu ornare dignissim.
+
+Das Filtersystem ermöglicht es sich sein eigenes Ziel festzulegen. Auf der linken Seite befindet sich die Button Bar, welche die verschiedenen Kategorien bereitstellt. Sobald eine der Kategorien ausgewählt wurde, werden die Marker eingeblendet. Diese geben einen Überblick der bevorstehenden Veranstaltungen. Nun können über Hover die Informationen angezeigt werden. Ist das passende Event gefunden, können sie sich nun den Weg dorthin generieren lassen.
+
 
 * One thing
 * Another thing
