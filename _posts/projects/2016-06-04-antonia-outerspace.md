@@ -2,7 +2,7 @@
 layout: page
 title:  "Outer Space Satellite Database 1974-2015"
 subheadline: Eine Visualisierung über tausende Satelliten nach Ländern.
-teaser: "<em>cf. city flows</em>In diesem interaktiven Plakat,
+teaser: "In diesem interaktiven Plakat,
 soll dem Nutzer einen zeitlichen Überblick der Satellitenanzahl, Art des Satelliten und Besitzer- und Auftraggeberland vermittelt werden. "
 header: no
 show_meta: false
