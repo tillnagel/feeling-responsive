@@ -39,7 +39,7 @@ Das Filtersystem ermöglicht es sich sein eigenes Ziel festzulegen. Auf der link
 
 ## Linearer Weg
 <br />
-Hier kommt der Text zum Linearen Weg.
+Der Lineare Weg ist die zweite Darstellung unserer Anwendung. Sie orientiert sich an diejenigen Kreuzungen an denen abgebogen werden muss. Diese werden durch farbige Punkte dargestellt, welche sich in ihrer Farbigkeit nach den Isolines richten. Andernfalls werden sie als einfache Linien auf dem Weg markiert. Sobald ein Maneuver erreicht ist, richtet sich die Karte neu nach dem Nutzer aus.
 
 
 * Kreise auf der Strecke sind Hinweise, wann abgebogen werden muss
@@ -67,3 +67,9 @@ optionaler Umweg fungieren.
     <img src="{{ site.urlimg }}/cf-view2-london-draft.jpg" />
     <figcaption >Landsmarks</figcaption>
   </figure>
+
+
+## Daten
+<br />
+Die Daten stammen von Overpass Turbo, welches uns erlaubten Information über verschiedene Lokalitäten
+aus verschiedenen Kategorien zu beziehen. Weginformationen und Isolineinformationen stammen von einer Here Maps API.
