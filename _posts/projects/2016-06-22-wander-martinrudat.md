@@ -9,7 +9,7 @@ categories:
     - projects
 image:
     title: wander/teaser.png
-    caption: Gestaltung der Karte via mapbox.com
+    caption:
 author: Martin Rudat
 ---
 
@@ -22,4 +22,12 @@ Ziel von „wander“ ist es, den Benutzer dazu anzuregen neue Orte seiner Umgeb
 
 
 
-![](wander/wander_routes.png)
+<figure>
+  <img src="{{ site.urlimg }}/wander/teaser.png" />
+  <figcaption >Gastaltung mit mapbox.com</figcaption>
+</figure>
+
+<figure>
+  <img src="{{ site.urlimg }}/wander/wander_routes.png" />
+  <figcaption >Gewanderte Strecken</figcaption>
+</figure>
