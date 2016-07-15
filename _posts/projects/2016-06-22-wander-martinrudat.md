@@ -2,19 +2,23 @@
 layout: page
 title:  "wander"
 subheadline: A random generated route planner
-teaser: "You wander around... "
+teaser: “Not all those who wander are lost”
 header: no
 show_meta: false
 categories:
     - projects
 image:
-    title: cfcityflows-nyc.jpg
+    title: wander/teaser.png
     caption: Citywide view showing bike trajectories
 author: Martin Rudat
 ---
 
-Three high-resolution screens show the space of flows of New York City, Berlin, and London through visualizing bike sharing systems of these world cities. By showing the flow of multiple cities side by side, we can compare their extent and dynamics. Tracing urban movements accentuates different urban structures, and contrasts grid-plan cities like New York with historically grown cities such as Berlin. It also enables us to observe and dwell on similarities and differences in various bike-sharing systems. With our visualizations we want to understand the pulse of urban mobility, and create portraits of a city defined by its transient dynamics.
+“Not all those who wander are lost”
 
+Dieses Zitat J.R.R Tolkiens hat mich dazu
+inspiriert einen zufallsgenerierten Routenplaner zu konzipieren. Bei „wander“ soll es sich sich um eine Kombination aus mobiler App und Desktop Applikation handeln. Der Benutzer setzt einen Startpunkt und definiert die Entfernung, die er wandern will. Die App setzt einen Radius, entsprechend gesetzter Entfernung,  im Umkreis des Startpunktes und wählt einen Zufälligen Zielpunkt und Route aus. Der Benutzer soll dabei von einer magischen Melodie geleitet werden die am stärksten ist wenn der Benutzer die richtige Route einhält. Dabei wird die Richtung des Smartphones ausgewärtet, die die umliegende Umgebung zum Vorschein bringt.
+(siehe Bild oben)
+Ziel von „wander“ ist es, den Benutzer dazu anzuregen neue Orte seiner Umgebung kennenzulernen und seine Umgebung und deren Details besser wahrzunehmen. Er soll erkennen, dass nicht das unbekannte Ziel das Ziel ist sondern der Weg an sich.
 
 ## Visualization Design
 *cf. city flows* has three viewing modes, all visualizing trips of rented bikes, but focusing on different levels of spatial and temporal granularity of cycling mobility:
