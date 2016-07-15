@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Outer Space"
+title:  "Outer Space Satellite Database 1974-2015"
 subheadline: Visualisierung der Länder von Satelliten.
 teaser: "<em>cf. city flows</em> is a comparative visualization environment of urban bike mobility designed to help citizens casually analyze three bike-sharing systems in the context of a public exhibition space."
 header: no
@@ -21,6 +21,10 @@ Die Grundlage der Visualisierung basiert auf drei Fragestellungen. Wie viele Sat
 
 
 <figure>
-  <img src="{{ site.urlimg }}/2Screens.png" />
-  <figcaption >Eine Bildbeschreibung</figcaption>
+  <img src="{{ site.urlimg }}/startscreen.jpg" />
+  <figcaption >Startscreen Satelliten Animation</figcaption>
+</figure>
+<figure>
+  <img src="{{ site.urlimg }}/interaktiv.jpg" />
+  <figcaption >interaktive Anwendung</figcaption>
 </figure>
