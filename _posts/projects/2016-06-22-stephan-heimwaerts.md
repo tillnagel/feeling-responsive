@@ -44,7 +44,7 @@ die Abfahrtort und -zeit, Ankunftsort und angebotene Fahrten am gesamten Tag zu 
 Die Genauigkeit der Daten kann leider nicht überprüft werden. Ob eine Fahrt wirklich stattfand
 oder ob der Ankunftsort auch das letzte Ziel der Fahrt war, muss leider unbeantwortet bleiben.
 
-## Daten visualisieren
+## erste Datenvisualisierung
 Für meinen ersten Datensatz wählte ich das DFB-Pokal-Wochenende bei dem Borussia Dortmund und
 Bayern München in Berlin gegeneinander spielten. Meine Annahme war, dass
 siginifikant mehr Mitfahrgelegenheiten für die Strecken Dortmund nach Berlin und München nach Berlin
@@ -54,13 +54,15 @@ in dem/den Tag/Tagen vor dem besagten Spiel angeboten würden.
   <img src="{{ site.urlimg }}/heimwaerts/dfb_monatsansicht.png" />
   <figcaption >Insgesamt werden mehr Mitfahrgelegenheiten mit Start in München angeboten. Eine Rhythmik der angebotenen Fahrten ist erkennbar.</figcaption>
 </figure>
+
+
 <figure>
   <img src="{{ site.urlimg }}/heimwaerts/dfb_wochenenden.png" />
-  <figcaption >sichtbare Erhöhung der angebotenen Mitfahrgelegenheiten zum DFB-Pokal-Wochenende</figcaption>
+  <figcaption >Sichtbare Erhöhung der angebotenen Mitfahrgelegenheiten zum DFB-Pokal-Wochenende</figcaption>
 </figure>
 <figure>
   <img src="{{ site.urlimg }}/heimwaerts/dfb_feiertage.png" />
-  <figcaption >An den Tagen vor Feiertagen werden sehr viel mehr Fahrten angeboten.</figcaption>
+  <figcaption >An Tagen vor Feiertagen werden sehr viel mehr Fahrten angeboten.</figcaption>
 </figure>
 
 Um ein aussagekräftiges Ergebnis zu erhalten, verglich ich das ausgewählte Wochenende mit
@@ -72,7 +74,7 @@ Ich überprüfte die Strecken von Halle (Saale) in die einhundert größten deut
 Gesetzmäßigkeiten. Auch hier kam deutlich heraus, dass gerade am Freitag und Sonntag wesentlich
 mehr Mitfahrgelegenheiten angeboten werden. Grundsätzlich kann festgehalten werden, dass die
 Nähe der Stadt Einfluss auf die Anzahl der angebotenen Fahrten hat. So werden beispielsweise
-sehr viele Fahrten nach Leipzig und Bitterfeld angeboten und wesentlich weniger nach Frankfurt/Main oder Stuttgart.
+sehr viele Fahrten nach Leipzig und Bitterfeld angeboten und wesentlich weniger nach Frankfurt/Main oder Stuttgart.     
 
 
 <figure>
@@ -84,17 +86,25 @@ Geordnet nach Anzahl der Einwohner.</figcaption>
 
 
 
-## Visualization Design
-*cf. city flows* has three viewing modes, all visualizing trips of rented bikes, but focusing on different levels of spatial and temporal granularity of cycling mobility:
+## Vizualisierungsprozess
+Es sollte eine Browser-Anwendung entstehen in der die Nutzer die Möglichkeit haben
+verschiedene Tage miteinander zu vergleichen. Der Nutzer sollte die Möglichkeit bekommen
+von allgemeinen Daten, wie der Anzahl der gesamten Fahrten von einem Tag, zu detaillierteren
+Daten zu gelangen, wie eine Aufschlüsselung zu welcher Tageszeit auf eine bestimmte Strecke
+befahren wird.     
+Um dies darzustellen sieht der Nutzer zum Start der Applikation eine Deutschlandkarte mit den
+Fahrten des aktuellen Tages. Die Karte ist zoombar und kann mit der Muas bewegt werden. Fährt man nun über Städte oder
+einzelne Verbindungen, werden diese hervorgehoben. Wählt man diese aus, so soll man spezielle Daten für
+die getroffene Auswahl bekommen. Um die Auswahl mit weiteren Tagen zu vergleichen, klickt man auf das Hinzufügen einer
+Karte. Es soll möglich sein mehrere Karten gleichzeitig miteinander zu vergleichen. Nun ist es auch möglich in jeder Karte
+das gewünschte Datum einzustellen.     
 
-* The citywide view aggregates all trajectories of bike-sharing trips for a given day and animates the trails for trips at a given time.
-* In the station view only the bike trips to and from a selected station are shown, allowing the distinction between incoming and outgoing.
-* A small-multiple view visualizes spatiotemporal patterns for three selected stations each in an exploded view that separates incoming from outgoing and morning from afternoon/evening trips.
+Für die Visualisierung wurde D3.js genutzt.
 
 
 
 
-## Design Prozess
+## Prototyp
 In our process of exploring the bike data, and designing the visualizations we created lots of visual experiments. Some of those we share below.
 
 
