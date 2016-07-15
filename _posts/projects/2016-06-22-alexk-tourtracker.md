@@ -8,7 +8,7 @@ show_meta: false
 categories:
     - projects
 image:
-    title: Tourtracker_Header.jpg
+    title: TourTracker/Tourtracker_Header.jpg
     caption: 2016 Version des TourTrackers
 author: Alex Kaatz
 ---
@@ -23,13 +23,23 @@ Der TourTracker ist eine Anwendung für Fans, sich die Tourtermine ihrer Band an
 * Durch den Kalender kann man sich auch nur die Daten eines Monats ausgeben lassen.
 
 <figure>
-  <img src="{{ site.urlimg }}/Tourtracker_VergleichKapellePetra.jpg" />
+  <img src="{{ site.urlimg }}/TourTracker/Tourtracker_VergleichKapellePetra.jpg" />
   <figcaption >Vergleich der Kapelle Petra Tour von 2015 und 2016</figcaption>
+</figure>
+
+<figure>
+  <img src="{{ site.urlimg }}/TourTracker/Tourtracker_Kalender.jpg" />
+  <figcaption >Standart Kalenderansicht und Auswähl des Monats August</figcaption>
 </figure>
 
 
 ## Design Process
-In our process of exploring the bike data, and designing the visualizations we created lots of visual experiments. Some of those we share below.
+Mit der Anwendung wollte ich weg von den klassischen Ansichten von Tourdaten in Form von Listen. Eine reduzierte Karte erleichtert dabei dem Nutzer die Übersicht. Informationen zu den einzelnen Bands wurden von vorn herein nicht in den Prozess mit einbezogen, da ich das Augenmerk allein auf die Touren legen wollte. Der Kalender ist ein weiteres Werkzeug für den Nutzer die Daten einer Band weiter einzugrenzen. So werden zunächst alle Tourtermine auf der Karte und auch im Kalender angezeigt. Durch Auswahl eines Monats werden alle Termine ausserhalb des ausgewählten Monats ausgeblendet.
 
+<figure>
+  <img src="{{ site.urlimg }}/TourTracker/Tourtracker_RumjacksAugust.jpg" />
+  <figcaption >Standart Kalenderansicht und Auswähl des Monats August</figcaption>
+</figure>
 
 ## Daten
+Um die einzelnen Lokations auf der Karte meiner Anwendung zu zeigen, habe ich die Daten der Seite *songkick.com* beziehen können. Die API lieferte neben dem Datum auch gleich gut auswertbare Angaben zu den einzelnen Lokations und Events, die ich in das Projekt mit einfließen lassen konnte.
