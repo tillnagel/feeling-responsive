@@ -17,13 +17,10 @@ Es umkreisen tausende Satelliten die Erde. Wettersatelliten helfen den Meteorolo
 
 Die Grundlage der Visualisierung basiert auf drei Fragestellungen. Wie viele Satelliten besitzt jede individuelle Nation? Welche Länder kooperieren miteinander? Und in welchen Jahren gab es einen Satellitenaufschwung? Meine interaktive Anwendung zeigt in einem radialen „Chord Chart“ die Kooperationen zwischen verschiedenen Ländern. Je ausgeprägter die Linien, desto intensiver die Zusammenarbeit zwischen den Ländern. Mit der linken Maustaste kann ein Land ausgewählt werden. Das aus­gewählte Land wird in der Weltkarte oberhalb angezeigt. Im mittleren Diagramm wird die Anzahl der Satelliten in Abhängigkeit von der Jahreszahl abgebildet. Ist kein Land gewählt, erscheinen globale Informationen.
 
+>>>>>>> 1242463841ea3efcb6c5fde9b00dc8d9a56c4e7d
 
 
 <figure>
-  <img src="{{ site.urlimg }}/cf-2Screens.png" />
+  <img src="{{ site.urlimg }}/2Screens.png" />
   <figcaption >Eine Bildbeschreibung</figcaption>
 </figure>
-
-
-## Subheadline
-Suspendisse porttitor, velit a mattis ultrices, ipsum mauris placerat orci, eu sagittis nulla est sed nunc. Phasellus ac ultrices diam.
