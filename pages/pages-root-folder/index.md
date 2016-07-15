@@ -6,7 +6,8 @@ teaser: "Im Kurs wurden anhand aktueller Design- und Forschungsansätze der Date
 permalink: /index.html
 header: no
 ---
-*Urbane Ebenen* ist ein Kurs unter der Leitung von Gastprofessor Dr. [Till Nagel][1], mit Unterstützung von Mathias Jüsche.<br/>Sommersemester 2016,  Burg Giebichenstein Kunsthochschule Halle, am Studiengang [Multimedia|VR-Design][2].
+*Urbane Ebenen* ist ein Kurs unter der Leitung von Gastprofessor Dr. [Till Nagel][1] und Mathias Jüsche.<br/>
+Sommersemester 2016, Burg Giebichenstein Kunsthochschule Halle, am Studiengang [Multimedia|VR-Design][2].
 <!--more-->
 
 {% for post in site.categories.projects %}

@@ -33,7 +33,7 @@ Das Filtersystem ermöglicht es sich sein eigenes Ziel festzulegen. Auf der link
 <br />
 <figure>
   <img src="{{ site.urlimg }}/cf-view2-london-draft.jpg" />
-  <figcaption >Eine Bildbeschreibung</figcaption>
+  <figcaption >Hier koennte ihre Werbung nicht stehen</figcaption>
 </figure>
 
 
