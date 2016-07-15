@@ -13,7 +13,14 @@ image:
 author: Melanie Miksch &amp; Sophie Parschat
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eleifend interdum turpis blandit vehicula. Vestibulum sit amet lacus enim. Sed lobortis consectetur lectus, id posuere neque venenatis eget. Mauris accumsan orci vel gravida venenatis. Curabitur elit urna, consequat ut dolor et, eleifend mattis mauris. Suspendisse porttitor, velit a mattis ultrices, ipsum mauris placerat orci, eu sagittis nulla est sed nunc. Phasellus ac ultrices diam. Aenean convallis dolor nec sem dictum, et gravida quam scelerisque. Proin arcu nisi, dictum eu suscipit sed, ornare et lacus. Quisque sed est vel nisl tempus eleifend. Sed facilisis dui sem, sed rutrum mauris mattis eget. Donec eleifend ultricies eros ac iaculis. Fusce iaculis, odio eu viverra eleifend, nisl urna vulputate dui, eleifend venenatis massa dui id ipsum.
+Du möchtest etwas unternehmen, doch weißt nicht wo und was? Bei „SurroundFound“ geht es
+um das Hier und Jetzt, um den Moment. Stoppe nicht deine Unternehmungslust mit dem Durchsuchen
+langer Listen. Lerne Deine Stadt oder noch nicht gesehene Orte kennen. Finde und entdecke
+deinen Weg zu Veranstaltungen in Deiner Nähe. Du hast die Möglichkeit zwischen verschiedenen
+Kategorien zu schalten und Dein Ziel individuell zu bestimmen. Zusätzlich geben Dir Isolines die grobe Entfernung an. Somit kannst du Entscheiden welche Distanz Du auf Dich nehmen möchtest.
+Ist die Entscheidung gefallen wirst Du über eine linearisierte Wegdarstellung geleitet.Kreuzungen an denen Abgebogen werden muss, sind durch Kreise gekennzeichent, welche die Farbigkeit der Isolines aufgreifen. Sobald eine Aktion statt gefunden hat, richtet sich die Route neu nach dem Nutzer aus. Entlang eines Weges befinden sich oftmals wichtige Gebäude, Sehenswürdigkeiten 
+oder interessante Orte. Diese orientieren sich zum einen an Deiner Sichtachse und zum anderen an der Entfernung zur Route und dienen zur visuellen Orientierung beziehungsweise zum
+Kennenlernen der Stadt.
 
 ## Subheadline
 Quisque quis odio dictum, *faucibus diam* sed, molestie ligula. Sed pulvinar condimentum condimentum. Maecenas quis faucibus lectus. Praesent dapibus nibh id augue consequat venenatis. Curabitur at magna risus. _Duis mi dolor_, ornare non sagittis a, viverra eu ante. Quisque felis sapien, porttitor eu suscipit at, vulputate a dui. Vestibulum mollis leo ac orci venenatis pretium. In hac habitasse platea dictumst. Vivamus tempor lacus quis dignissim euismod. Vivamus nec lorem sed arcu ornare dignissim.
