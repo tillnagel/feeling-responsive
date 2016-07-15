@@ -30,7 +30,7 @@ Das Filtersystem ermöglicht es sich sein eigenes Ziel festzulegen. Auf der link
 * Orangene Marker zeigen Veranstaltungen in deiner Nähe
 * Isolines geben die Entfernung vom Standpunkt zum <br />
   Ziel in 5 Minuten Abschnitten an
-
+<br />
 <figure>
   <img src="{{ site.urlimg }}/cf-view2-london-draft.jpg" />
   <figcaption >Eine Bildbeschreibung</figcaption>
