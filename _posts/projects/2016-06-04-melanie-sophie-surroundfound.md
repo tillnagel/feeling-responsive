@@ -47,12 +47,23 @@ Hier kommt der Text zum Linearen Weg.
 * Linien auf der Strecke markieren nicht benutzte Kreuzungen
 * Grüne Marker zeigen wichtige Landmarks auf
 
+<figure>
+  <img src="{{ site.urlimg }}/cf-view2-london-draft.jpg" />
+  <figcaption >Linearer Weg</figcaption>
+</figure>
+
+
 ## Landmarks
 <br />
-Die Landmarks dienen zum einen zur visuellen Orientieren und zum anderen zum
+Die Landmarks dienen zum einen zur visuellen Orientierung und zum anderen zum
 neuentdecken beziehungsweise kennenlernen der Stadt. Somit können sie auch als
 optionaler Umweg fungieren.
 
 
 * zeigen wichtige Gebäude, Parks oder Sehenwürdigkeiten <br />
   entlang deiner Sichtachse
+
+  <figure>
+    <img src="{{ site.urlimg }}/cf-view2-london-draft.jpg" />
+    <figcaption >Landsmarks</figcaption>
+  </figure>
