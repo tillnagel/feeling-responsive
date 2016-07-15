@@ -55,6 +55,11 @@ Aufgrund der Daten konzentriert sich die Visualisierung auf diejenigen Stadtvier
 
 Die Visualisierung durch Projektion der Umfrage-Ergebnisse auf das Stadtplan-Modell, in dem diese Stadtviertel plastisch hervorgehoben und voneinander abgegrenzt sind, fokussiert vorrangig die Beliebtheit der Stadtviertel, gemessen an den Indikatoren „Grünanteil“, „Freizeitmöglichkeiten“ und „Lebensgefühl“. Dass gerade diese Indikatoren für die Charakterisierung der Stadtviertel maßgebend sind, legten die Ergebnisse der Umfragen und Aufgabenstellungen nahe. Gerade aus den Äußerungen der Studierenden im Rahmen der offenen Fragen und Aufgabenstellungen ergab sich, dass im Grunde das „Lebensgefühl“ in jedem Stadtviertel durch jeweils nur wenige, aber spezifische Aspekte geprägt und gekennzeichnet ist, die in einer Mehrzahl von Antworten übereinstimmend angeführt werden. Auf diese Weise wird ein durch die Angaben übereinstimmend wiedergegebener Charakter des Stadtviertels deutlich, welcher das Viertel gleichsam prägt und es so gegenüber den anderen Vierteln hervorhebt.
 
+<figure>
+<img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-cultural-fotowand-01.jpg" />
+<figcaption >Aussschnitt der Fotoergebnisse</figcaption>
+</figure>
+
 ## Allgemeine Erkenntnisse
 Die Reliefstruktur des Stadtplan-Modells entspricht der Beliebtheit der einzelnen Stadtviertel, die ich an der Frage gemessen habe, in welchem Viertel die Studierenden ihre Freizeit am liebsten verbringen. Damit korrelieren auch die Angaben zu der Frage, ob die Befragten mit den Freizeitmöglichkeiten in ihrem Stadtviertel vollkommen zufrieden sind. Je beliebter danach ein Viertel ist, desto höher erhebt sich dieses Viertel im Modell gegenüber den anderen.
 
@@ -63,6 +68,8 @@ Mit großem Abstand erreichten die Viertel Giebichenstein und Paulusviertel die 
 Daraus ergibt sich für mich zweierlei: Allein der Umfang des Angebots an Wohnungen kann jedenfalls für die Befragten nicht maßgebend für die Wahl des Wohnorts gewesen sein. Hierüber entscheiden wahrscheinlich andere Faktoren, etwa die Struktur und der Charakter des Viertels und die Freizeitmöglichkeiten, die es bietet. Nach den zur Verfügung stehenden statistischen Daten dürften finanzielle Gesichtspunkte eher als nachrangig erscheinen, da sich der durchschnittliche Mietpreis je Quadratmeter kaum unterscheidet. Und zum anderen nehmen die Befragten in Kauf, ihren Freizeitaktivitäten in den attraktiven Vierteln nachzugehen, auch wenn sie dort nicht wohnen – mit anderen Worten, es gibt hinsichtlich der Aktivitäten in der Freizeit „Wanderungsbewegungen“ von den weniger attraktiven Vierteln in die beliebten Viertel Giebichenstein und Paulusviertel.
 
 Auffallend ist allerdings auch: Die spezifische Charakterisierung der zentrumsnahen Stadtviertel führt nicht dazu, dass die Studierenden ihre Freizeitaktivitäten auf „ihre“ Viertel beschränken. Insbesondere was die Erholungsmöglichkeiten in der Natur angeht, werden Giebichenstein, Paulusviertel und Nördliche Innenstadt nahezu gleichermaßen als attraktiv angesehen, selbst wenn sie nur ein unzureichendes Angebot an nutzbaren Grünflächen bieten – dies wird jeweils durch die gute und schnelle Erreichbarkeit von Grünflächen in anderen Vierteln, insbesondere die Saalaue und die Peißnitzinsel, kompensiert. Der Mangel an Grün im Stadtviertel führt mithin in der subjektiven Einschätzung der Studierenden nicht zu einer negativen Bewertung des Viertels. Darin zeigt sich der Effekt einer mittleren Großstadt wie Halle, die selbst zentrumsnah großflächig Erholungsmöglichkeiten im Grünen bietet, die wegen der überschaubaren Größe der Stadt leicht zu erreichen sind.
+
+<iframe src="https://vimeo.com/169243426{{ include.id }}" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 ## Altstadt - Straßencafés und Einkauf
@@ -85,12 +92,5 @@ Nähe zur Natur und Kleingartenanlagen „zum Kirschenklauen“ zeichnen zwar au
 ## Saalaue - Halles „Grüne Lunge“
 Hier wohnt man nicht, denn es gibt hier nur wenige Wohnungen. Aber hier verbringt man seine Freizeit im Grünen und am Wasser „der wilden Saale“. Weitläufiges, die Stadt durchziehendes Naherholungsgebiet.  
 
-
 ## Fazit
 Durch die unterschiedlichen Erhebungsmethoden konnte ich auch emotionale und im Vorfeld nicht unbedingt absehbare Erkenntnisse gewinnen, die Fragen und Aufgabenstellungen deckten ein breiteres Spektrum von Faktoren für die Bewertung des Lebensgefühls ab als es reine kognitive Erhebungen ermöglicht hätten. (Wahrnehmung von Individuen). Daher ermöglicht meine Arbeit einen erweiterten Zugang zu subjektiven, irrrationalen, kreativen und assoziativen Elementen menschlicher Einschätzungen. Meine Arbeit erhebt nicht den Anspruch auf wissenschaftliche Genauigkeit und stellt somit einen groben Überblick dar.
-
-
-<figure>
-  <img src="{{ site.urlimg }}/cf-view2-london-draft.jpg" />
-  <figcaption >Eine Bildbeschreibung</figcaption>
-</figure>
