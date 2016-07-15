@@ -22,7 +22,7 @@ Kennenlernen der Stadt.
 </figure>
 
 ## Filtersystem
-
+<br />
 Das Filtersystem ermöglicht es sich sein eigenes Ziel festzulegen. Auf der linken Seite befindet sich die Button Bar, welche die verschiedenen Kategorien bereitstellt. Sobald eine der Kategorien ausgewählt wurde, werden die Marker eingeblendet. Diese geben einen Überblick der bevorstehenden Veranstaltungen. Nun können über Hover die Informationen angezeigt werden. Ist das passende Event gefunden, können sie sich nun den Weg dorthin generieren lassen.
 
 
@@ -38,7 +38,7 @@ Das Filtersystem ermöglicht es sich sein eigenes Ziel festzulegen. Auf der link
 
 
 ## Linearer Weg
-
+<br />
 Suspendisse porttitor, velit a mattis ultrices, ipsum mauris placerat orci, eu sagittis nulla est sed nunc. Phasellus ac ultrices diam.
 
 
@@ -48,4 +48,11 @@ Suspendisse porttitor, velit a mattis ultrices, ipsum mauris placerat orci, eu s
 * Grüne Marker zeigen wichtige Landmarks auf
 
 ## Landmarks
-Hier soll der Text zu den Landmarks hin.
+<br />
+Die Landmarks dienen zum einen zur visuellen Orientieren und zum anderen zum
+neuentdecken beziehungsweise kennenlernen der Stadt. Somit können sie auch als
+optionaler Umweg fungieren.
+
+
+* zeigen wichtige Gebäude, Parks oder Sehenwürdigkeiten <br />
+  entlang deiner Sichtachse
