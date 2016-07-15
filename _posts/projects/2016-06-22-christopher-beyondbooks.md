@@ -69,7 +69,7 @@ Daraus ergibt sich für mich zweierlei: Allein der Umfang des Angebots an Wohnun
 
 Auffallend ist allerdings auch: Die spezifische Charakterisierung der zentrumsnahen Stadtviertel führt nicht dazu, dass die Studierenden ihre Freizeitaktivitäten auf „ihre“ Viertel beschränken. Insbesondere was die Erholungsmöglichkeiten in der Natur angeht, werden Giebichenstein, Paulusviertel und Nördliche Innenstadt nahezu gleichermaßen als attraktiv angesehen, selbst wenn sie nur ein unzureichendes Angebot an nutzbaren Grünflächen bieten – dies wird jeweils durch die gute und schnelle Erreichbarkeit von Grünflächen in anderen Vierteln, insbesondere die Saalaue und die Peißnitzinsel, kompensiert. Der Mangel an Grün im Stadtviertel führt mithin in der subjektiven Einschätzung der Studierenden nicht zu einer negativen Bewertung des Viertels. Darin zeigt sich der Effekt einer mittleren Großstadt wie Halle, die selbst zentrumsnah großflächig Erholungsmöglichkeiten im Grünen bietet, die wegen der überschaubaren Größe der Stadt leicht zu erreichen sind.
 
-<iframe src="https://vimeo.com/169243426{{ include.id }}" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://vimeo.com/169243426" width="637" height="358" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 ## Altstadt - Straßencafés und Einkauf
