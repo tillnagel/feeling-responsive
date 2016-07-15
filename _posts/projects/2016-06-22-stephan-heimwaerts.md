@@ -15,7 +15,7 @@ show_meta: false
 categories:
     - projects
 image:
-    title: heimwaerts_teaser.gif
+    title: heimwaerts/heimwaerts_teaser.gif
     caption: heimwaerts logo mit animierten verbindungen
 author: Stephan Hautzendorfer
 ---
@@ -52,11 +52,11 @@ in dem/den Tag/Tagen vor dem besagten Spiel angeboten würden.
 
 <figure>
   <img src="{{ site.urlimg }}/heimwaerts/dfb_monatsansicht.png" />
-  <figcaption >Insgesamt werden mehr Mitfahrgelegenheiten mit Start in München angeboten. Zusätzlich ist bereits eine Rhythmik in den angebotenen Fahrten erkennbar.</figcaption>
+  <figcaption >Insgesamt werden mehr Mitfahrgelegenheiten mit Start in München angeboten. Eine Rhythmik der angebotenen Fahrten ist erkennbar.</figcaption>
 </figure>
 <figure>
   <img src="{{ site.urlimg }}/heimwaerts/dfb_wochenenden.png" />
-  <figcaption >sichtbare Erhöhung der Anzahl der angebotenen Mitfahrgelegenheiten zum DFB-Pokal-Wochenende</figcaption>
+  <figcaption >sichtbare Erhöhung der angebotenen Mitfahrgelegenheiten zum DFB-Pokal-Wochenende</figcaption>
 </figure>
 <figure>
   <img src="{{ site.urlimg }}/heimwaerts/dfb_feiertage.png" />
@@ -67,8 +67,20 @@ Um ein aussagekräftiges Ergebnis zu erhalten, verglich ich das ausgewählte Woc
 den anderen Wochenenden im Mai. Bei der Strecke zwischen München und Berlin stachen besonders
 das Pfingstwochenende und der Mittwoch vor Christi Himmelfahrt heraus. Ein erstes Indiz, dass
 Mitfahrgelegenheiten zum Heimfahren oder für kurze Wochenend-Trips genutzt werden könnten.
+Später skalierte ich den Datensatz und bezog ihn auf die Stadt Halle (Saale).
+Ich überprüfte die Strecken von Halle (Saale) in die einhundert größten deutschen Städte nach
+Gesetzmäßigkeiten. Auch hier kam deutlich heraus, dass gerade am Freitag und Sonntag wesentlich
+mehr Mitfahrgelegenheiten angeboten werden. Grundsätzlich kann festgehalten werden, dass die
+Nähe der Stadt Einfluss auf die Anzahl der angebotenen Fahrten hat. So werden beispielsweise
+sehr viele Fahrten nach Leipzig und Bitterfeld angeboten und wesentlich weniger nach Frankfurt/Main oder Stuttgart.
 
 
+<figure>
+<a href="{{ site.urlimg }}/heimwaerts/plakat_gross.jpg">
+  <img src="{{ site.urlimg }}/heimwaerts/plakat_klein.png" />
+  <figcaption >Angebotene Mitfahrgelegenheiten von www.blablacar.de zwischen Halle (Saale) und Deutschlands einhundert größten Städten, sowie ausgewählten Städten im Einzugsgebiet Halle (Saale) vom 01.05.2016 — 31.05.2016.
+Geordnet nach Anzahl der Einwohner.</figcaption>
+</figure>
 
 
 
@@ -79,12 +91,7 @@ Mitfahrgelegenheiten zum Heimfahren oder für kurze Wochenend-Trips genutzt werd
 * In the station view only the bike trips to and from a selected station are shown, allowing the distinction between incoming and outgoing.
 * A small-multiple view visualizes spatiotemporal patterns for three selected stations each in an exploded view that separates incoming from outgoing and morning from afternoon/evening trips.
 
-<figure>
-<a href="{{ site.urlimg }}/cf-view2-london-draft.jpg">
-  <img src="{{ site.urlimg }}/cf-view2-london-draft.jpg" />
-  <figcaption >Angebotene Mitfahrgelegenheiten von www.blablacar.de zwischen Halle (Saale) und Deutschlands einhundert größten Städten, sowie ausgewählten Städten im Einzugsgebiet Halle (Saale) vom 01.05.2016 — 31.05.2016.
-Geordnet nach Anzahl der Einwohner.</figcaption>
-</figure>
+
 
 
 ## Design Prozess
