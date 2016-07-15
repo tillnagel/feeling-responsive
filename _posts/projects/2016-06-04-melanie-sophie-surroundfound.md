@@ -64,7 +64,7 @@ optionaler Umweg fungieren.
   entlang deiner Sichtachse
 
   <figure>
-    <img src="{{ site.urlimg }}/cf-view2-london-draft.jpg" />
+    <img src="{{ site.urlimg }}/Landmark_Tap.png" />
     <figcaption >Landsmarks</figcaption>
   </figure>
 
