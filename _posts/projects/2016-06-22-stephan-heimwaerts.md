@@ -44,7 +44,7 @@ die Abfahrtort und -zeit, Ankunftsort und angebotene Fahrten am gesamten Tag zu 
 Die Genauigkeit der Daten kann leider nicht überprüft werden. Ob eine Fahrt wirklich stattfand
 oder ob der Ankunftsort auch das letzte Ziel der Fahrt war, muss leider unbeantwortet bleiben.
 
-## erste Datenvisualisierung
+## Erste Datenvisualisierung
 Für meinen ersten Datensatz wählte ich das DFB-Pokal-Wochenende bei dem Borussia Dortmund und
 Bayern München in Berlin gegeneinander spielten. Meine Annahme war, dass
 siginifikant mehr Mitfahrgelegenheiten für die Strecken Dortmund nach Berlin und München nach Berlin
