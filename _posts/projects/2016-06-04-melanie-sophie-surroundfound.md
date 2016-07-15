@@ -8,7 +8,7 @@ show_meta: false
 categories:
     - projects
 image:
-    title: LogoSchrift-01.png
+    title: SurroundFound_LogoSchrift-01.png
     caption: Citywide view showing bike trajectories
 author: Melanie Miksch &amp; Sophie Parschat
 ---
