@@ -42,12 +42,9 @@ Das Filtersystem ermöglicht es sich sein eigenes Ziel festzulegen. Auf der link
 Suspendisse porttitor, velit a mattis ultrices, ipsum mauris placerat orci, eu sagittis nulla est sed nunc. Phasellus ac ultrices diam.
 
 
-* Kreise auf der Strecke sind Hinweise,<br />
-  wann abgebogen werden muss
-* Farbigkeit der Kreise gibt die <br />
-  Entfernung zum Ziel an
-* Linien auf der Strecke markieren <br />
-  nicht benutzte Kreuzungen
+* Kreise auf der Strecke sind Hinweise, wann abgebogen werden muss
+* Farbigkeit der Kreise gibt die Entfernung zum Ziel an
+* Linien auf der Strecke markieren nicht benutzte Kreuzungen
 * Grüne Marker zeigen wichtige Landmarks auf
 
 ## Landmarks
