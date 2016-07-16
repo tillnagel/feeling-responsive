@@ -28,5 +28,8 @@ Es ist erwähnenswert, dass China auf dem dritten Platz der Restaurants liegt, i
   <img src="{{ site.urlimg }}/restaurants2.jpg" />
   <figcaption >Schema der Anwendung</figcaption>
 </figure>
+
+<figure>
   <img src="{{ site.urlimg }}/restaurants.jpg" />
   <figcaption >Die Karte zeigt uns die Verteilung der Restaurants und der Bevölkerungsdichte</figcaption>
+</figure>
