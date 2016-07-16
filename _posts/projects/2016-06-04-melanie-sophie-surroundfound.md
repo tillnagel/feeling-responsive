@@ -8,7 +8,7 @@ show_meta: false
 categories:
     - projects
 image:
-    title: SurroundFound_Mockup-01.png
+    title: SurroundFound/Mockup-01.png
     caption: Mockup
 author: Melanie Miksch &amp; Sophie Parschat
 ---
@@ -17,7 +17,7 @@ Du möchtest etwas unternehmen, doch weißt nicht wo und was? Bei „SurroundFou
 Kennenlernen der Stadt.
 <br />
 <figure>
-  <img src="{{ site.urlimg }}/SurroundFound_LogoSchrift-01.png" />
+  <img src="{{ site.urlimg }}/SurroundFound/LogoSchrift-01.png" />
   <figcaption >Schriftlogo</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Das Filtersystem ermöglicht es sich sein eigenes Ziel festzulegen. Auf der link
   Ziel in 5 Minuten Abschnitten an
 <br />
 <figure>
-  <img src="{{ site.urlimg }}/Filtersystem-1-01.png" />
+  <img src="{{ site.urlimg }}/SurroundFound/Filtersystem-1-01.png" />
   <figcaption >Filtersystem</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ Der Lineare Weg ist die zweite Darstellung unserer Anwendung. Sie orientiert sic
 * Grüne Marker zeigen wichtige Landmarks auf
 
 <figure>
-  <img src="{{ site.urlimg }}/Linear.png" />
+  <img src="{{ site.urlimg }}/SurroundFound/Linear.png" />
   <figcaption >Linearer Weg</figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ optionaler Umweg fungieren.
   entlang deiner Sichtachse
 
   <figure>
-    <img src="{{ site.urlimg }}/Landmark_Tap.png" />
+    <img src="{{ site.urlimg }}/SurroundFound/Landmark_Tap.png" />
     <figcaption >Landsmarks</figcaption>
   </figure>
 
@@ -75,6 +75,6 @@ Die Daten stammen von Overpass Turbo, welches uns erlaubten Information über ve
 aus verschiedenen Kategorien zu beziehen. Weginformationen und Isolineinformationen stammen von einer Here Maps API.
 
 <figure>
-  <img src="{{ site.urlimg }}/Daten-01.png" />
+  <img src="{{ site.urlimg }}/SurroundFound/Daten-01.png" />
   <figcaption >Beispiele der Daten</figcaption>
 </figure>
