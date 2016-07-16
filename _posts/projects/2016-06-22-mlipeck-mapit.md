@@ -28,14 +28,14 @@ Dadurch entsteht eine neue Karte für den Nutzer - seine Karte. Diese Form der D
 
 <figure>
   <img src="{{ site.urlimg }}/mlipeck-experimente.jpg" />
-  <figcaption >Darstellungs Experimente</figcaption>
+  <figcaption >Experimente mit verschiedenen Darstellungen und Algorithmen</figcaption>
 </figure>
 
 Die in der App [„Moves“](http://moves-app.com) gesammelten Daten werden über eine API ausgelesen und auf einer Webseite in der Circular TreeMap aufgearbeitet und ausgegeben. Die Webseite bietet neben der graphischen Darstellung auch die Möglichkeit der Interaktion, wie zum Beispiel das Zoomen auf die jeweiligen besuchten Orte oder das Abrufen von weiteren Informationen wie die Dauer sowie die Anzahl der Besuche oder die Zeiträume der Datenaufzeichnung auf die sich die Werte beziehen.
 
 <figure>
   <img src="{{ site.urlimg }}/mlipeck-moves.jpg" />
-  <figcaption >App „Moves“</figcaption>
+  <figcaption >Anzeige der Bewegungen und Orte in der App „Moves“</figcaption>
 </figure>
 
 „Map it“ wurde prototypisch mit [Processing](https://processing.org), [Unfolding Maps](http://unfoldingmaps.org) und [D3.js](https://d3js.org) umgesetzt.
@@ -44,3 +44,5 @@ Die in der App [„Moves“](http://moves-app.com) gesammelten Daten werden übe
   <img src="{{ site.urlimg }}/mlipeck-mapit-prototyp.jpg" />
   <figcaption >Map it erster Protoyp</figcaption>
 </figure>
+
+Im Prototypen kann zwischen verschiedenen Darstellungen gewechselt werden, um persönlich angepasste Visualisierungen seiner Orte zu sehen. So können etwa die Gesamtverweildauer oder die Häufigkeit der Besuche auf die Größe der Kreise abgebildet werden, womit sich auch das gesamte Layout anpasst.
