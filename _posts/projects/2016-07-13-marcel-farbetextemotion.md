@@ -29,7 +29,7 @@ Die New York Times wurde als eine der ältesten und größten Tageszeitungen in 
 Alle Daten wurden mithilfe einer in Unity/C# entwickelten Anwendung heruntergeladen.
 
 #### Natural Language Processing
-Verwendet für die finalen Visualisierungen wurde der Tone Analyzer Service von IBM Watson. 
+Verwendet für die Text-Analyse der finalen Ergebnisse wurde der Tone Analyzer Service von IBM Watson. 
 Der Tone Analyzer nutzt Sprachanalyse, um drei Formen von Umgangston in Texten zu erkennen: emotion, social tone und language tone. Für emotion vergibt er Werte in den Kategorien anger, joy, fear, sadness 
 und disgust . social tone besteht aus den Kategorien openess (Offenheit), conscientiousness (Pflichtgefühl), extroversion (Extroversion), agreeableness (Verträglichkeit) und emotional range (emotionale Bandbreite). language tone umfasst Werte für confident (überzeugt), analytical (analytisch) sowie tentative (zögernd). Die vergebenen Werte liegen jeweils im Bereich von 0 - 1. Alle Werte werden sowohl für den gesamten Text als auch satzweise vergeben. 
 
@@ -90,6 +90,11 @@ Anstelle der zeitlichen Ordnung wie auf dem ersten Plakat werden die Worthäufun
 
 Gleichzeitig wird die Visualisierung ergänzt durch häufig vorhergehende sowie nachfolgende Adjektive, Nomen oder Verben. Dies hat den Vorteil, dass in verschiedenen Kategorien auftretende Worte, beispielsweise das Wort „leader“, im Kontext betrachtet und verglichen werden kann.
 
+<a href="http://www.marcelwiessler.de" target="_blank">www.marcelwiessler.de</a>
+
+
 <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.p	arentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+
 
