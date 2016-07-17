@@ -25,12 +25,18 @@ Aufgrund der offenen Fragestellung und der komplexen Materie geht diese Arbeit e
 
 <figure>
 <a href="{{ site.urlimg }}/farbetextemotion/plakat1-big.jpg">
-  <img src="{{ site.urlimg }}/farbetextemotion/plakat1-preview" /></a>
+  <img src="{{ site.urlimg }}/farbetextemotion/plakat1-preview.jpg" /></a>
   <figcaption>Projektergebnis Plakat 1, 200x92cm</figcaption>
 </figure>
 
-## Design Process
+<figure>
+<a href="http://gaisterhand.de/wp-content/uploads/2016/07/Plakat-3.6-300x92-big.jpg">
+  <img src="{{ site.urlimg }}/farbetextemotion/plakat2-preview.jpg" /></a>
+  <figcaption>Projektergebnis Plakat 2, 300x92cm</figcaption>
+</figure>
 
+---
+###
 <div class="flex-video">
 <iframe src="https://player.vimeo.com/video/173058434" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
@@ -41,3 +47,6 @@ Aufgrund der offenen Fragestellung und der komplexen Materie geht diese Arbeit e
 
 Die New York Times wurde als eine der ältesten und größten Tageszeitungen in Amerika ausgewählt, da sie neben ihrer hohen Gesamtauflage (wochentags 1.124.700 Druckexemplare) auch eine der meistbesuchten Nachrichtenseiten weltweit ist (Platz 5 mit 41.6 Mio monatlichen Besuchern) . Darüber hinaus bietet die New York Times eine sehr gute API an, die u.a. Zugriff auf alle veröffentlichten Artikel zwischen 1851 und heute ermöglicht.
 Bei der Arbeit mit Bildmaterial muss allerdings erwähnt werden, dass ab ca. 2012 die Artikelbilder online nicht mehr verfügbar sind.
+
+<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
