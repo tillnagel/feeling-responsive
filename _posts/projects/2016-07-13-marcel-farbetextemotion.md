@@ -21,9 +21,14 @@ Die Stimmung der Texte wird mit Hilfe sogenannter Sentiment Analysis Software er
 
 Aufgrund der offenen Fragestellung und der komplexen Materie geht diese Arbeit ergebnisoffen und experimentell vor. Die Visualisierungen sind nicht nur Mittel zur Kommunikation der Ergebnisse sondern maßgeblicher Bestandteil der Analyse und der Auseinandersetzung mit dem Medium.
 
-## Prozess
+## Daten
 
-### Video
+#### New York Times
+Die New York Times wurde als eine der ältesten und größten Tageszeitungen in Amerika ausgewählt, da sie neben ihrer hohen Gesamtauflage (wochentags 1.124.700 Druckexemplare) auch eine der meistbesuchten Nachrichtenseiten weltweit ist (Platz 5 mit 41.6 Mio monatlichen Besuchern) . Darüber hinaus bietet die New York Times eine sehr gute API an, die u.a. Zugriff auf alle veröffentlichten Artikel zwischen 1851 und heute ermöglicht. Bei der Arbeit mit Bildmaterial muss allerdings erwähnt werden, dass ab ca. 2012 die Artikelbilder online nicht mehr verfügbar sind.
+
+Alle Daten wurden mithilfe einer in Unity/C# entwickelten Anwendung heruntergeladen.
+
+## Prozess
 
 Ein Prozess Video fasst die Versuche und Experimente, die im Laufe des Projektes entstanden sind, zusammen. Insgesamt sind in dem Projekt ca. 1385 Processing Renderings entstanden. Erste Versuche visualisieren Bilder und Texte von Instagram. Im Verlauf des Projektes wurde die Datenquelle jedoch auf Nachrichtenartikeln der New York Times (zunächst 2013, dann 2015) geändert. Im Video wird die Datenquelle durch das jeweilige Logo rechts unten im Bild angezeigt.
 
@@ -31,7 +36,7 @@ Ein Prozess Video fasst die Versuche und Experimente, die im Laufe des Projektes
 <iframe src="https://player.vimeo.com/video/173058434" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-### Experimente
+#### Experimente
 
 Die Abbildungen unten verdeutlichen die Darstellung der Farbpaletten in chronologischer Folge anhand weniger Artikel aus dem Jahr 2013. Die Farbkreise werden hier anhand der Farbmenge je Bild skaliert:
 
@@ -44,13 +49,6 @@ Die Abbildungen unten verdeutlichen die Darstellung der Farbpaletten in chronolo
 <a href="{{ site.urlimg }}/farbetextemotion/beispiele_2013-2.jpg">
   <img src="{{ site.urlimg }}/farbetextemotion/beispiele_2013-2-preview.jpg" /></a>
 </figure>
-
-## Daten
-
-### New York Times
-
-Die New York Times wurde als eine der ältesten und größten Tageszeitungen in Amerika ausgewählt, da sie neben ihrer hohen Gesamtauflage (wochentags 1.124.700 Druckexemplare) auch eine der meistbesuchten Nachrichtenseiten weltweit ist (Platz 5 mit 41.6 Mio monatlichen Besuchern) . Darüber hinaus bietet die New York Times eine sehr gute API an, die u.a. Zugriff auf alle veröffentlichten Artikel zwischen 1851 und heute ermöglicht. Bei der Arbeit mit Bildmaterial muss allerdings erwähnt werden, dass ab ca. 2012 die Artikelbilder online nicht mehr verfügbar sind.
-
 
 ## Ergebnisse
 
@@ -75,6 +73,12 @@ Das zweite Plakat zeigt nach Kategorien geordnete Worthäufung und ermöglicht e
 Das zweite Plakat beschränkt sich auf eine Darstellung der Worthäufungen, da diese Visualisierung den größten Einblick in für die New York Times scheinbar wichtige Themen ermöglicht und gleichzeitig sie in Verbindung mit Farben und Emotionen kompakt zusammenfasst. 
 
 Anstelle der zeitlichen Ordnung wie auf dem ersten Plakat werden die Worthäufungen nun jedoch nach Kategorien aufgeteilt dargestellt. Beispielsweise ist in der Kategorie „europe“ das häufigst gebrauchte Substantiv „migrants“.
+
+<figure>
+<a href="{{ site.urlimg }}/farbetextemotion/europe.jpg">
+  <img src="{{ site.urlimg }}/farbetextemotion/europe-preview.jpg" /></a>
+  <figcaption>Meist genutzte Wörter (Adjektive, Substantive, Verben) in der Kategorie "europe" in den Artikeln der New York Times 2015</figcaption>
+</figure>
 
 Gleichzeitig wird die Visualisierung ergänzt durch häufig vorhergehende sowie nachfolgende Adjektive, Nomen oder Verben. Dies hat den Vorteil, dass in verschiedenen Kategorien auftretende Worte, beispielsweise das Wort „leader“, im Kontext betrachtet und verglichen werden kann.
 
