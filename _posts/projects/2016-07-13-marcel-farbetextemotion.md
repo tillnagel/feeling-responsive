@@ -21,22 +21,30 @@ Die Stimmung der Texte wird mit Hilfe sogenannter Sentiment Analysis Software er
 
 Aufgrund der offenen Fragestellung und der komplexen Materie geht diese Arbeit ergebnisoffen und experimentell vor. Die Visualisierungen sind nicht nur Mittel zur Kommunikation der Ergebnisse sondern maßgeblicher Bestandteil der Analyse und der Auseinandersetzung mit dem Medium.
 
-## Daten
+## Daten und Analyse
 
 #### New York Times
 Die New York Times wurde als eine der ältesten und größten Tageszeitungen in Amerika ausgewählt, da sie neben ihrer hohen Gesamtauflage (wochentags 1.124.700 Druckexemplare) auch eine der meistbesuchten Nachrichtenseiten weltweit ist (Platz 5 mit 41.6 Mio monatlichen Besuchern) . Darüber hinaus bietet die New York Times eine sehr gute API an, die u.a. Zugriff auf alle veröffentlichten Artikel zwischen 1851 und heute ermöglicht. Bei der Arbeit mit Bildmaterial muss allerdings erwähnt werden, dass ab ca. 2012 die Artikelbilder online nicht mehr verfügbar sind.
 
 Alle Daten wurden mithilfe einer in Unity/C# entwickelten Anwendung heruntergeladen.
 
+#### Natural Language Processing
+Verwendet für die finalen Visualisierungen wurde der Tone Analyzer Service von IBM Watson. 
+Der Tone Analyzer nutzt Sprachanalyse, um drei Formen von Umgangston in Texten zu erkennen: emotion, social tone und language tone. Für emotion vergibt er Werte in den Kategorien anger, joy, fear, sadness 
+und disgust . social tone besteht aus den Kategorien openess (Offenheit), conscientiousness (Pflichtgefühl), extroversion (Extroversion), agreeableness (Verträglichkeit) und emotional range (emotionale Bandbreite). language tone umfasst Werte für confident (überzeugt), analytical (analytisch) sowie tentative (zögernd). Die vergebenen Werte liegen jeweils im Bereich von 0 - 1. Alle Werte werden sowohl für den gesamten Text als auch satzweise vergeben. 
+
+#### Extrahierung von Farbpaletten
+Ein in Processing entwickeltes Programm teilt das Farbspektrum eines Bildes zunächst in 6 gleich große Farbtonbereiche. Jeder Farbton wird anschließend in 4 weitere Helligkeitsstufen unterteilt. Um minimale Pixel- bzw. Objektivfehler zu vermeiden, werden mehrere einzelne Pixel in einem Cluster zusammengefasst und der errechnete Durchschnittsfarbwert einem Bereich zugeordnet. Nachdem alle Cluster einem Bereich zugeordnet wurden, werden die Bereiche ihrer  Größe nach geordnet, um eine relative Verteilung der Farben (die Farbpalette) eines Bildes zu erhalten.
+
 ## Prozess
 
 Ein Prozess Video fasst die Versuche und Experimente, die im Laufe des Projektes entstanden sind, zusammen. Insgesamt sind in dem Projekt ca. 1385 Processing Renderings entstanden. Erste Versuche visualisieren Bilder und Texte von Instagram. Im Verlauf des Projektes wurde die Datenquelle jedoch auf Nachrichtenartikeln der New York Times (zunächst 2013, dann 2015) geändert. Im Video wird die Datenquelle durch das jeweilige Logo rechts unten im Bild angezeigt.
 
+Alle Grafiken wurden in Processing erzeugt:
+
 <div class="flex-video">
 <iframe src="https://player.vimeo.com/video/173058434" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
-
-#### Experimente
 
 Die Abbildungen unten verdeutlichen die Darstellung der Farbpaletten in chronologischer Folge anhand weniger Artikel aus dem Jahr 2013. Die Farbkreise werden hier anhand der Farbmenge je Bild skaliert:
 
@@ -83,5 +91,5 @@ Anstelle der zeitlichen Ordnung wie auf dem ersten Plakat werden die Worthäufun
 Gleichzeitig wird die Visualisierung ergänzt durch häufig vorhergehende sowie nachfolgende Adjektive, Nomen oder Verben. Dies hat den Vorteil, dass in verschiedenen Kategorien auftretende Worte, beispielsweise das Wort „leader“, im Kontext betrachtet und verglichen werden kann.
 
 <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.p	arentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
