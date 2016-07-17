@@ -23,6 +23,11 @@ Software errechnet, die Wörter und Sätze Werte bestimmter emotionale Kategorie
 
 Aufgrund der offenen Fragestellung und der komplexen Materie geht diese Arbeit ergebnisoffen und experimentell vor. Die Visualisierungen sind nicht nur Mittel zur Kommunikation der Ergebnisse sondern maßgeblicher Bestandteil der Analyse und der Auseinandersetzung mit dem Medium.
 
+<figure>
+<a href="{{ site.urlimg }}/farbetextemotion/plakat1-big.jpg">
+  <img src="{{ site.urlimg }}/farbetextemotion/plakat1-preview" /></a>
+  <figcaption>Projektergebnis Plakat 1, 200x92cm</figcaption>
+</figure>
 
 ## Design Process
 
