@@ -80,11 +80,13 @@ Das zweite Plakat zeigt nach Kategorien geordnete Worthäufung und ermöglicht e
 
 Das zweite Plakat beschränkt sich auf eine Darstellung der Worthäufungen, da diese Visualisierung den größten Einblick in für die New York Times scheinbar wichtige Themen ermöglicht und gleichzeitig sie in Verbindung mit Farben und Emotionen kompakt zusammenfasst. 
 
-Anstelle der zeitlichen Ordnung wie auf dem ersten Plakat werden die Worthäufungen nun jedoch nach Kategorien aufgeteilt dargestellt. Beispielsweise ist in der Kategorie „europe“ das häufigst gebrauchte Substantiv „migrants“.
-
 <figure>
+<a href="{{ site.urlimg }}/farbetextemotion/plakat2-howtoread.jpg">
   <img src="{{ site.urlimg }}/farbetextemotion/plakat2-howtoread.jpg" />
+</a>
 </figure>
+
+Anstelle der zeitlichen Ordnung wie auf dem ersten Plakat werden die Worthäufungen nun jedoch nach Kategorien aufgeteilt dargestellt. Beispielsweise ist in der Kategorie „europe“ das häufigst gebrauchte Substantiv „migrants“.
 
 <figure>
 <a href="{{ site.urlimg }}/farbetextemotion/europe.jpg">
