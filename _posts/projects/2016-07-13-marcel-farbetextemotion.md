@@ -83,6 +83,10 @@ Das zweite Plakat beschränkt sich auf eine Darstellung der Worthäufungen, da d
 Anstelle der zeitlichen Ordnung wie auf dem ersten Plakat werden die Worthäufungen nun jedoch nach Kategorien aufgeteilt dargestellt. Beispielsweise ist in der Kategorie „europe“ das häufigst gebrauchte Substantiv „migrants“.
 
 <figure>
+  <img src="{{ site.urlimg }}/farbetextemotion/plakat2-howtoread.jpg" />
+</figure>
+
+<figure>
 <a href="{{ site.urlimg }}/farbetextemotion/europe.jpg">
   <img src="{{ site.urlimg }}/farbetextemotion/europe-preview.jpg" /></a>
   <figcaption>Meist genutzte Wörter (Adjektive, Substantive, Verben) in der Kategorie "europe" in den Artikeln der New York Times 2015</figcaption>
