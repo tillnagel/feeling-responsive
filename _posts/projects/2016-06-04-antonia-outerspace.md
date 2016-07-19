@@ -3,9 +3,7 @@ layout: page
 title:  "Outer Space Satellite Database 1974-2015"
 subheadline: Satelliten sind aus unserem täglichen Leben nicht mehr wegzudenken.
 teaser: " Es ist unglaublich, dass wir überall Anwendungen benutzen, die direkt mit Satelliten in Verbindung stehen.
-Das interaktive Plakat ermöglicht dem Betrachter einen zeitlichen Überblick der Satellitenanzahl, Art des Satelliten und Besitzer- und Auftraggeberland.
-
-
+Das interaktive Plakat ermöglicht dem Betrachter einen zeitlichen Überblick der Satellitenanzahl, Art des Satelliten und Besitzer- und Auftraggeberland."
 header: no
 show_meta: false
 categories:
