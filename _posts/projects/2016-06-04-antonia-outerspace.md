@@ -17,7 +17,10 @@ author: Antonia Josefa Gluschak
 ---
 
 
-<div class="flex-video"><iframe src="https://player.vimeo.com/video/175610396" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<figure>
+  <img src="{{ site.urlimg }}/interaktiv2.jpg" />
+  <figcaption >interaktive Anwendung</figcaption>
+</figure>
 
 
 Am 10.02.2009 kam es im Erdorbit zu einem folgeschweren Zusammenstoß. Ein Kommunikationssatellit namens Iridium 33 kreuzte die Bahn des bereits ausgedienten Satelliten Kosmos 2251, sodass die wodurch mehr als 2200 Fragmente in der Umlaufbahn verteilt wurden. Die Recherche zu dieser Kollision führte dazu, dass ich mir nähere Informationen einholte und auf eine Datenbank namens „UCS Satellite Database“ gestoßen bin. Diese Datenbank ist von Experten der Union of Concerned Scientists (UCS) zusammengestellt worden. Die Liste enthält Informationen über mehr als 1000 operative Satelliten.
@@ -25,10 +28,7 @@ Am 10.02.2009 kam es im Erdorbit zu einem folgeschweren Zusammenstoß. Ein Kommu
 Die Grundlage der Visualisierung basiert auf drei Fragestellungen. Wie viele Satelliten besitzt jede individuelle Nation? Welche Länder kooperieren miteinander? Und in welchen Jahren gab es einen Satellitenaufschwung?
 
 
-<figure>
-  <img src="{{ site.urlimg }}/interaktiv2.jpg" />
-  <figcaption >interaktive Anwendung</figcaption>
-</figure>
+<div class="flex-video"><iframe src="https://player.vimeo.com/video/175610396" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 
 Meine interaktive Anwendung hat einen Startscreen. Der Startscreen wurde in Cinema 4D animiert und in Adobe After Effect farblich und typografisch bearbeitet.
