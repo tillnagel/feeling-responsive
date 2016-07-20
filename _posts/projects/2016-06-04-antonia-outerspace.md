@@ -28,5 +28,5 @@ Desweiteren wird ein radiales „Chord Diagramm“ angezeigt, was die Kooperatio
 
 <figure>
   <img src="{{ site.urlimg }}/interaktiv.jpg" />
-  <figcaption >                      interaktive Anwendung</figcaption>
+  <figcaption >interaktive Anwendung</figcaption>
 </figure>
