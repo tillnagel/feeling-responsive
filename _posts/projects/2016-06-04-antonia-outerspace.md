@@ -43,16 +43,16 @@ Desweiteren wird ein radiales „Chord Diagramm“ angezeigt, was die Kooperatio
 
 <figure>
   <img src="{{ site.urlimg }}/kartenansicht.jpg" />
-  <figcaption >Ausgewähltes Land wird in der Weltkarte angezeigt</figcaption>
+  <figcaption >Zur Übersicht wird das ausgewählte Land in der Weltkarte angezeigt.</figcaption>
 </figure>
 
 <figure>
   <img src="{{ site.urlimg }}/diagramm.jpg" />
-  <figcaption >Anzahl der Satellitenarten pro Land</figcaption>
+  <figcaption >Anzahl der Satellitenarten pro Land und insgesamt aller Länder wird dargestellt.</figcaption>
 </figure>
 
 
 <figure>
   <img src="{{ site.urlimg }}/radchorddiagramm.jpg" />
-  <figcaption >Auswahl der Länder, im radialen Chord Diagramm</figcaption>
+  <figcaption >Radiales Chord Diagramm. Es werden die Verbindungen zwischen Betreiberland und Auftraggeberland angezeigt.</figcaption>
 </figure>
