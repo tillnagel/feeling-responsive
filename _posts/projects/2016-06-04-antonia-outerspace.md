@@ -19,7 +19,7 @@ author: Antonia Josefa Gluschak
 
 <figure>
   <img src="{{ site.urlimg }}/interaktiv2.jpg" />
-  <figcaption >interaktive Anwendung</figcaption>
+  <figcaption >links:Startscreen / rechts: interaktive Anwendungsmöglichkeit</figcaption>
 </figure>
 
 
