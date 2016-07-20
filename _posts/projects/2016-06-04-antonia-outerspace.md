@@ -32,7 +32,7 @@ Desweiteren wird ein radiales „Chord Diagramm“ angezeigt, was die Kooperatio
 
 <figure>
   <img src="{{ site.urlimg }}/interaktiv2.jpg" />
-  <figcaption >links:Startscreen / rechts: interaktive Anwendungsmöglichkeit</figcaption>
+  <figcaption >Übersicht der Screens</figcaption>
 </figure>
 
 
