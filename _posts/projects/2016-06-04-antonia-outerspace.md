@@ -39,5 +39,5 @@ Desweiteren wird ein radiales „Chord Diagramm“ angezeigt, was die Kooperatio
 
 <figure>
   <img src="{{ site.urlimg }}/radchorddiagramm.jpg" />
-  <figcaption >interaktive Anwendung</figcaption>
+  <figcaption >Auswahl der Länder, im radialen Chord Diagramm</figcaption>
 </figure>
