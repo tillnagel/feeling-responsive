@@ -43,5 +43,5 @@ Desweiteren wird ein radiales „Chord Diagramm“ angezeigt, was die Kooperatio
 
 <figure>
   <img src="{{ site.urlimg }}/kartenansicht.jpg" />
-  <figcaption >Auswahl der Länder, im radialen Chord Diagramm</figcaption>
+  <figcaption >Ausgewähltes Land wird in der Weltkarte angezeigt</figcaption>
 </figure>
