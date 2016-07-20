@@ -43,12 +43,12 @@ Desweiteren wird ein radiales „Chord Diagramm“ angezeigt, was die Kooperatio
 
 <figure>
   <img src="{{ site.urlimg }}/kartenansicht.jpg" />
-  <figcaption >Zur Übersicht wird das ausgewählte Land in der Weltkarte angezeigt.</figcaption>
+  <figcaption >Zur Übersicht, wird das ausgewählte Land in der Weltkarte angezeigt.</figcaption>
 </figure>
 
 <figure>
   <img src="{{ site.urlimg }}/diagramm.jpg" />
-  <figcaption >Anzahl der Satellitenarten pro Land und insgesamt aller Länder wird dargestellt.</figcaption>
+  <figcaption >Anzahl der Satellitenarten wird dargestellt.</figcaption>
 </figure>
 
 
