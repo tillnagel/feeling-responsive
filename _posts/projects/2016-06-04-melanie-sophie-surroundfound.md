@@ -23,14 +23,13 @@ Kennenlernen der Stadt.
 
 
 ## Zielfragen
-
-
+<br />
 * Wo ist meine nächste Veranstaltung?
 * Wie weit will ich weg sein von meinem Standpunkt?
 * Was will ich überhaupt?
 * Gibt es noch Alternativen?
 * Wo sind meine Freunde?
-
+<br />
 
 
 ## Experimentierphase
