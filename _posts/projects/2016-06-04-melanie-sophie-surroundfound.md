@@ -8,7 +8,7 @@ show_meta: false
 categories:
     - projects
 image:
-    title: SurroundFound_Mockup-01.png
+    title: SurroundFound/Mockup-01.png
     caption: Mockup
 author: Melanie Miksch &amp; Sophie Parschat
 ---
