@@ -65,7 +65,7 @@ Weiterhin wurden in der Experimentierphase Fragen angesprochen wie das Filtersys
 <br />
 Die Daten stammen von Overpass Turbo, welches uns erlaubten Information über verschiedene Lokalitäten
 aus verschiedenen Kategorien zu beziehen. Weginformationen und Isolineinformationen stammen von einer Here Maps API.
-
+<BR />
 <figure>
   <img src="{{ site.urlimg }}/SurroundFound/Daten-01.png" />
   <figcaption >Beispiele der Daten</figcaption>
