@@ -17,7 +17,7 @@ Du möchtest etwas unternehmen, doch weißt nicht wo und was? Bei „SurroundFou
 Kennenlernen der Stadt.
 <br />
 <figure>
-  <img src="{{ site.urlimg }}/SurroundFound/LogoSchrift-01-01.png" />
+  <img src="{{ site.urlimg }}/SurroundFound/LogoSchrift-01-01.jpg" />
   <figcaption >Schriftlogo</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ Von Anfang an war uns klar, dass wir weg wollten von Listen und eine visuelle Or
 Zu Anfang hatten wir die Idee eine 3D-Karte zu gestalten. Eine daraus resultierende Idee war eine Kombination aus 2D und 3D. Eine vereinfachte Karte in der unsere Landmarks als 3D Objekte gezeigt werden. Diese Idee tauchte wärend der Design- und Konzeptphase immer mal wieder auf, wurde jedoch verworfen.
 <br />
 <figure>
-  <img src="{{ site.urlimg }}/SurroundFound/SurroundFoundExperiement01.png" />
+  <img src="{{ site.urlimg }}/SurroundFound/Page0001.jpg" />
   <figcaption >Experimente zur 3D-Karte</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ Zu Anfang hatten wir die Idee eine 3D-Karte zu gestalten. Eine daraus resultiere
 Wir haben für uns festgestellt dass es in Anbetracht der Zeit und der wenigen Daten von Halle, uns nicht möglich gewesen wäre Modelle zu gestalten die unseren Vorstellungen entsprochen hätten. Wir sind noch einmal zurück gegangen und haben überlegt welche anderen Gestaltungsprinzipien wir noch in Betracht ziehen könnten.
 <br />
 <figure>
-  <img src="{{ site.urlimg }}/SurroundFound/SurroundFoundExperiement012.png" />
+  <img src="{{ site.urlimg }}/SurroundFound/20160509_161130.jpg" />
   <figcaption >weitere Ideen mit anderen Gestaltungsprinzipien</figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ Wir haben für uns festgestellt dass es in Anbetracht der Zeit und der wenigen D
 Weiterhin wurden in der Experimentierphase Fragen angesprochen wie das Filtersystem, Marker, Farbkonzepte und ähnliches und nach Lösungsansätzen gesucht.
 <br />
 <figure>
-  <img src="{{ site.urlimg }}/SurroundFound/Experimente_03.png" />
+  <img src="{{ site.urlimg }}/SurroundFound/Experimente_03.jpg" />
   <figcaption >Erste Entwürfe für den Kartenstil </figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ Die Daten stammen von Overpass Turbo, welches uns erlaubten Information über ve
 aus verschiedenen Kategorien zu beziehen. Weginformationen und Isolineinformationen stammen von einer Here Maps API.
 <BR />
 <figure>
-  <img src="{{ site.urlimg }}/SurroundFound/Daten-01.png" />
+  <img src="{{ site.urlimg }}/SurroundFound/Daten-01.jpg" />
   <figcaption >Beispiele der Daten</figcaption>
 </figure>
 
@@ -77,12 +77,12 @@ Unser Layout teilt sich in zwei Bereiche. Auf der linken Seite eine realistische
 <br />
 
 <figure>
-  <img src="{{ site.urlimg }}/SurroundFound/Kartenstil02.png" />
+  <img src="{{ site.urlimg }}/SurroundFound/Kartenstil02.jpg" />
   <figcaption >Entwurf Kartenstil</figcaption>
 </figure>
 
 <figure>
-  <img src="{{ site.urlimg }}/SurroundFound/Kartenstil.png" />
+  <img src="{{ site.urlimg }}/SurroundFound/Kartenstil.jpg" />
   <figcaption >Entwurf Kartenstil</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Das Filtersystem ermöglicht es sich sein eigenes Ziel festzulegen. Auf der link
   Ziel in 5 Minuten Abschnitten an
 <br />
 <figure>
-  <img src="{{ site.urlimg }}/SurroundFound/Filtersystem02.png" />
+  <img src="{{ site.urlimg }}/SurroundFound/Filtersystem02.jpg" />
   <figcaption >Filtersystem</figcaption>
 </figure>
 
@@ -113,7 +113,7 @@ Der Lineare Weg ist die zweite Darstellung unserer Anwendung. Sie orientiert sic
 * Grüne Marker zeigen wichtige Landmarks auf
 
 <figure>
-  <img src="{{ site.urlimg }}/SurroundFound/Linear.png" />
+  <img src="{{ site.urlimg }}/SurroundFound/Linear.jpg" />
   <figcaption >Linearer Weg</figcaption>
 </figure>
 
@@ -129,7 +129,7 @@ optionaler Umweg fungieren.
   entlang deiner Sichtachse
 
   <figure>
-    <img src="{{ site.urlimg }}/SurroundFound/Landmark_Tap.png" />
+    <img src="{{ site.urlimg }}/SurroundFound/Landmark_Tap.jpg" />
     <figcaption >Landsmarks</figcaption>
   </figure>
 
