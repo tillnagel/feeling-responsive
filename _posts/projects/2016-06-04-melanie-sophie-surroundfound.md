@@ -72,7 +72,7 @@ aus verschiedenen Kategorien zu beziehen. Weginformationen und Isolineinformatio
 </figure>
 
 
-##Design
+## Design
 <br />
 Unser Layout teilt sich in zwei Bereiche. Auf der linken Seite eine realistische Karte mit Filtersystem, auf der rechten eine linearisierte Route. Auf beiden Karten werden die Entfernungen zwischen Standpunkt und Ziel sowie verschiedene Marker gezeigt.
 <br />
