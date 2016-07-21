@@ -23,6 +23,8 @@ Kennenlernen der Stadt.
 
 
 ## Zielfragen
+<br />
+
 * Wo ist meine nächste Veranstaltung?<br />
 * Wie weit will ich weg sein von meinem Standpunkt?<br />
 * Was will ich überhaupt?<br />
@@ -135,7 +137,6 @@ optionaler Umweg fungieren.
 
 ## Umsetzung
 <br />
-
 
 * Programmierung in Processing<br />
 * Kartenbearbeitung in MapBox<br />
