@@ -17,7 +17,7 @@ Du möchtest etwas unternehmen, doch weißt nicht wo und was? Bei „SurroundFou
 Kennenlernen der Stadt.
 <br />
 <figure>
-  <img src="{{ site.urlimg }}/SurroundFound_LogoSchrift-01.png" />
+  <img src="{{ site.urlimg }}/SurroundFound/LogoSchrift-01.png" />
   <figcaption >Schriftlogo</figcaption>
 </figure>
 
