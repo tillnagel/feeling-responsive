@@ -22,25 +22,46 @@ Kennenlernen der Stadt.
 </figure>
 
 
-## Erste Überlegungen
+## Zielfragen
 <br />
-Text zu den Überlegungen
+* Wo ist meine nächste Veranstaltung?
+* Wie weit will ich weg sein von meinem Standpunkt?
+* Was will ich überhaupt?
+* Gibt es noch Alternativen?
+* Wo sind meine Freunde?
 <br />
 
+
+## Experimentierphase
+<br />
+Von Anfang an war uns klar, dass wir weg wollten von Listen und eine visuelle Orientierung über ein Kartensystem schaffen wollten.<br />
+Zu Anfang hatten wir die Idee eine 3D-Karte zu gestalten. Eine daraus resultierende Idee war eine Kombination aus 2D und 3D. Eine vereinfachte Karte in der unsere Landmarks als 3D Objekte gezeigt werden. Diese Idee tauchte wärend der Design- und Konzeptphase immer mal wieder auf, wurde jedoch verworfen.
+<br />
 <figure>
-  <img src="{{ site.urlimg }}/SurroundFoundExperiement01.png" />
-  <figcaption >Schriftlogo</figcaption>
+  <img src="{{ site.urlimg }}/SurroundFound/SurroundFoundExperiement01.png" />
+  <figcaption >Experimente zur 3D-Karte</figcaption>
 </figure>
 
+
+<br />
+Wir haben für uns festgestellt dass es in Anbetracht der Zeit und der wenigen Daten von Halle, uns nicht möglich gewesen wäre Modelle zu gestalten die unseren Vorstellungen entsprochen hätten. Wir sind noch einmal zurück gegangen und haben überlegt welche anderen Gestaltungsprinzipien wir noch in Betracht ziehen könnten.
+<br />
 <figure>
-  <img src="{{ site.urlimg }}/SurroundFoundExperiement012.png" />
-  <figcaption >Schriftlogo</figcaption>
+  <img src="{{ site.urlimg }}/SurroundFound/SurroundFoundExperiement012.png" />
+  <figcaption >weitere Ideen mit anderen Gestaltungsprinzipien</figcaption>
 </figure>
 
+
+<br />
+Weiterhin wurden in der Experimentierphase Fragen angesprochen wie das Filtersystem, Marker, Farbkonzepte und ähnliches und nach Lösungsansätzen gesucht.
+<br />
 <figure>
-  <img src="{{ site.urlimg }}/SurroundFoundExperiement013.png" />
-  <figcaption >Schriftlogo</figcaption>
+  <img src="{{ site.urlimg }}/SurroundFound/Experimente_03.png" />
+  <figcaption >Erste Entwürfe für den Kartenstil </figcaption>
 </figure>
+
+
+##Design
 
 
 ## Filtersystem
@@ -70,7 +91,7 @@ Der Lineare Weg ist die zweite Darstellung unserer Anwendung. Sie orientiert sic
 * Grüne Marker zeigen wichtige Landmarks auf
 
 <figure>
-  <img src="{{ site.urlimg }}/Linear.png" />
+  <img src="{{ site.urlimg }}/SurroundFound/Linear.png" />
   <figcaption >Linearer Weg</figcaption>
 </figure>
 
@@ -86,7 +107,7 @@ optionaler Umweg fungieren.
   entlang deiner Sichtachse
 
   <figure>
-    <img src="{{ site.urlimg }}/Landmark_Tap.png" />
+    <img src="{{ site.urlimg }}/SurroundFound/Landmark_Tap.png" />
     <figcaption >Landsmarks</figcaption>
   </figure>
 
@@ -97,6 +118,6 @@ Die Daten stammen von Overpass Turbo, welches uns erlaubten Information über ve
 aus verschiedenen Kategorien zu beziehen. Weginformationen und Isolineinformationen stammen von einer Here Maps API.
 
 <figure>
-  <img src="{{ site.urlimg }}/Daten-01.png" />
+  <img src="{{ site.urlimg }}/SurroundFound/Daten-01.png" />
   <figcaption >Beispiele der Daten</figcaption>
 </figure>
