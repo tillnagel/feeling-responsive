@@ -55,17 +55,19 @@ in dem/den Tag/Tagen vor dem besagten Spiel angeboten würden.
   <img src="{{ site.urlimg }}/heimwaerts/dfb_monatsansicht.png" />
   <figcaption >Insgesamt werden mehr Mitfahrgelegenheiten mit Start in München angeboten. Eine Rhythmik der angebotenen Fahrten ist erkennbar.</figcaption>
 </figure>
-
 <br/>
 <figure>
   <img src="{{ site.urlimg }}/heimwaerts/dfb_wochenenden.png" />
   <figcaption >Sichtbare Erhöhung der angebotenen Mitfahrgelegenheiten zum DFB-Pokal-Wochenende</figcaption>
 </figure>
+<br/>
 <figure>
   <img src="{{ site.urlimg }}/heimwaerts/dfb_feiertage.png" />
   <figcaption >An Tagen vor Feiertagen werden sehr viel mehr Fahrten angeboten.</figcaption>
 </figure>
 <br/>
+
+
 Um ein aussagekräftiges Ergebnis zu erhalten, verglich ich das ausgewählte Wochenende mit
 den anderen Wochenenden im Mai. Bei der Strecke zwischen München und Berlin stachen besonders
 das Pfingstwochenende und der Mittwoch vor Christi Himmelfahrt heraus. Ein erstes Indiz, dass
@@ -96,13 +98,15 @@ Autobahnroute nach Berlin erklären lässt.
   <img src="{{ site.urlimg }}/heimwaerts/flowchart_deutschland.png" />
   <figcaption >Verbindungen in der ersten Mai-Woche 2016 von Halle (Saale) zu 30 ausgewählten Städten in Deutschland</figcaption>
 </figure>
-<br/>
+
+
 ## Vizualisierungsprozess
 Es sollte eine Browser-Anwendung entstehen in der die Nutzer die Möglichkeit haben
 verschiedene Tage miteinander zu vergleichen. Der Nutzer sollte die Möglichkeit bekommen
 von allgemeinen Daten, wie der Anzahl der gesamten Fahrten von einem Tag, zu detaillierteren
 Daten zu gelangen, wie eine Aufschlüsselung zu welcher Tageszeit auf eine bestimmte Strecke
 befahren wird.     
+
 <br/>
 <figure>
   <img src="{{ site.urlimg }}/heimwaerts/visualisierung.jpg" />
@@ -121,6 +125,7 @@ das gewünschte Datum einzustellen.
 ## Prototyp
 Der Prototyp wurde in D3.js umgesetzt und kann mit dem Browser geöffnet werden. Zur Entwicklung wurde Google Chrome Version 51+ genutzt.
 Er stellt die Entwicklung des Projekts von April – Juli 2016 dar.
+
 <br/>
 <figure>
   <img src="{{ site.urlimg }}/heimwaerts/prototyp_start.gif" />
