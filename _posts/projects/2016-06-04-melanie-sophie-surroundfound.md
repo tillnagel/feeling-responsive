@@ -17,7 +17,7 @@ Du möchtest etwas unternehmen, doch weißt nicht wo und was? Bei „SurroundFou
 Kennenlernen der Stadt.
 <br />
 <figure>
-  <img src="{{ site.urlimg }}/SurroundFound/LogoSchrift-01.png" />
+  <img src="{{ site.urlimg }}/SurroundFound/LogoSchrift-01-01.png" />
   <figcaption >Schriftlogo</figcaption>
 </figure>
 
@@ -61,8 +61,31 @@ Weiterhin wurden in der Experimentierphase Fragen angesprochen wie das Filtersys
 </figure>
 
 
-##Design
+## Daten
+<br />
+Die Daten stammen von Overpass Turbo, welches uns erlaubten Information über verschiedene Lokalitäten
+aus verschiedenen Kategorien zu beziehen. Weginformationen und Isolineinformationen stammen von einer Here Maps API.
 
+<figure>
+  <img src="{{ site.urlimg }}/SurroundFound/Daten-01.png" />
+  <figcaption >Beispiele der Daten</figcaption>
+</figure>
+
+
+##Design
+<br />
+Unser Layout teilt sich in zwei Bereiche. Auf der linken Seite eine realistische Karte mit Filtersystem, auf der rechten eine linearisierte Route. Auf beiden Karten werden die Entfernungen zwischen Standpunkt und Ziel sowie verschiedene Marker gezeigt.
+<br />
+
+<figure>
+  <img src="{{ site.urlimg }}/SurroundFound/Kartenstil02.png" />
+  <figcaption >Entwurf Kartenstil</figcaption>
+</figure>
+
+<figure>
+  <img src="{{ site.urlimg }}/SurroundFound/Kartenstil.png" />
+  <figcaption >Entwurf Kartenstil</figcaption>
+</figure>
 
 ## Filtersystem
 <br />
@@ -75,7 +98,7 @@ Das Filtersystem ermöglicht es sich sein eigenes Ziel festzulegen. Auf der link
   Ziel in 5 Minuten Abschnitten an
 <br />
 <figure>
-  <img src="{{ site.urlimg }}/SurroundFound/Filtersystem-1-01.png" />
+  <img src="{{ site.urlimg }}/SurroundFound/Filtersystem02.png" />
   <figcaption >Filtersystem</figcaption>
 </figure>
 
@@ -110,14 +133,3 @@ optionaler Umweg fungieren.
     <img src="{{ site.urlimg }}/SurroundFound/Landmark_Tap.png" />
     <figcaption >Landsmarks</figcaption>
   </figure>
-
-
-## Daten
-<br />
-Die Daten stammen von Overpass Turbo, welches uns erlaubten Information über verschiedene Lokalitäten
-aus verschiedenen Kategorien zu beziehen. Weginformationen und Isolineinformationen stammen von einer Here Maps API.
-
-<figure>
-  <img src="{{ site.urlimg }}/SurroundFound/Daten-01.png" />
-  <figcaption >Beispiele der Daten</figcaption>
-</figure>
