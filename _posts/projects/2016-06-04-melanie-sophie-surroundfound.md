@@ -128,10 +128,10 @@ optionaler Umweg fungieren.
 * zeigen wichtige Gebäude, Parks oder Sehenwürdigkeiten <br />
   entlang deiner Sichtachse
 
-  <figure>
-    <img src="{{ site.urlimg }}/SurroundFound/Landmark_Tap.jpg" />
-    <figcaption >Landsmarks</figcaption>
-  </figure>
+<figure>
+ <img src="{{ site.urlimg }}/SurroundFound/Landmark_Tap.jpg" />
+ <figcaption >Landsmarks</figcaption>
+</figure>
 
 
 ## Umsetzung
