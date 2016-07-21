@@ -135,6 +135,6 @@ optionaler Umweg fungieren.
 
 ## Umsetzung
 <br />
-* Programmierung in Processing
-* Kartenbearbeitung in MapBox
-* Logo- und Icongestaltung in Adobe Illustrator
+* Programmierung in Processing<br /><br />
+* Kartenbearbeitung in MapBox<br />
+* Logo- und Icongestaltung in Adobe Illustrator<br />
