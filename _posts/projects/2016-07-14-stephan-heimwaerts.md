@@ -83,7 +83,18 @@ sehr viele Fahrten nach Leipzig und Bitterfeld angeboten und wesentlich weniger 
   <figcaption >Angebotene Mitfahrgelegenheiten von www.blablacar.de zwischen Halle (Saale) und Deutschlands einhundert größten Städten, sowie ausgewählten Städten im Einzugsgebiet vom 01.05.2016 — 31.05.2016. Geordnet nach Anzahl der Einwohner.</figcaption>
 </figure>
 
+Nach dem Herausstellen erster Zusammenhänge, habe ich einen ausgewählten Datensatz auf eine geografische Karte übertragen.
+Ich wählte dreißig Städte über ganz Deutschland verteilt und prüfte deren Hin- und Rückverbindung nach Halle (Saale) auf
+(Un-)Regelmäßigkeiten. Ich konnte herausfinden, dass es vielbefahrene Hauptstrecken gibt. Über diese Form der Visualisierung
+lässt sich zudem ein Zusammenhang zwischen der Entfernung zum Zielort und der Anzahl der Fahrten feststellen. Liegt Halle (Saale)
+zwischen einem Startort und Berlin, so ist die Strecke wesentlich häufiger befahren. Beispielsweise liegen Stuttgart und
+München sehr weit von Halle (Saale) entfernt, weisen jedoch eine hohe Anzahl an Fahrten auf, was sich über die
+Autobahnroute nach Berlin erklären lässt.
 
+<figure>
+  <img src="{{ site.urlimg }}/heimwaerts/flowchart_deutschland.png" />
+  <figcaption >Verbindungen in der ersten Mai-Woche 2016 von Halle (Saale) zu 30 ausgewählten Städten in Deutschland</figcaption>
+</figure>
 
 ## Vizualisierungsprozess
 Es sollte eine Browser-Anwendung entstehen in der die Nutzer die Möglichkeit haben
@@ -109,3 +120,18 @@ das gewünschte Datum einzustellen.
 ## Prototyp
 Der Prototyp wurde in D3.js umgesetzt und kann mit dem Browser geöffnet werden. Zur Entwicklung wurde Google Chrome Version 51+ genutzt.
 Er stellt die Entwicklung des Projekts von April – Juli 2016 dar.
+
+<figure>
+  <img src="{{ site.urlimg }}/heimwaerts/prototyp_start.gif" />
+  <figcaption >Startbildschirm des Prototyps. Aufbau der Grafik an verschiedenen Tagen.</figcaption>
+</figure>
+
+<figure>
+  <img src="{{ site.urlimg }}/heimwaerts/prototyp_zoom.gif" />
+  <figcaption >Die Zoom-Funktion ermöglicht eine bessere Selektierung einzelner Strecken und Städte</figcaption>
+</figure>
+
+<figure>
+  <img src="{{ site.urlimg }}/heimwaerts/prototyp_vergleich.gif" />
+  <figcaption >Das Hinzufügen von Karten und die Auswahl verschiedener Tage</figcaption>
+</figure>
