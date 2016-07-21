@@ -54,7 +54,7 @@ Das Filtersystem ermöglicht es sich sein eigenes Ziel festzulegen. Auf der link
   Ziel in 5 Minuten Abschnitten an
 <br />
 <figure>
-  <img src="{{ site.urlimg }}/Filtersystem-1-01.png" />
+  <img src="{{ site.urlimg }}/SurroundFound/Filtersystem-1-01.png" />
   <figcaption >Filtersystem</figcaption>
 </figure>
 
