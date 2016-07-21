@@ -23,7 +23,6 @@ Kennenlernen der Stadt.
 
 
 ## Zielfragen
-
 * Wo ist meine nächste Veranstaltung?<br />
 * Wie weit will ich weg sein von meinem Standpunkt?<br />
 * Was will ich überhaupt?<br />
@@ -132,3 +131,10 @@ optionaler Umweg fungieren.
     <img src="{{ site.urlimg }}/SurroundFound/Landmark_Tap.png" />
     <figcaption >Landsmarks</figcaption>
   </figure>
+
+
+## Umsetzung
+<br />
+* Programmierung in Processing
+* Kartenbearbeitung in MapBox
+* Logo- und Icongestaltung in Adobe Illustrator
