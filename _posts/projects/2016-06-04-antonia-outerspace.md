@@ -24,13 +24,14 @@ Die Grundlage der Visualisierung basiert auf drei Fragestellungen. Wie viele Sat
 
 <br/>
 
-<div class="flex-video"><iframe src="https://player.vimeo.com/video/175610396" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
-<br/><br/>
-
 <figure>
   <img src="{{ site.urlimg }}/interaktiv2.jpg" />
   <figcaption >Übersicht der Screens</figcaption>
 </figure>
+<br/><br/>
+<div class="flex-video"><iframe src="https://player.vimeo.com/video/175610396" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
+<br/><br/>
 
 
 ## Prototypen
