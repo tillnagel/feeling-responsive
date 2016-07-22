@@ -16,7 +16,7 @@ author: Jingjiao Shi &amp; Yue Su
 Die Motivation unseres Projekts ist Menschen zu helfen, die an den veschiedenen, ausländischen Essenskulturen in Berlin interessiert sind und sie kennen lernen wollen. Wir untersuchten, ob ein Zusammenhang der Bevökerungsdichte und der Esskultur verschiedener Nationalitäten hinsichtlich der Verbreitung von Restaurants besteht.
 
 #### Prototyp
-Für die Umsetzung haben wir Daten über die Bevölkerungsdichten und über die Standorte der Restaurants von Acht verschiedenen Nationalitäten innerhalb von Berlin gesammelt. Wir haben jedem Land eine bestimmte Farbe zugeordnet.
+Für die Umsetzung haben wir Daten über die Bevölkerungsdichten und über die Standorte der Restaurants von acht verschiedenen Nationalitäten innerhalb von Berlin gesammelt. Wir haben jedem Land eine bestimmte Farbe zugeordnet.
 
 <figure>
   <img src="{{ site.urlimg }}/essen/prototyp.jpg" />
