@@ -73,7 +73,7 @@ Bei der vietnamesischen Bevölkerung sieht man, dass die meisten Menschen an der
 Herkunft Essen zu.
 
 ## Experiment
-In Hinblick auf die Möglichkeit der Themen, die an unsere Arbeit anpassen können, wir haben einen Beispiel genommen, das auch ein kleines Storyboard is, um uns an Nutzer‘s Stelle die Anwendung besser zu erfahren.
+In Hinblick auf die Möglichkeit der Themen, die an unsere Arbeit anpassen können, wir haben einen Beispiel genommen, das auch ein kleines Storyboard is, um uns an Nutzer's Stelle die Anwendung besser zu erfahren.
 
 <figure>
   <img src="{{ site.urlimg }}/essen/experiment.jpg" />
