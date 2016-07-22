@@ -44,6 +44,11 @@ Der Kalender ist ein zentrales Werkzeug des Tourtrackers. Über den Kalender hat
 Der Nutzer kann aber auch zu einer andern Ansicht der Kalenders wechseln, um sich seine Zeitspanne individuell und auch über einen Monatswechsel hinaus anzeigen zu lassen. In der zweiten Kalenderansicht hat der Nutzer einen Slider mit dem er Anfang und auch Ende seiner Zeitspanne definieren kann. Diese Ansicht bietet sich an, weiß man das man zum Beispiel vom 26.4. bis 08.5. im Urlaub oder dienstlich unterwegs ist und nebenbei ein bisschen Zeit hat.
 
 <figure>
+  <img src="{{ site.urlimg }}/TourTracker/Tourtracker_Kalender_02.jpg" />
+  <figcaption >Standart Kalenderansicht und Auswähl des Monats August</figcaption>
+</figure>
+
+<figure>
   <img src="{{ site.urlimg }}/TourTracker/Tourtracker_RumjacksAugust.jpg" />
   <figcaption >The Rumjacks Tour 2016 mit ausgewählten Daten vom August</figcaption>
 </figure>
@@ -54,4 +59,12 @@ Der Nutzer kann aber auch zu einer andern Ansicht der Kalenders wechseln, um sic
 Um die einzelnen Lokations auf der Karte meiner Anwendung zu zeigen, habe ich die Daten der Seite *songkick.com* beziehen können. Die API lieferte neben dem Datum auch gleich gut auswertbare Angaben zu den einzelnen Lokations und Events, die ich in das Projekt mit einfließen lassen konnte.
 
 
-** Ausblick
+## Ausblick
+
+Die vorrausgegangende Problemstellung der ich mich anfangs zu stellen versuchte war ja die Tourdaten von Bands auf einer Weltkarte zu visualisieren. Im Laufe des Semesters wurde klar, dass es nicht reicht allein den Kalender als Filteroption anzubieten. Es fehlt an einem regionalen Filter, mit dem ich meinen Standort angeben kann und einen Umkreis, in dem Daten angezeigt werden sollen. Der Standortfilter soll dabei aber auch genauso individuell wählbar sein wie die Zeitspanneneinstellung im Kalender. Somit soll gewährleistet werden, das zum Beispiel Studenten, die nicht in ihrer Heimat studieren, sich trotzdem dort stattfindende Konzerte anzeigen lassen kann um vielleicht seinen nächsten Besuch zu Hause zu planen.
+Des weiteren wird es noch eine Anzeige von Informationen zu den Touren geben. Darin kann man Touren verschiedener Jahre vergleichen und sich auch Statistiken von einzelnen Monaten ausgeben lassen. Eine Heatmap soll dabei auch zeigen, ob verschiedene Bands regionale Vorlieben haben, sich etwa gern in einem speziellen Land oder einer speziellen Region aufhalten. Gerade bei national auftretenden Bands wird damit veranschaulicht, ob diese eher lokal auftreten oder ganze Touren durch das Land starten, oder sich Auftritte in einigen Städten rhytmisch wiederholen.
+
+<figure>
+  <img src="{{ site.urlimg }}/TourTracker/Tourtracker_Statistiken.jpg" />
+  <figcaption >The Rumjacks Tour 2016 mit ausgewählten Daten vom August</figcaption>
+</figure>
