@@ -45,6 +45,13 @@ Meine interaktive Anwendung hat einen Startscreen. Der Startscreen wurde in Cine
 Desweiteren wird ein radiales „Chord Diagramm“ angezeigt, was die Kooperationen zwischen verschiedenen Ländern darstellt. Je ausgeprägter die Linien, desto intensiver die Zusammenarbeit zwischen den Ländern. Mit der linken Maustaste kann ein Land ausgewählt werden.
 
 
+
+
+<figure>
+  <img src="{{ site.urlimg }}/Cchart.jpg" />
+  <figcaption >Radiales Chord Diagramm. Es werden die Verbindungen zwischen Betreiberland und Auftraggeberland angezeigt.</figcaption>
+</figure>
+
 <figure>
   <img src="{{ site.urlimg }}/radchorddiagramm.jpg" />
   <figcaption >Radiales Chord Diagramm. Es werden die Verbindungen zwischen Betreiberland und Auftraggeberland angezeigt.</figcaption>
