@@ -48,7 +48,7 @@ Desweiteren wird ein radiales „Chord Diagramm“ angezeigt, was die Kooperatio
 
 <figure>
   <img src="{{ site.urlimg }}/Cchart.jpg" />
-  <figcaption >Radiales Chord Diagramm. Es werden die Verbindungen zwischen Betreiberland und Auftraggeberland angezeigt.</figcaption>
+  <figcaption > Gesamtüberblick der Kooperationen </figcaption>
 </figure>
 
 <figure>
