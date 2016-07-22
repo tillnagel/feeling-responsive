@@ -64,8 +64,9 @@ Desweiteren wird ein radiales „Chord Diagramm“ angezeigt, was die Kooperatio
   <figcaption >globale Informationen</figcaption>
 </figure>
 
+
 ##Umsetzung
 
-Programmierung in Processing
-Cinema 4D Animation des Startbildschirm
-Farbkorrektur und Layout der Animation wurde in Adobe After Effect umgesetzt
+* Programmierung in Processing
+* Cinema 4D Animation des Startbildschirm
+* Farbkorrektur und Layout der Animation wurde in Adobe After Effect umgesetzt
