@@ -23,7 +23,6 @@ Am 10.02.2009 kam es im Erdorbit zu einem folgeschweren Zusammenstoß. Ein Kommu
 Die Grundlage der Visualisierung basiert auf drei Fragestellungen. Wie viele Satelliten besitzt jede individuelle Nation? Welche Länder kooperieren miteinander? Und in welchen Jahren gab es einen Satellitenaufschwung?
 
 <br/>
-
 <figure>
   <img src="{{ site.urlimg }}/interaktiv2.jpg" />
   <figcaption >Übersicht der Screens</figcaption>
