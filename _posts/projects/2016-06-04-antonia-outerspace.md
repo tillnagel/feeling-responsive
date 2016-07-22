@@ -22,10 +22,10 @@ Am 10.02.2009 kam es im Erdorbit zu einem folgeschweren Zusammenstoß. Ein Kommu
 
 Die Grundlage der Visualisierung basiert auf drei Fragestellungen. Wie viele Satelliten besitzt jede individuelle Nation? Welche Länder kooperieren miteinander? Und in welchen Jahren gab es einen Satellitenaufschwung?
 
-
+<br/>
 
 <div class="flex-video"><iframe src="https://player.vimeo.com/video/175610396" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
-<br/><br/><br/>
+<br/><br/>
 
 <figure>
   <img src="{{ site.urlimg }}/interaktiv2.jpg" />
@@ -48,7 +48,6 @@ Desweiteren wird ein radiales „Chord Diagramm“ angezeigt, was die Kooperatio
   <figcaption >Radiales Chord Diagramm</figcaption>
 </figure>
 
-
 <figure>
   <img src="{{ site.urlimg }}/kartenansicht.jpg" />
   <figcaption >Weltkarte</figcaption>
@@ -69,4 +68,4 @@ Desweiteren wird ein radiales „Chord Diagramm“ angezeigt, was die Kooperatio
 
 * Programmierung in Processing
 * Cinema 4D Animation des Startbildschirm
-* Farbkorrektur und Layout der Animation wurde in Adobe After Effect umgesetzt
+* Farbkorrektur der Animation wurde in Adobe After Effect umgesetzt
