@@ -54,7 +54,7 @@ Desweiteren wird ein radiales „Chord Diagramm“ angezeigt, was die Kooperatio
 
 <figure>
   <img src="{{ site.urlimg }}/radchorddiagramm.jpg" />
-  <figcaption >Radiales Chord Diagramm. Es werden die Verbindungen zwischen Betreiberland und Auftraggeberland angezeigt.</figcaption>
+  <figcaption >Radiales Chord Diagramm</figcaption>
 </figure>
 
 
@@ -64,7 +64,7 @@ Das aus­gewählte Land wird in der Weltkarte oberhalb angezeigt.
 
 <figure>
   <img src="{{ site.urlimg }}/kartenansicht.jpg" />
-  <figcaption >Zur Übersicht, wird das ausgewählte Land in der Weltkarte angezeigt.</figcaption>
+  <figcaption >Weltkarte</figcaption>
 </figure>
 
 
