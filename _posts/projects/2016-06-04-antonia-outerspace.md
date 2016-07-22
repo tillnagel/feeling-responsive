@@ -33,7 +33,7 @@ Die Grundlage der Visualisierung basiert auf drei Fragestellungen. Wie viele Sat
 
 <figure>
   <img src="{{ site.urlimg }}/UCS.jpg" />
-  <figcaption >Übersicht der Screens</figcaption>
+  <figcaption >Datenbank von der UCS</figcaption>
 </figure>
 
 
