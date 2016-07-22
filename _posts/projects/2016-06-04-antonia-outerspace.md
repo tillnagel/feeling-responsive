@@ -41,13 +41,6 @@ Die Grundlage der Visualisierung basiert auf drei Fragestellungen. Wie viele Sat
 
 
 
-
-<figure>
-  <img src="{{ site.urlimg }}/AllCountry.jpg" />
-  <figcaption >Übersicht der Screens</figcaption>
-</figure>
-
-
 Meine interaktive Anwendung hat einen Startscreen. Der Startscreen wurde in Cinema 4D animiert und in Adobe After Effect farblich und typografisch bearbeitet.
 Desweiteren wird ein radiales „Chord Diagramm“ angezeigt, was die Kooperationen zwischen verschiedenen Ländern darstellt. Je ausgeprägter die Linien, desto intensiver die Zusammenarbeit zwischen den Ländern. Mit der linken Maustaste kann ein Land ausgewählt werden.
 
