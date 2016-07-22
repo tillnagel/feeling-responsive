@@ -25,7 +25,7 @@ Die Grundlage der Visualisierung basiert auf drei Fragestellungen. Wie viele Sat
 
 
 <div class="flex-video"><iframe src="https://player.vimeo.com/video/175610396" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
-
+<br/><br/><br/>
 
 <figure>
   <img src="{{ site.urlimg }}/interaktiv2.jpg" />
