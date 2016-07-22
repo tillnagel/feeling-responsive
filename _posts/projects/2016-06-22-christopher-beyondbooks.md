@@ -95,6 +95,13 @@ Daraus ergibt sich für mich zweierlei: Allein der Umfang des Angebots an Wohnun
 
 Auffallend ist allerdings auch: Die spezifische Charakterisierung der zentrumsnahen Stadtviertel führt nicht dazu, dass die Studierenden ihre Freizeitaktivitäten auf „ihre“ Viertel beschränken. Insbesondere was die Erholungsmöglichkeiten in der Natur angeht, werden Giebichenstein, Paulusviertel und Nördliche Innenstadt nahezu gleichermaßen als attraktiv angesehen, selbst wenn sie nur ein unzureichendes Angebot an nutzbaren Grünflächen bieten – dies wird jeweils durch die gute und schnelle Erreichbarkeit von Grünflächen in anderen Vierteln, insbesondere die Saalaue und die Peißnitzinsel, kompensiert. Der Mangel an Grün im Stadtviertel führt mithin in der subjektiven Einschätzung der Studierenden nicht zu einer negativen Bewertung des Viertels. Darin zeigt sich der Effekt einer mittleren Großstadt wie Halle, die selbst zentrumsnah großflächig Erholungsmöglichkeiten im Grünen bietet, die wegen der überschaubaren Größe der Stadt leicht zu erreichen sind.
 
+<figure>
+  <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-online-umfrage-01.jpg" />
+  <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-online-umfrage-02.jpg" />
+  <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-online-umfrage-03.jpg" />
+  <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-online-umfrage-04.jpg" />
+  <figcaption>Auswertung der Online-Fragebogen</figcaption>
+</figure>
 
 ### Altstadt - Straßencafés und Einkauf
 Die Altstadt ist die Kernstadt – geprägt durch Buntheit, pulsierende Lebendigkeit und Besucher. Hier trifft man sich in Cafés und Kneipen, hier bieten Gastronomie und Handel ein buntes Angebot. Aber hier wohnen nur wenige Studierende, trotz des recht guten Angebots an Wohnungen. Grünflächen fehlen fast völlig.
