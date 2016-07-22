@@ -66,5 +66,10 @@ Das aus­gewählte Land wird in der Weltkarte oberhalb angezeigt.
 
 <figure>
   <img src="{{ site.urlimg }}/DiagrammAll.jpg" />
-  <figcaption >Anzahl der Satellitenarten </figcaption>
+  <figcaption >Gesamtanzahl der Satellitenarten </figcaption>
+</figure>
+
+<figure>
+  <img src="{{ site.urlimg }}/diagramm.jpg" />
+  <figcaption >globale Informationen</figcaption>
 </figure>
