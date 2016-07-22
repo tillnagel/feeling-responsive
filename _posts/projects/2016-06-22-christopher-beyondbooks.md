@@ -11,23 +11,62 @@ image:
     title: beyondthebooks/christopher-beyond-the-books-teaser.jpg
     caption: Modell des Stadtplans mit Projektion
 author: Christopher David Lane
+
+gallery:
+    - image_url: /beyondthebooks/christopher-beyond-the-books-online-umfrage-01.jpg
+      caption: Modellbau Einblicke
+    - image_url: /beyondthebooks/christopher-beyond-the-books-modellbau-003.jpg
+    - image_url: /beyondthebooks/christopher-beyond-the-books-modell-005.jpg
+    - image_url: /beyondthebooks/christopher-beyond-the-books-modell-01.jpg
+
+gallery2:
+    - image_url: /beyondthebooks/christopher-beyond-the-books-modell-006.jpg
+      caption: Auswertung der Online-Umfrage mit Codifizierung
+    - image_url: /beyondthebooks/christopher-beyond-the-books-modell-006.jpg
+    - image_url: /beyondthebooks/christopher-beyond-the-books-online-umfrage-02.jpg
+    - image_url: /beyondthebooks/christopher-beyond-the-books-online-umfrage-03.jpg
+    - image_url: /beyondthebooks/christopher-beyond-the-books-online-umfrage-04.jpg
 ---
 
 Studieren ist nicht alles. Wie nehmen Studierende die Stadt wahr, in der sie studieren und leben? Gibt es ausreichende Freizeitmöglichkeiten und Grünflächen für die Zeit nach den Vorlesungen, Kursen und Seminaren? Und mehr noch: vermittelt die Stadt Halle in ihrer Gesamtheit ein allgemeines Lebensgefühl? Wie „fühlt“ man sich hier? Das hängt von vielen Faktoren ab, zu denen jedenfalls die Freizeitangebote, die Qualität der Gebiete zur Naherholung, die bauliche Substanz, die öffentliche Infrastruktur und nicht zuletzt der allgemeine Zustand der Stadt und ihre Sauberkeit gehören. Mit dieser Untersuchung möchte ich dem Lebensgefühl in Halle auf die Spur kommen.
 
+<div class="flex-video">
+<iframe src="https://player.vimeo.com/video/174828769" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
-## Erhebungsmethoden
+Ich stütze meine Untersuchung auf objektive und subjektive Quellen. Als Daten-Grundlage dienen mir statistische Angaben der Stadt, und zwar insbesondere zur Wohnungssituation und zum Anteil der Grünflächen an der Gesamtfläche, jeweils aufgeschlüsselt nach Stadtvierteln. Diese setze ich in Beziehung zu Erkenntnissen aus eigenen Recherchen bei Studierenden der Burg Giebichenstein Kunsthochschule. Ich möchte herausfinden und visuell veranschaulichen, ob die auf der Grundlage der statistischen Daten möglichen und naheliegenden Hypothesen zum „Lebensgefühl“ in Halle mit den subjektiven Einschätzungen der Studierenden übereinstimmen, die ich insoweit als Gruppe der Einwohnerschaft herausgegriffen habe.
+
+Die subjektiven Einschätzungen der Studierenden zum Leben in Halle kennenzulernen erforderte eine Kontaktaufnahme mit ihnen. Dazu diente einerseits eine Online-Umfrage. Andererseits führte ich zusätzlich bei einem kleineren Teilnehmerkreis eine erweiterte Umfrage durch, unter Verwendung sog. Cultural Probes. Diese besondere Form einer Befragung lässt im Rahmen von erweiterten Aufgabenstellungen mehr Raum für Eigeninitiative und für eigene kreative Beiträge zur visuellen Verdeutlichung der Antworten.
+
+
+Gegenstand der Online-Umfrage waren Fragen bezogen auf die Sauberkeit der Stadtviertel, den allgemeinen und den baulichen Zustand der öffentlichen und privaten Bauten und Verkehrswege. Zum anderen zielten die Fragen auf die Erholungs- und Freizeitmöglichkeiten sowie insbesondere die Verfügbarkeit von Grünflächen. Zum Abschluss sollten die Teilnehmer zum Ausdruck bringen, in welchem Stadtviertel sie sich am liebsten aufhalten.
+
+Diese Fragestellungen sind auch Gegenstand der Cultural Probes. Zudem sollten die Teilnehmenden   durch eine besondere mediale Gestaltung zu kreativem Eigenengagement, unter anderem die Herstellung von Fotos und Collagen, inspiriert werden, ihre subjektiven Einschätzungen zu visualisieren. Dadurch sollte die Möglichkeit gegeben werden, die emotionalen Gesichtspunkte stärker als bei einer rein textlichen Beantwortung der Fragen in den Vordergrund treten zu lassen. Außerdem erhoffte ich mir davon Aufschlüsse, ob sich hierdurch im Vergleich zur Online-Umfrage womöglich völlig neue, so nicht erwartete Erkenntnisse ergäben.
+
+Für die visuelle Umsetzung entschied ich mich auf der Grundlage der gesammelten Daten dafür, die Erkenntnisse zum Lebensgefühl in Halle auf einem plastischen und abstrakten Stadtplan-Modell zu veranschaulichen, auf dem die Flächen der einzelnen Stadtviertel jeweils entsprechend ihrer Beliebtheit durch unterschiedliche Höhen hervorgehoben sind. Zugleich dienen die räumlich voneinander abgegrenzten Stadtviertel als Projektionsfläche zur Visualisierung der gewonnenen Daten. Zur Veranschaulichung der Lebensverhältnisse in den Stadtteilen werden die von den Teilnehmern angefertigten Fotos und Collagen ebenfalls dort projiziert. So können die abstrakten Ergebnisse auch optisch einem spezifischen Stadtviertel zugeordnet und dieses durch sie charakterisiert werden.
+
+
+## Erhebungsmethoden im Detail
+
+<figure>
+  <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-quantitaet.jpg" />
+  <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-qualitaet.jpg" />
+  <figcaption>Bewertung der Daten nach Quantität und Qualität der Daten</figcaption>
+</figure>
+
 
 ### Online-Umfrage
 Die Online-Umfrage erbrachte wegen der großen Zahl der 163 Befragten den größten Datensatz. Die Fragen wurden als Online-Fragebogen zugänglich gemacht; sie konnten über einen Link aufgerufen werden, der den Studierenden per Email übermittelt wurde. Bei den Fragen handelte es sich um eine Mischung aus eindimensionalen Fragen, die eindeutig zu beantworten waren, und „offenen“ Fragen, zu denen die Befragten ganz subjektive, letztlich nur durch das Thema begrenzte Ausführungen machen konnten. Außerdem sollten die Teilnehmenden ihrem Stadtviertel Farben und Bilder mit ganz unterschiedlichen Motiven zuordnen. Dadurch war Raum gegeben für emotionale und assoziative Einschätzungen.
 
-### Cultural Probes
+{% include gallery %}
 
+### Cultural Probes
 An 10 Studierende, mit denen ich jeweils persönlich Kontakt aufgenommen hatte, händigte ich Cultural Probes aus. Sie sollten es ermöglichen, mehr über das Leben und das Lebensgefühl in den jeweiligen Stadtvierteln zu erfahren.
 
 <figure>
   <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-cultural-probe-02.jpg" />
   <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-cultural-probe-01.jpg" />
+  <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-cultural_probe_inhalte.gif" />
   <figcaption >Aufgabenheft für die Cultural Probes</figcaption>
 </figure>
 
@@ -51,6 +90,7 @@ Die statistischen Daten und die Ergebnisse aus meinen Erhebungen lassen, wenn ma
 
 Aufgrund der Daten konzentriert sich die Visualisierung auf diejenigen Stadtviertel, in denen die große Mehrheit der Studierenden wohnt und zu denen aussagekräftige Antworten und Einschätzungen vorliegen. Dies sind die Stadtviertel Altstadt, Nördliche Innenstadt, Paulusviertel, Giebichenstein und Südliche Innenstadt, mit Einschränkungen auch die Saalaue. Die übrigen Stadtviertel kommen wegen der zu geringen Zahl der Erkenntnisse für eine aussagekräftige Auswertung nicht in Betracht.
 
+
 Die Visualisierung durch Projektion der Umfrage-Ergebnisse auf das Stadtplan-Modell, in dem diese Stadtviertel plastisch hervorgehoben und voneinander abgegrenzt sind, fokussiert vorrangig die Beliebtheit der Stadtviertel, gemessen an den Indikatoren „Grünanteil“, „Freizeitmöglichkeiten“ und „Lebensgefühl“. Dass gerade diese Indikatoren für die Charakterisierung der Stadtviertel maßgebend sind, legten die Ergebnisse der Umfragen und Aufgabenstellungen nahe. Gerade aus den Äußerungen der Studierenden im Rahmen der offenen Fragen und Aufgabenstellungen ergab sich, dass im Grunde das „Lebensgefühl“ in jedem Stadtviertel durch jeweils nur wenige, aber spezifische Aspekte geprägt und gekennzeichnet ist, die in einer Mehrzahl von Antworten übereinstimmend angeführt werden. Auf diese Weise wird ein durch die Angaben übereinstimmend wiedergegebener Charakter des Stadtviertels deutlich, welcher das Viertel gleichsam prägt und es so gegenüber den anderen Vierteln hervorhebt.
 
 <figure>
@@ -67,9 +107,6 @@ Daraus ergibt sich für mich zweierlei: Allein der Umfang des Angebots an Wohnun
 
 Auffallend ist allerdings auch: Die spezifische Charakterisierung der zentrumsnahen Stadtviertel führt nicht dazu, dass die Studierenden ihre Freizeitaktivitäten auf „ihre“ Viertel beschränken. Insbesondere was die Erholungsmöglichkeiten in der Natur angeht, werden Giebichenstein, Paulusviertel und Nördliche Innenstadt nahezu gleichermaßen als attraktiv angesehen, selbst wenn sie nur ein unzureichendes Angebot an nutzbaren Grünflächen bieten – dies wird jeweils durch die gute und schnelle Erreichbarkeit von Grünflächen in anderen Vierteln, insbesondere die Saalaue und die Peißnitzinsel, kompensiert. Der Mangel an Grün im Stadtviertel führt mithin in der subjektiven Einschätzung der Studierenden nicht zu einer negativen Bewertung des Viertels. Darin zeigt sich der Effekt einer mittleren Großstadt wie Halle, die selbst zentrumsnah großflächig Erholungsmöglichkeiten im Grünen bietet, die wegen der überschaubaren Größe der Stadt leicht zu erreichen sind.
 
-<div class="flex-video">
-<iframe src="https://player.vimeo.com/video/174828769" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
 
 ### Altstadt - Straßencafés und Einkauf
 Die Altstadt ist die Kernstadt – geprägt durch Buntheit, pulsierende Lebendigkeit und Besucher. Hier trifft man sich in Cafés und Kneipen, hier bieten Gastronomie und Handel ein buntes Angebot. Aber hier wohnen nur wenige Studierende, trotz des recht guten Angebots an Wohnungen. Grünflächen fehlen fast völlig.
@@ -93,3 +130,5 @@ Hier wohnt man nicht, denn es gibt hier nur wenige Wohnungen. Aber hier verbring
 
 ## Fazit
 Durch die unterschiedlichen Erhebungsmethoden konnte ich auch emotionale und im Vorfeld nicht unbedingt absehbare Erkenntnisse gewinnen, die Fragen und Aufgabenstellungen deckten ein breiteres Spektrum von Faktoren für die Bewertung des Lebensgefühls ab als es reine kognitive Erhebungen ermöglicht hätten. (Wahrnehmung von Individuen). Daher ermöglicht meine Arbeit einen erweiterten Zugang zu subjektiven, irrrationalen, kreativen und assoziativen Elementen menschlicher Einschätzungen. Meine Arbeit erhebt nicht den Anspruch auf wissenschaftliche Genauigkeit und stellt somit einen groben Überblick dar.
+
+{% include gallery2 %}
