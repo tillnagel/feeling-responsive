@@ -13,7 +13,7 @@ image:
 author: Alex Kaatz
 ---
 
-Jeder kennt das: man streift mal wieder durch die Webseiten seiner Lieblingsbands um nach aktuellen Daten ihrer Tour zu suchen. Das erste was man dabei findet sind mal mehr, mal weniger lange Listen mit Namen von Städten die einem mal mehr, mal weniger bekannt sind. Der nächste Schritt ist dann meist noch über diverse Anbieter zu gucken, wo die einzelnen Städte liegen, und ob sich nicht doch der eine oder ander unbekannter Name im näherem Umfeld liegt. Um dieses Problem zu beheben, kam mir der Gedanke beides in einer Anwendung zu vereinen. So entstand der TourTracker. Dieser ist eine Anwendung für Fans und Supporter, sich die Tourtermine ihrer Bands anzeigen zu lassen. Jeder Termin wird gleich als Wegpunkt auf einer Karte angezeigt. Die Anwendung erleichtert somit das Auffinden von Konzerten in der Nähe. Die Punkte sind in chronologischer Reihenfolge verbunden und dabei durch eine Farbkodierung in vergangene und noch austehende Auftritte unterscheidbar. Über den Kalender kann man sich Daten auf zwei verschiedene Arten eingrenzen lassen. In der ersten Ansicht, gleich nach dem Öffnen einer Tour, werden alle Daten angezeigt. Mit Klick auf einen Monat filtert der TourTracker alle Daten heraus, und es werden nurnoch Daten dieses Monats angezeigt.
+Jeder kennt das: man streift mal wieder durch die Webseiten seiner Lieblingsbands um nach aktuellen Daten ihrer Tour zu suchen. Das erste was man dabei findet sind mal mehr, mal weniger lange Listen mit Namen von Städten die einem mal mehr, mal weniger bekannt sind. Der nächste Schritt ist dann meist noch über diverse Anbieter zu gucken, wo die einzelnen Städte liegen, und ob sich nicht doch der eine oder andere unbekannte Name im näherem Umfeld befindet. Um dieses Problem zu beheben, kam mir der Gedanke beides in einer Anwendung zu vereinen. So entstand der TourTracker. Dieser ist eine Anwendung für Fans und Supporter, sich die Tourtermine ihrer Bands anzeigen zu lassen. Jeder Termin wird gleich als Wegpunkt auf einer Karte angezeigt. Die Anwendung erleichtert somit das Auffinden von Konzerten in der Nähe. Die Punkte sind in chronologischer Reihenfolge verbunden und dabei durch eine Farbkodierung in vergangene und noch austehende Auftritte unterschieden. Über den Kalender kann man sich Daten auf zwei verschiedene Arten eingrenzen lassen. In der ersten Ansicht, gleich nach dem Öffnen einer Tour, werden alle Daten angezeigt. Mit Klick auf einen Monat filtert der TourTracker alle Daten heraus, und es werden nurnoch Daten dieses Monats angezeigt.
 
 ## Visualization Design
 
@@ -45,7 +45,7 @@ Der Nutzer kann aber auch zu einer andern Ansicht der Kalenders wechseln, um sic
 
 <figure>
   <img src="{{ site.urlimg }}/TourTracker/Tourtracker_Kalender_02.jpg" />
-  <figcaption >Standart Kalenderansicht und Auswähl des Monats August</figcaption>
+  <figcaption >Standart Kalenderansicht und die weiter Ansicht mit Slider</figcaption>
 </figure>
 
 <figure>
@@ -66,5 +66,5 @@ Des weiteren wird es noch eine Anzeige von Informationen zu den Touren geben. Da
 
 <figure>
   <img src="{{ site.urlimg }}/TourTracker/Tourtracker_Statistiken.jpg" />
-  <figcaption >The Rumjacks Tour 2016 mit ausgewählten Daten vom August</figcaption>
+  <figcaption >Gegenüberstellung der Touren 2015 und 2016 von Kapelle Petra und Tortendiagramme der 2016 Tour von The Rumjacks</figcaption>
 </figure>
