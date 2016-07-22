@@ -11,21 +11,6 @@ image:
     title: beyondthebooks/christopher-beyond-the-books-teaser.jpg
     caption: Modell des Stadtplans mit Projektion
 author: Christopher David Lane
-
-gallery:
-    - image_url: /beyondthebooks/christopher-beyond-the-books-online-umfrage-01.jpg
-      caption: Modellbau Einblicke
-    - image_url: /beyondthebooks/christopher-beyond-the-books-modellbau-003.jpg
-    - image_url: /beyondthebooks/christopher-beyond-the-books-modell-005.jpg
-    - image_url: /beyondthebooks/christopher-beyond-the-books-modell-01.jpg
-
-gallery2:
-    - image_url: /beyondthebooks/christopher-beyond-the-books-modell-006.jpg
-      caption: Auswertung der Online-Umfrage mit Codifizierung
-    - image_url: /beyondthebooks/christopher-beyond-the-books-modell-006.jpg
-    - image_url: /beyondthebooks/christopher-beyond-the-books-online-umfrage-02.jpg
-    - image_url: /beyondthebooks/christopher-beyond-the-books-online-umfrage-03.jpg
-    - image_url: /beyondthebooks/christopher-beyond-the-books-online-umfrage-04.jpg
 ---
 
 Studieren ist nicht alles. Wie nehmen Studierende die Stadt wahr, in der sie studieren und leben? Gibt es ausreichende Freizeitmöglichkeiten und Grünflächen für die Zeit nach den Vorlesungen, Kursen und Seminaren? Und mehr noch: vermittelt die Stadt Halle in ihrer Gesamtheit ein allgemeines Lebensgefühl? Wie „fühlt“ man sich hier? Das hängt von vielen Faktoren ab, zu denen jedenfalls die Freizeitangebote, die Qualität der Gebiete zur Naherholung, die bauliche Substanz, die öffentliche Infrastruktur und nicht zuletzt der allgemeine Zustand der Stadt und ihre Sauberkeit gehören. Mit dieser Untersuchung möchte ich dem Lebensgefühl in Halle auf die Spur kommen.
@@ -48,17 +33,15 @@ Für die visuelle Umsetzung entschied ich mich auf der Grundlage der gesammelten
 
 ## Erhebungsmethoden im Detail
 
-<figure>
-  <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-quantitaet.jpg" />
-  <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-qualitaet.jpg" />
-  <figcaption>Bewertung der Daten nach Quantität und Qualität der Daten</figcaption>
-</figure>
-
 
 ### Online-Umfrage
 Die Online-Umfrage erbrachte wegen der großen Zahl der 163 Befragten den größten Datensatz. Die Fragen wurden als Online-Fragebogen zugänglich gemacht; sie konnten über einen Link aufgerufen werden, der den Studierenden per Email übermittelt wurde. Bei den Fragen handelte es sich um eine Mischung aus eindimensionalen Fragen, die eindeutig zu beantworten waren, und „offenen“ Fragen, zu denen die Befragten ganz subjektive, letztlich nur durch das Thema begrenzte Ausführungen machen konnten. Außerdem sollten die Teilnehmenden ihrem Stadtviertel Farben und Bilder mit ganz unterschiedlichen Motiven zuordnen. Dadurch war Raum gegeben für emotionale und assoziative Einschätzungen.
 
-{% include gallery %}
+<figure>
+  <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-quantitaet.jpg" />
+  <figcaption>Bewertung der Daten nach Quantität und Qualität der Daten</figcaption>
+</figure>
+
 
 ### Cultural Probes
 An 10 Studierende, mit denen ich jeweils persönlich Kontakt aufgenommen hatte, händigte ich Cultural Probes aus. Sie sollten es ermöglichen, mehr über das Leben und das Lebensgefühl in den jeweiligen Stadtvierteln zu erfahren.
@@ -79,6 +62,11 @@ An 10 Studierende, mit denen ich jeweils persönlich Kontakt aufgenommen hatte, 
 Cultural Probes stellen eine Methode zur Erhebung von Daten über Personen und ihre Einschätzungen dar, die nicht auf direkter Beobachtung beruht, wie etwa die herkömmlichen Feldstudien, sondern auf eigenen und unmittelbaren Einschätzungen der Teilnehmenden. Es werden Fragen und Aufgaben gestellt, die auch die schöpferische und intuitive Kompetenz ansprechen, um die Teilnehmenden auch zu emotionalen oder inspirativen Antworten anzuregen. Die Methode stammt aus der Praxis des Industriedesigns und wird dort meist zu Beginn eines Design-Prozesses genutzt, um im Rahmen der Kreation von gestalterischen Konzepten Ideen für Technologie-Anwendungen entwickeln zu können, mit denen Verbesserungen für die Lebensverhältnisse auf neue und emotional wahrnehmbare Weise erreicht werden (W. Gaver, A. Boucher, S. Pennington und B. Walker.  _Cultural Probes and the Value of Uncertainty_, ACM Interactions, 2004). Sie schien mir für meine Erkenntnisziele im Rahmen des Projekts sehr geeignet, um in gegenüber der Online-Umfrage erweiterter Weise assoziative und kreative Aspekte in die Erhebung einfließen zu lassen.
 
 Die Probes bestanden aus einem Päckchen mit einem Aufgabenheft, welches die Fragen und Aufgaben enthielt, und zusätzlichen Materialien und Hilfsmitteln: einem Stadtplan und einem Verzeichnis der Stadtviertel; Postkarten, die die Studierenden mit Aussagen zu Charakteristika des Stadtviertels fiktiv an Freunde schicken; einer Einweg-Kamera zur Anfertigung von Fotografien; farbigen Etiketten, Foto-Schnipsel und Stifte. Durch die Zuordnung von Farben und Fotos zum Stadtviertel sollten die emotionalen Bewertungen zum Ausdruck gebracht werden. Zur Kontrolle und quasi als Checkliste der Aufgabenerledigung lag ein „Aktivitäts-Bingo“ bei, auf dem die erledigten Aufgaben markiert werden konnten. Schließlich enthielt das Päckchen auch kleine „Belohnungen“ (Süßigkeiten, Tee, Energieriegel). So ausgerüstet, hatten die Studierenden eine Woche Zeit, um ihr Stadtviertel zu charakterisieren.
+
+<figure>
+  <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-qualitaet.jpg" />
+  <figcaption>Bewertung der Daten nach Quantität und Qualität der Daten</figcaption>
+</figure>
 
 ## Auswertung der Ergebnisse
 Die statistischen Daten und die Ergebnisse aus meinen Erhebungen lassen, wenn man sie zueinander in Beziehung setzt, ganz unterschiedliche Schlüsse zu, für die sich ebenso vielfältige Formen anbieten, sie zu visualisieren. Ich entschied mich dafür, mich bei der Visualisierung vor allem auf die subjektiv-emotionale Charakterisierung der Stadtviertel durch die Studierenden zu konzentrieren und sie, soweit möglich, zu den objektiven Erkenntnissen in Beziehung zu setzen, die das statistische Zahlenmaterial dokumentiert.
@@ -130,5 +118,3 @@ Hier wohnt man nicht, denn es gibt hier nur wenige Wohnungen. Aber hier verbring
 
 ## Fazit
 Durch die unterschiedlichen Erhebungsmethoden konnte ich auch emotionale und im Vorfeld nicht unbedingt absehbare Erkenntnisse gewinnen, die Fragen und Aufgabenstellungen deckten ein breiteres Spektrum von Faktoren für die Bewertung des Lebensgefühls ab als es reine kognitive Erhebungen ermöglicht hätten. (Wahrnehmung von Individuen). Daher ermöglicht meine Arbeit einen erweiterten Zugang zu subjektiven, irrrationalen, kreativen und assoziativen Elementen menschlicher Einschätzungen. Meine Arbeit erhebt nicht den Anspruch auf wissenschaftliche Genauigkeit und stellt somit einen groben Überblick dar.
-
-{% include gallery2 %}
