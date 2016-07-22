@@ -26,6 +26,14 @@ Die Grundlage der Visualisierung basiert auf drei Fragestellungen. Wie viele Sat
 
 <div class="flex-video"><iframe src="https://player.vimeo.com/video/175610396" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
+
+
+## Umsetzung
+
+    Programmierung in Processing
+    Cinema 4D Animation des Startbildschirm
+    Farbkorrektur und Layout der Animation wurde in Adobe After Effect umgesetzt
+
 ## Prototypen
 
 <figure>
@@ -62,9 +70,3 @@ Desweiteren wird ein radiales „Chord Diagramm“ angezeigt, was die Kooperatio
   <img src="{{ site.urlimg }}/diagramm.jpg" />
   <figcaption >globale Informationen</figcaption>
 </figure>
-
-## Umsetzung
-
-    Programmierung in Processing
-    Cinema 4D Animation des Startbildschirm
-    Farbkorrektur und Layout der Animation wurde in Adobe After Effect umgesetzt
