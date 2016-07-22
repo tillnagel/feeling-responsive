@@ -15,6 +15,14 @@ author: Jingjiao Shi &amp; Yue Su
 
 Die Motivation unseres Projekts ist Menschen zu helfen, die an den veschiedenen, ausländischen Essenskulturen in Berlin interessiert sind und sie kennen lernen wollen. Wir untersuchten, ob ein Zusammenhang der Bevökerungsdichte und der Esskultur verschiedener Nationalitäten hinsichtlich der Verbreitung von Restaurants besteht.
 
+#### Prototyp
+Für die Umsetzung haben wir Daten über die Bevölkerungsdichten und über die Standorte der Restaurants von Acht verschiedenen Nationalitäten innerhalb von Berlin gesammelt. Wir haben jedem Land eine bestimmte Farbe zugeordnet.
+
+<figure>
+  <img src="{{ site.urlimg }}/essen/prototyp.jpg" />
+  <figcaption ></figcaption>
+</figure>
+
 <figure>
   <img src="{{ site.urlimg }}/essen/restaurants2.jpg" />
   <figcaption >Schema der Anwendung</figcaption>
@@ -30,13 +38,6 @@ Diese zeigen die Bevölkerungsdichte eines Landes und die dazugehörigen Standor
   <figcaption >Übersicht des Screens</figcaption>
 </figure>
 
-## Prototyp
-Für die Umsetzung haben wir Daten über die Bevölkerungsdichten und über die Standorte der Restaurants von Acht verschiedenen Nationalitäten innerhalb von Berlin gesammelt. Wir haben jedem Land eine bestimmte Farbe zugeordnet.
-
-<figure>
-  <img src="{{ site.urlimg }}/essen/prototyp.jpg" />
-  <figcaption ></figcaption>
-</figure>
 
 ## Datenvisualisierung
 Um mehrere Ansichten zu vergleichen nutzen wir einen Barchart. Man geht von der Barcharts aus, dass es am meisten italienische Restaurants gibt. Im gegensatz dazu hat die Türkei die größte Bevölkerungsanzahl. Viele Menschen aus Russland und Polen leben auch in Berlin, aber es gibt sehr wenige russische oder polnische Restaurants. Aus diesem Grunde vermuten wir, dass das polnische Essen vielleicht sehr ählich wie das deutsche Essen. Es ist aber erwähnenswert, dass China auf dem dritten Platz der Restaurants liegt, im Bevölkerungsranking belegt China jedoch den vorletzten Platz.
