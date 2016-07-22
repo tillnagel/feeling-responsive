@@ -51,14 +51,12 @@ Um mehrere Ansichten zu vergleichen nutzen wir einen Barchart. Man geht von der 
   <figcaption >Datenvisualisierung</figcaption>
 </figure>
 
-Die Verteilung der italienischen Restaurants und Bevölkerung sind sehr ähnlich. Sie sind meistens im Zentrum der Stadt. Und das ist genau was wir früher dachten.
-
 <figure>
   <img src="{{ site.urlimg }}/essen/daten2.jpg" />
   <figcaption >Datenvisualisierung</figcaption>
 </figure>  
 
-Es ist uns auffallend, dass in einer bestimmten Region türkische Restaurants uns einen Hinweis auf die Straßen und ihren Verlauf geben. Wenn wir uns auf der Google Karte diesen Teil mal anschauen, sehen wir, dass es sich um die Straßen Kottbusserstrasse, Kottbusser Damm, sowie Hernmannstrasse handelt. In diesen Regionen wohnen auch viele Menschen aus Türkei. Wir nehmen an, dass diese Straßen vielleicht nicht Hauptstraßen sind. Es händelt sich womöglich vielmehr um kleine Restaurants oder Fastfood Restaurants. Außdem wenn wir genauer hinsehen, erkennen wir für die türkische Bevölkerung eine harte Grenze entlang der ehemaligen Berliner Mauer. Ähnliches Beispiel ist Polen.
+Die Verteilung der italienischen Restaurants und Bevölkerung sind sehr ähnlich. Sie sind meistens im Zentrum der Stadt. Und das ist genau was wir früher dachten. Es ist uns auffallend, dass in einer bestimmten Region türkische Restaurants uns einen Hinweis auf die Straßen und ihren Verlauf geben. Wenn wir uns auf der Google Karte diesen Teil mal anschauen, sehen wir, dass es sich um die Straßen Kottbusserstrasse, Kottbusser Damm, sowie Hernmannstrasse handelt. In diesen Regionen wohnen auch viele Menschen aus Türkei. Wir nehmen an, dass diese Straßen vielleicht nicht Hauptstraßen sind. Es händelt sich womöglich vielmehr um kleine Restaurants oder Fastfood Restaurants. Außdem wenn wir genauer hinsehen, erkennen wir für die türkische Bevölkerung eine harte Grenze entlang der ehemaligen Berliner Mauer. Ähnliches Beispiel ist Polen.
 
 <figure>
   <img src="{{ site.urlimg }}/essen/daten3.jpg" />
