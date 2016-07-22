@@ -9,7 +9,7 @@ categories:
     - projects
 image:
     title: titlepic.jpg
-    caption: Schema der Anwendung
+    caption:
 author: Jingjiao Shi &amp; Yue Su
 ---
 
@@ -17,7 +17,7 @@ Die Motivation unseres Projekts ist Menschen zu helfen, die an den veschiedenen,
 
 <figure>
   <img src="{{ site.urlimg }}/essen/restaurants2.jpg" />
-  <figcaption >Übersicht der Screens</figcaption>
+  <figcaption >Schema der Anwendung</figcaption>
 </figure>
 
 Für unsere Anwendung haben wir die Daten der Bevölkerungsdichte und dir Standorte der Restaurants acht verschiedener Nationalitäten in Berlin gesammelt. Die Nationalitäten werden verschiedenfarbig angezeigt. Bei der interaktiven Anwendung werden auf der linken Seite Buttons angezeigt.
@@ -27,7 +27,7 @@ Diese zeigen die Bevölkerungsdichte eines Landes und die dazugehörigen Standor
 
 <figure>
   <img src="{{ site.urlimg }}/essen/exhi.jpg" />
-  <figcaption >Die Darstellung von acht Nationen</figcaption>
+  <figcaption >Übersicht des Screens</figcaption>
 </figure>
 
 ## Prototyp
@@ -35,30 +35,35 @@ Für die Umsetzung haben wir Daten über die Bevölkerungsdichten und über die 
 
 <figure>
   <img src="{{ site.urlimg }}/essen/prototyp.jpg" />
-  <figcaption >Prototyp</figcaption>
+  <figcaption ></figcaption>
 </figure>
 
 ## Datenvisualisierung
 Um mehrere Ansichten zu vergleichen nutzen wir einen Barchart. Man geht von der Barcharts aus, dass es am meisten italienische Restaurants gibt. Im gegensatz dazu hat die Türkei die größte Bevölkerungsanzahl. Viele Menschen aus Russland und Polen leben auch in Berlin, aber es gibt sehr wenige russische oder polnische Restaurants. Aus diesem Grunde vermuten wir, dass das polnische Essen vielleicht sehr ählich wie das deutsche Essen. Es ist aber erwähnenswert, dass China auf dem dritten Platz der Restaurants liegt, im Bevölkerungsranking belegt China jedoch den vorletzten Platz.
 
 <figure>
+  <img src="{{ site.urlimg }}/essen/barchart.jpg" />
+  <figcaption ></figcaption>
+</figure>
+
+<figure>
   <img src="{{ site.urlimg }}/essen/restaurants.jpg" />
-  <figcaption >Schema der Anwendung</figcaption>
+  <figcaption >Datenvisualisierung von der acht Nationen </figcaption>
 </figure>
 
 <figure>
   <img src="{{ site.urlimg }}/essen/daten1.jpg" />
-  <figcaption >Datenvisualisierung</figcaption>
+  <figcaption >Verteilung italienischer Restaurants und der Dichter der Bevölkerung mit italienischen Migrationshintergrund</figcaption>
 </figure>
 
 <figure>
   <img src="{{ site.urlimg }}/essen/daten2.jpg" />
-  <figcaption >Datenvisualisierung</figcaption>
+  <figcaption >Verteilung türkischer Restaurants und der Dichter der Bevölkerung mit türkischen Migrationshintergrund</figcaption>
 </figure>  
 
 <figure>
   <img src="{{ site.urlimg }}/essen/daten3.jpg" />
-  <figcaption >Datenvisualisierung</figcaption>
+  <figcaption >Verteilung vietnamesischer Restaurants und der Dichter der Bevölkerung mit vietnamesischen Migrationshintergrund</figcaption>
 </figure>
 
 Die Verteilung der italienischen Restaurants und Bevölkerung sind sehr ähnlich. Sie sind meistens im Zentrum der Stadt. Und das ist genau was wir früher dachten. Es ist uns auffallend, dass in einer bestimmten Region türkische Restaurants uns einen Hinweis auf die Straßen und ihren Verlauf geben. Wenn wir uns auf der Google Karte diesen Teil mal anschauen, sehen wir, dass es sich um die Straßen Kottbusserstrasse, Kottbusser Damm, sowie Hernmannstrasse handelt. In diesen Regionen wohnen auch viele Menschen aus Türkei. Wir nehmen an, dass diese Straßen vielleicht nicht Hauptstraßen sind. Es händelt sich womöglich vielmehr um kleine Restaurants oder Fastfood Restaurants. Außdem wenn wir genauer hinsehen, erkennen wir für die türkische Bevölkerung eine harte Grenze entlang der ehemaligen Berliner Mauer. Ähnliches Beispiel ist Polen.
