@@ -50,7 +50,7 @@ An 10 Studierende, mit denen ich jeweils persönlich Kontakt aufgenommen hatte, 
   <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-cultural-probe-02.jpg" />
   <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-cultural-probe-01.jpg" />
   <img src="{{ site.urlimg }}/beyondthebooks/christopher-beyond-the-books-cultural_probe_inhalte.gif" />
-  <figcaption >Aufgabenheft für die Cultural Probes</figcaption>
+  <figcaption >Cultural Probe</figcaption>
 </figure>
 
 <figure>
