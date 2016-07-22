@@ -15,6 +15,11 @@ author: Jingjiao Shi &amp; Yue Su
 
 Die Motivation unseres Projekts ist Menschen zu helfen, die an den veschiedenen, ausländischen Essenskulturen in Berlin interessiert sind und sie kennen lernen wollen. Wir untersuchten, ob ein Zusammenhang der Bevökerungsdichte und der Esskultur verschiedener Nationalitäten hinsichtlich der Verbreitung von Restaurants besteht.
 
+<figure>
+  <img src="{{ site.urlimg }}/essen/restaurants2.jpg" />
+  <figcaption >Übersicht der Screens</figcaption>
+</figure>
+
 Für unsere Anwendung haben wir die Daten der Bevölkerungsdichte und dir Standorte der Restaurants acht verschiedener Nationalitäten in Berlin gesammelt. Die Nationalitäten werden verschiedenfarbig angezeigt. Bei der interaktiven Anwendung werden auf der linken Seite Buttons angezeigt.
 
 Diese zeigen die Bevölkerungsdichte eines Landes und die dazugehörigen Standorte der Restaurants an. Zum Vergleich werden die Daten anderer Nationalitäten dargestellt. Bei der Anwendung, auf die Buttons links klickt, werden die Bevölkerungsdichten einer Nationalität und die Standorte der dazugehörigen Restaurants angezeigt. Bewegt man die Maus über die anderen Buttons, werden die dazugehörigen Restaurants angezigt. Man kann in die Karte hineinzoomen, um Standtorte besser zu erkennen. Mit der Maus kann man in der Karte navigieren, dabei werden die Namen der Bezirke Angezeigt. Aus dem Balkendiagramm kann man gleichzeitig die Anzahl der Restrants und der Bevölkerungsdichte der Bezirke ablesen. Dadurch werden die Beziehungen zwichen den Bevölkerungszahlen und der Anzahl bestimmter Restaurants in jedem Bezirk anschaulich dargestellt.
@@ -22,11 +27,6 @@ Diese zeigen die Bevölkerungsdichte eines Landes und die dazugehörigen Standor
 
 <figure>
   <img src="{{ site.urlimg }}/essen/exhi.jpg" />
-  <figcaption >Übersicht der Screens</figcaption>
-</figure>
-
-<figure>
-  <img src="{{ site.urlimg }}/essen/restaurants2.jpg" />
   <figcaption >Die Darstellung von acht Nationen</figcaption>
 </figure>
 
@@ -56,12 +56,12 @@ Um mehrere Ansichten zu vergleichen nutzen wir einen Barchart. Man geht von der 
   <figcaption >Datenvisualisierung</figcaption>
 </figure>  
 
-Die Verteilung der italienischen Restaurants und Bevölkerung sind sehr ähnlich. Sie sind meistens im Zentrum der Stadt. Und das ist genau was wir früher dachten. Es ist uns auffallend, dass in einer bestimmten Region türkische Restaurants uns einen Hinweis auf die Straßen und ihren Verlauf geben. Wenn wir uns auf der Google Karte diesen Teil mal anschauen, sehen wir, dass es sich um die Straßen Kottbusserstrasse, Kottbusser Damm, sowie Hernmannstrasse handelt. In diesen Regionen wohnen auch viele Menschen aus Türkei. Wir nehmen an, dass diese Straßen vielleicht nicht Hauptstraßen sind. Es händelt sich womöglich vielmehr um kleine Restaurants oder Fastfood Restaurants. Außdem wenn wir genauer hinsehen, erkennen wir für die türkische Bevölkerung eine harte Grenze entlang der ehemaligen Berliner Mauer. Ähnliches Beispiel ist Polen.
-
 <figure>
   <img src="{{ site.urlimg }}/essen/daten3.jpg" />
   <figcaption >Datenvisualisierung</figcaption>
 </figure>
+
+Die Verteilung der italienischen Restaurants und Bevölkerung sind sehr ähnlich. Sie sind meistens im Zentrum der Stadt. Und das ist genau was wir früher dachten. Es ist uns auffallend, dass in einer bestimmten Region türkische Restaurants uns einen Hinweis auf die Straßen und ihren Verlauf geben. Wenn wir uns auf der Google Karte diesen Teil mal anschauen, sehen wir, dass es sich um die Straßen Kottbusserstrasse, Kottbusser Damm, sowie Hernmannstrasse handelt. In diesen Regionen wohnen auch viele Menschen aus Türkei. Wir nehmen an, dass diese Straßen vielleicht nicht Hauptstraßen sind. Es händelt sich womöglich vielmehr um kleine Restaurants oder Fastfood Restaurants. Außdem wenn wir genauer hinsehen, erkennen wir für die türkische Bevölkerung eine harte Grenze entlang der ehemaligen Berliner Mauer. Ähnliches Beispiel ist Polen.
 
 Bei der vietnamesischen Bevölkerung sieht man, dass die meisten Menschen an der nord-östlichen Stadtgrenze wohnen, die Restaurants befinden sich jedoch im Zentrum der Stadt. Wir vermuten, dass es damit zutun hat, dass die Restaurants im Zentrum am meisten Menschen erreichen und wenige Menschen vietnamesischer Herkunft dort essen. Das heisst, sie bereiten hauptsächlich für Menschen anderer
 Herkunft Essen zu.
@@ -80,7 +80,7 @@ In Hinblick auf die Möglichkeit der Themen, die an unsere Arbeit anpassen könn
 </figure>
 
 ## Daten
-Overpass
-www.destatis.de/DE/Startseite.html
-www.bafa.de/bafa/de/
-https://www.statistik-berlin-brandenburg.de/
+* Overpass
+* www.destatis.de/DE/Startseite.html
+* www.bafa.de/bafa/de/
+* https://www.statistik-berlin-brandenburg.de/
