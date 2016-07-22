@@ -26,7 +26,7 @@ Diese zeigen die Bevölkerungsdichte eines Landes und die dazugehörigen Standor
 
 
 <figure>
-  <img src="{{ site.urlimg }}/essen/exhi.jpg" />
+  <img src="{{ site.urlimg }}/essen/exhibition.jpg" />
   <figcaption >Übersicht des Screens</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ Um mehrere Ansichten zu vergleichen nutzen wir einen Barchart. Man geht von der 
 
 <figure>
   <img src="{{ site.urlimg }}/essen/barchart.jpg" />
-  <figcaption ></figcaption>
+  <figcaption >Analyse vom Barchart</figcaption>
 </figure>
 
 <figure>
