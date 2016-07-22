@@ -31,8 +31,7 @@ Die Grundlage der Visualisierung basiert auf drei Fragestellungen. Wie viele Sat
 <br/><br/>
 <div class="flex-video"><iframe src="https://player.vimeo.com/video/175610396" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
-<br/><br/>
-
+<br/>
 
 ## Prototypen
 Meine interaktive Anwendung hat einen Startscreen. Der Startscreen wurde in Cinema 4D animiert und in Adobe After Effect farblich und typografisch bearbeitet.
