@@ -12,7 +12,7 @@ categories:
     - projects
 image:
     title: header.jpg
-    caption: Outer Space
+    caption: 
 author: Antonia Josefa Gluschak
 ---
 
