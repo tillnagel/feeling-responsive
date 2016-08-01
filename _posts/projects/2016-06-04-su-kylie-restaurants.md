@@ -43,7 +43,7 @@ Diese zeigen die Bevölkerungsdichte eines Landes und die dazugehörigen Standor
 Um mehrere Ansichten zu vergleichen nutzen wir einen Barchart. Man geht von der Barcharts aus, dass es am meisten italienische Restaurants gibt. Im gegensatz dazu hat die Türkei die größte Bevölkerungsanzahl. Viele Menschen aus Russland und Polen leben auch in Berlin, aber es gibt sehr wenige russische oder polnische Restaurants. Aus diesem Grunde vermuten wir, dass das polnische Essen vielleicht sehr ählich wie das deutsche Essen. Es ist aber erwähnenswert, dass China auf dem dritten Platz der Restaurants liegt, im Bevölkerungsranking belegt China jedoch den vorletzten Platz.
 
 <figure>
-  <img src="{{ site.urlimg }}/essen/barchart.jpg" />
+  <img src="{{ site.urlimg }}/essen/teil4.jpg" />
   <figcaption >Analyse vom Barchart</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ In Hinblick auf die Möglichkeit der Themen, die an unsere Arbeit anpassen könn
 </figure>
 
 <figure>
-  <img src="{{ site.urlimg }}/essen/experiment2.jpg" />
+  <img src="{{ site.urlimg }}/essen/experi.jpg" />
   <figcaption >Umrisse und Skizzen</figcaption>
 </figure>
 
