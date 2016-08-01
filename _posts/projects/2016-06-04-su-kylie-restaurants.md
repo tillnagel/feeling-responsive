@@ -63,7 +63,7 @@ Um mehrere Ansichten zu vergleichen nutzen wir einen Barchart. Man geht von der 
 </figure>  
 
 <figure>
-  <img src="{{ site.urlimg }}/essen/daten3.jpg" />
+  <img src="{{ site.urlimg }}/essen/daten4.jpg" />
   <figcaption >Verteilung vietnamesischer Restaurants und der Dichter der Bevölkerung mit vietnamesischen Migrationshintergrund</figcaption>
 </figure>
 
