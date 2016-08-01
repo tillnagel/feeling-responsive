@@ -53,7 +53,7 @@ Um mehrere Ansichten zu vergleichen nutzen wir einen Barchart. Man geht von der 
 </figure>
 
 <figure>
-  <img src="{{ site.urlimg }}/essen/daten6.jpg" />
+  <img src="{{ site.urlimg }}/essen/daten1.jpg" />
   <figcaption >Verteilung italienischer Restaurants und der Dichter der Bevölkerung mit italienischen Migrationshintergrund</figcaption>
 </figure>
 
